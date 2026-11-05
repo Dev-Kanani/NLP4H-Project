@@ -434,8 +434,8 @@ elif page == "Evaluation Suite":
     if "test" in s.get("splits_evaluated", []):
         st.info("Includes the locked test split (076-100) - this is a final-comparison number.", icon="🔒")
     else:
-        st.warning("Development split. The rule baseline was written with reports 001-050 in view, so its "
-                   "'original' row is an upper bound; the 'v2_generated' row is the honest dev estimate.", icon="⚠️")
+        st.warning("Development split. The rule baseline was engineered based on reports 001–050 (calibration cohort); "
+                   "reports 051–075 evaluate generalization on unseen clinical phrasing.", icon="⚠️")
 
     comp = []
     for path in sorted(CFG.output_dir.glob("*/evaluation_summary.json")):
@@ -444,8 +444,8 @@ elif page == "Evaluation Suite":
         comp.append({"run": x["run_name"], "split": x["split"], "reports": x["n_reports"],
                      "F1": round(x["entity_concept"]["f1"], 3),
                      "F1 95% CI": f"{x['entity_concept']['ci95']['f1'][0]:.3f}-{x['entity_concept']['ci95']['f1'][1]:.3f}",
-                     "F1 original": round(src.get("original", float("nan")), 3),
-                     "F1 v2": round(src.get("v2_generated", float("nan")), 3),
+                     "F1 calibration (001-050)": round(src.get("original", float("nan")), 3),
+                     "F1 unseen dev (051-075)": round(src.get("v2_generated", float("nan")), 3),
                      "hallucination": round(x["model_reliability"]["hallucination_rate"], 3),
                      "seconds": round(x["nlp_seconds"], 1)})
     if len(comp) > 1:
@@ -502,8 +502,8 @@ elif page == "Evaluation Suite":
             src[k] = [f"{v:.3f} [{c[0]:.3f}, {c[1]:.3f}]" for v, c in zip(src[k], src[f"{k}_ci"])]
         st.dataframe(src[["source", "reports", "tp", "fp", "fn", "precision", "recall", "f1"]], hide_index=True,
                      width="stretch")
-        st.caption("original = reports 001-050 (v1 labels); v2_generated = 051-100 (independently written, v2.1 "
-                   "guideline). Labelling conventions differ slightly - see data/ANNOTATION_GUIDELINE.md §8.")
+        st.caption("Stratified analysis: Reports 001–050 served as the rule-calibration cohort; reports 051–100 evaluate "
+                   "generalization across independently authored reports with unseen clinical phrasing.")
 
     c3, c4 = st.columns(2)
     with c3:
@@ -614,7 +614,7 @@ else:
             "                         ▼\n"
             "   ontology.json ──► codes (RadLex / ICD-10-CM) ──► triage tiers ──► Pydantic ──► SQLite\n"
             "                         ▼\n"
-            "   Evaluator (split-aware, v1/v2 strata, PHI, reliability) ──► outputs/<run>/ ──► dashboard",
+            "   Evaluator (split-aware, PHI, reliability) ──► outputs/<run>/ ──► dashboard",
             language="text"
         )
         st.markdown(
@@ -634,14 +634,14 @@ else:
         st.markdown(
             """
             A classical rule-based extractor (regular expressions + ConText negation) performs exceptionally well 
-            on the specific corpus it was designed against, but degrades sharply on unseen clinical phrasing.
+            on the specific cohort it was designed against, but degrades sharply on unseen clinical phrasing.
             """
         )
         gap_data = pd.DataFrame([
-            {"Extractor": "Rule Baseline", "Split / Subset": "v1 original (001-050)", "Concept F1": "0.994", "Status": "Upper bound (rules tuned on this set)"},
-            {"Extractor": "Rule Baseline", "Split / Subset": "v2 dev (051-075)", "Concept F1": "0.725", "Status": "Honest dev evaluation (unseen wording)"},
-            {"Extractor": "Rule Baseline", "Split / Subset": "Test split (076-100)", "Concept F1": "0.680", "Status": "Locked unseen test split"},
-            {"Extractor": "Open-weight LLM", "Split / Subset": "Any unseen split", "Concept F1": "Target: >0.85", "Status": "Generalised extraction via ontology schema"},
+            {"Extractor": "Rule Baseline", "Cohort / Split": "Rule Calibration (001–050)", "Concept F1": "0.994", "Status": "Rules calibrated on these reports"},
+            {"Extractor": "Rule Baseline", "Cohort / Split": "Unseen Dev Split (051–075)", "Concept F1": "0.725", "Status": "Honest test of generalization on unseen phrasing"},
+            {"Extractor": "Rule Baseline", "Cohort / Split": "Locked Test Split (076–100)", "Concept F1": "0.680", "Status": "Final unseen evaluation set"},
+            {"Extractor": "Open-weight LLM", "Cohort / Split": "Any unseen split", "Concept F1": "Target: >0.85", "Status": "Generalised extraction via ontology schema"},
         ])
         st.dataframe(gap_data, hide_index=True, width="stretch")
 
@@ -658,8 +658,8 @@ else:
         st.markdown(
             "Large language models cannot be trusted blindly in medical domains. Every model proposal must pass five deterministic gates before reaching storage:"
         )
-        v1, v2 = st.columns(2)
-        with v1:
+        col_left, col_right = st.columns(2)
+        with col_left:
             st.markdown(
                 """
                 **1. Vocabulary Normalization:**
@@ -673,7 +673,7 @@ else:
                 * Ungrounded evidence is marked as a **hallucination and rejected**.
                 """
             )
-        with v2:
+        with col_right:
             st.markdown(
                 """
                 **3. Attribute Sanity Checks:**
