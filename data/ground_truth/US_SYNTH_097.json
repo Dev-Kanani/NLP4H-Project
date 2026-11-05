@@ -1,0 +1,112 @@
+[
+  {
+    "organ": "Liver",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Liver: WNL."
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No SOL."
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Adenomyomatosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "K82.8",
+    "evidence_text": "comet-tail artefacts - s/o adenomyomatosis"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculi."
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Panc/Spl: normal"
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Panc/Spl: normal"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus, no HDN"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no HDN"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "UB: normal."
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Prostate: normal (14 cc)"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No free fluid."
+  }
+]

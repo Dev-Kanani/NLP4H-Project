@@ -1,0 +1,132 @@
+[
+  {
+    "organ": "Liver",
+    "finding": "Steatosis",
+    "grade": "Grade 1",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID39103",
+    "icd10_code": "K76.0",
+    "evidence_text": "suggesting mild fatty change of the liver"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "There is no focal lesion"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": 14.0,
+    "status": "Affirmed",
+    "radlex_id": "RID5770",
+    "icd10_code": "K80.20",
+    "evidence_text": "contains multiple mobile echogenic calculi casting posterior acoustic shadows, the largest measuring approximately 1.4 cm"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Sludge",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "a thin layer of dependent sludge"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Wall Thickening",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "Its wall is not thickened"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Pericholecystic Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "there is no fluid around it"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "CBD Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "The common bile duct measures 4.2 mm and is not dilated"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculus is seen within its visualised portion"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Ductal Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "without any ductal dilatation"
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "The spleen measures 9.8 cm and appears normal"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "neither shows a calculus or hydronephrosis"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "neither shows a calculus or hydronephrosis"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "There is no ascites"
+  }
+]

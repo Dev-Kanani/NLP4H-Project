@@ -1,0 +1,132 @@
+[
+  {
+    "organ": "Liver",
+    "finding": "Steatosis",
+    "grade": "Grade 1",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID39103",
+    "icd10_code": "K76.0",
+    "evidence_text": "Grade I hepatic steatosis"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No focal hepatic lesion"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculus, no polyp"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Polyp",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculus, no polyp"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "CBD Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "CBD – Not dilated"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "PANCREAS – Unremarkable."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Angiomyolipoma",
+    "grade": "N/A",
+    "size_mm": 8.0,
+    "status": "Possible",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "A well-defined hyperechoic cortical lesion of 8 x 6 mm is seen in the mid pole, without posterior shadowing or internal vascularity; likely angiomyolipoma"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or hydronephrosis"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or hydronephrosis"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus, no hydronephrosis"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus, no hydronephrosis"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "(vol ~15 cc). Normal."
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No ascites."
+  }
+]

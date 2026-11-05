@@ -1,0 +1,1281 @@
+report_id,age,sex,style,num_findings,report_text
+US_SYNTH_001,34,Female,Structured,11,"LIVER: Normal in size with mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: Normally distended; no calculus, no wall thickening, and no pericholecystic fluid.
+
+PANCREAS: Visualized pancreas is unremarkable, with no focal abnormality.
+
+SPLEEN: Normal in size; no focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size. No hydronephrosis or renal calculus.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 1 hepatic steatosis. No other significant sonographic abnormality identified."
+US_SYNTH_002,51,Male,Structured,12,"LIVER: The hepatic parenchyma demonstrates moderately increased echogenicity with partial posterior beam attenuation, in keeping with Grade 2 fatty infiltration. No focal lesion is seen. No intrahepatic biliary dilatation.
+
+GALLBLADDER: Well distended without calculi. The wall is not thickened, and no pericholecystic fluid is present.
+
+PANCREAS: Visualized portions are normal in echotexture, without a focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys maintain normal size and cortical echogenicity. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid or obvious pelvic mass.
+
+IMPRESSION: Grade 2 hepatic steatosis. No sonographic evidence of cholelithiasis or obstructive uropathy."
+US_SYNTH_003,46,Female,Structured,10,"LIVER: The liver is diffusely hyperechoic with marked posterior acoustic attenuation and reduced conspicuity of the intrahepatic vasculature, compatible with Grade 3 steatosis hepatis. No discrete focal hepatic lesion is identified.
+
+GALLBLADDER: No gallstones or wall thickening. No pericholecystic collection.
+
+PANCREAS: The visualized pancreatic tissue shows no focal abnormality.
+
+SPLEEN: Normal in size with no focal lesion.
+
+KIDNEYS: Normal renal size bilaterally. No calculi or hydronephrosis.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Grade 3 hepatic steatosis. No additional significant abnormality demonstrated in the visualized abdominal organs."
+US_SYNTH_004,29,Male,Structured,11,"LIVER: The hepatic parenchyma is slightly brighter than the adjacent renal cortex, consistent with mild fatty change, Grade 1. No focal lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: No intraluminal calculus. The gallbladder wall is normal in thickness, with no surrounding fluid.
+
+PANCREAS: No focal pancreatic abnormality is seen in the visualized portion.
+
+SPLEEN: Normal in size and echotexture, without a focal lesion.
+
+KIDNEYS: Both kidneys are normal in size and position. No hydronephrosis or renal calculus.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Mild Grade 1 hepatic steatosis. Otherwise, no significant sonographic abnormality."
+US_SYNTH_005,57,Female,Structured,11,"LIVER: Normal in size and echotexture. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: A solitary mobile echogenic calculus measuring 6.5 mm demonstrates posterior acoustic shadowing. No wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: No focal pancreatic abnormality is identified in the visualized portion.
+
+SPLEEN: Normal in size, without a focal lesion.
+
+KIDNEYS: Both kidneys are normal in size. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Cholelithiasis without sonographic evidence of acute cholecystitis."
+US_SYNTH_006,41,Male,Structured,11,"LIVER: Normal in size and contour, with homogeneous echotexture. No focal lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: Several mobile intraluminal echogenic foci produce posterior acoustic shadowing, the largest measuring 11.8 mm. No gallbladder wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: Visualized portions are unremarkable, without a focal abnormality.
+
+SPLEEN: Normal in size, without a focal lesion.
+
+KIDNEYS: No renal calculi or hydronephrosis.
+
+PELVIS: No free fluid.
+
+IMPRESSION: Cholelithiasis. No sonographic findings to suggest acute cholecystitis."
+US_SYNTH_007,24,Female,Telegraphic,11,"Liver: WNL in size; no focal lesion.
+GB: No stones or wall thickening. No pericholecystic fluid.
+PAN: WNL in visualized portion; no focal abnormality.
+SPL: No focal splenic lesion.
+R kidney: Simple cortical cyst, lower pole, 8.0 mm; no solid component. No hydronephrosis.
+L kidney: WNL; no calculus.
+Pelvis: No free fluid.
+Imp: Small right renal cortical cyst. Otherwise unremarkable abdominal US."
+US_SYNTH_008,62,Male,Telegraphic,13,"Liver: WNL; no focal lesion or biliary dilatation.
+GB: No calculus. No wall thickening or pericholecystic fluid.
+PAN/SPL: WNL; no focal abnormality. No focal splenic lesion.
+R kidney: No calculus or hydro.
+L kidney: Simple cortical cyst, mid-pole, 21.5 mm; no septa or solid component. No hydronephrosis.
+Pelvis: No free fluid.
+Imp: Left renal cortical cyst. No other significant sonographic abnormality."
+US_SYNTH_009,38,Female,Unstructured,11,"The liver is normal in size and echotexture without a focal lesion or intrahepatic biliary dilatation, and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid. The pancreas is partly obscured by overlying bowel gas, although the visualized portion appears unremarkable. Both kidneys are within normal size limits, and no hydronephrosis is present; however, owing to limited visualization, a tiny left renal calculus cannot be entirely excluded. The spleen is unremarkable, and no free pelvic fluid is identified."
+US_SYNTH_010,55,Male,Unstructured,14,"The liver is normal in size with homogeneous echotexture and no focal lesion or biliary dilatation; the gallbladder is thin-walled, contains no calculi, and shows no pericholecystic fluid. The visualized pancreas and spleen are unremarkable, with no focal abnormality identified. Both kidneys are normal in size and echogenicity, without calculi or hydronephrosis. The urinary bladder is adequately distended with smooth wall contours, and no free pelvic fluid is seen. Overall, this is an unremarkable abdominal ultrasound study."
+US_SYNTH_011,24,Female,Structured,11,"LIVER: Normal in size with mildly increased diffuse parenchymal echogenicity and preserved visualization of the intrahepatic vessels, consistent with Grade 1 hepatic steatosis. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: Normally distended. No gallstones, wall thickening, or pericholecystic fluid.
+
+PANCREAS: Visualized portions are unremarkable, without focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size and cortical echogenicity. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 1 hepatic steatosis. No other significant sonographic abnormality."
+US_SYNTH_012,51,Male,Structured,11,"LIVER: Diffuse hepatic hyperechogenicity with mild posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty liver. No focal hepatic lesion is identified. No intrahepatic biliary ductal dilatation.
+
+GALLBLADDER: No intraluminal calculi. The wall is not thickened, and there is no pericholecystic fluid.
+
+PANCREAS: Visualized pancreatic parenchyma shows no focal abnormality.
+
+SPLEEN: Normal in size, without focal lesion.
+
+KIDNEYS: Both kidneys demonstrate preserved cortical thickness. No renal stones or hydronephrosis.
+
+PELVIS: No free fluid within the visualized pelvis.
+
+IMPRESSION: Grade 2 hepatic steatosis. No sonographic evidence of cholelithiasis or hydronephrosis."
+US_SYNTH_013,46,Female,Structured,11,"LIVER: The liver demonstrates diffusely marked increased echogenicity, pronounced posterior beam attenuation, and poor visualization of the deeper hepatic parenchyma, compatible with Grade 3 hepatic steatosis. No discrete focal lesion is seen in the visualized liver. No intrahepatic biliary dilatation.
+
+GALLBLADDER: Adequately distended, with no calculus, wall thickening, or surrounding fluid.
+
+PANCREAS: The visualized portion shows no focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size. No calculus or hydronephrosis.
+
+PELVIS: No free fluid is identified.
+
+IMPRESSION: Grade 3 hepatic steatosis. No additional significant abnormality in the visualized abdominal organs."
+US_SYNTH_014,60,Male,Structured,13,"LIVER: Mildly enlarged liver with diffuse increased parenchymal echogenicity and slight attenuation of the ultrasound beam, suggestive of Grade 1 fatty infiltration. No focal hepatic lesion or intrahepatic biliary ductal dilatation.
+
+GALLBLADDER: No gallstones are identified. No gallbladder wall thickening or pericholecystic fluid.
+
+PANCREAS: Visualized portions of the pancreas are unremarkable, without focal lesion.
+
+SPLEEN: No splenomegaly or focal splenic lesion.
+
+KIDNEYS: Normal renal size and cortical echogenicity bilaterally. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 1 hepatic steatosis with mild hepatomegaly. No sonographic evidence of cholelithiasis or obstructive uropathy."
+US_SYNTH_015,37,Female,Structured,11,"LIVER: Normal in size with homogeneous echotexture. No focal lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: A small mobile echogenic focus measuring 4.1 mm is seen within the gallbladder lumen, with posterior acoustic shadowing, consistent with a calculus. No wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: Visualized pancreatic parenchyma is unremarkable, with no focal abnormality.
+
+SPLEEN: Normal in size. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size, without renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Small gallbladder calculus consistent with cholelithiasis. No sonographic features of acute cholecystitis."
+US_SYNTH_016,55,Male,Structured,11,"LIVER: Normal in size and echotexture. No focal hepatic lesion or biliary dilatation.
+
+GALLBLADDER: Two mobile intraluminal calculi are visualized, measuring up to 9.6 mm, with posterior acoustic shadowing. The gallbladder wall is not thickened. No pericholecystic fluid is seen, and the sonographic Murphy sign is negative.
+
+PANCREAS: The visualized pancreas shows no focal abnormality.
+
+SPLEEN: Normal in size, with no focal lesion.
+
+KIDNEYS: No renal calculus or hydronephrosis. Both kidneys maintain normal size and cortical echogenicity.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Cholelithiasis without sonographic evidence of acute cholecystitis. The remaining visualized abdominal structures show no significant abnormality."
+US_SYNTH_017,29,Female,Telegraphic,13,"Liver: WNL; no focal lesion or IHBR dilatation.
+GB: No calculus, wall thickening, or pericholecystic fluid.
+Pancreas: Visualized portion WNL; no focal lesion.
+Spleen: WNL; no focal lesion.
+RK: Simple cortical cyst at upper pole, 12.4 mm. No solid component. No hydro or calculus.
+LK: WNL; no hydronephrosis.
+Pelvis: No free fluid.
+Imp: Small right renal cortical cyst. No other significant abnormality."
+US_SYNTH_018,62,Male,Telegraphic,14,"Liver: WNL. No focal lesion or biliary dilatation.
+GB: No stones or wall thickening. No pericholecystic fluid.
+PAN: Visualized portion WNL; no focal abnormality.
+SPL: Normal size; no focal lesion.
+RK: No calculus or hydro.
+LK: Simple cortical cyst, interpolar region, 18.7 mm. No septations or solid component. No hydronephrosis.
+Pelvis: No free fluid.
+Imp: Left renal cortical cyst, sonographically simple. No hydronephrosis."
+US_SYNTH_019,42,Female,Unstructured,12,"The liver is normal in size and echogenicity with no focal lesion or intrahepatic biliary dilatation, and the gallbladder is adequately distended without calculus, wall thickening, or pericholecystic fluid. The pancreatic region is partially obscured by overlying bowel gas, limiting assessment of the pancreatic body and tail; the visualized portion shows no focal abnormality. Both kidneys are normal in size, and no hydronephrosis is evident. Assessment of the left renal sinus is mildly limited by bowel gas, and although no definite shadowing calculus is demonstrated, a tiny left renal calculus cannot be entirely excluded. The spleen is normal in size without a focal lesion, and no free pelvic fluid is seen."
+US_SYNTH_020,33,Male,Unstructured,15,"The liver is normal in size, contour, and echotexture, with no focal hepatic lesion or intrahepatic biliary dilatation. The gallbladder is normally distended with a thin, smooth wall and no intraluminal calculi or pericholecystic fluid. The visualized pancreas is normal in appearance without focal abnormality, and the spleen is normal in size and echotexture with no focal lesion. Both kidneys are normal in size and cortical echogenicity, with no renal calculus or hydronephrosis. No free fluid is identified in the visualized pelvis. Overall, this is an unremarkable abdominal ultrasound study with no significant sonographic abnormality."
+US_SYNTH_021,34,Female,Structured,12,"LIVER: Normal in size with mildly increased diffuse parenchymal echogenicity and maintained visualization of the portal venous radicles, suggestive of Grade 1 hepatic steatosis. No focal hepatic lesion. No intrahepatic biliary dilatation.
+
+GALLBLADDER: Well distended, with no intraluminal calculus, wall thickening, or pericholecystic fluid.
+
+PANCREAS: Visualized portions are unremarkable. No focal pancreatic abnormality.
+
+SPLEEN: Normal in size. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size and cortical echogenicity. No calculus or hydronephrosis.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Grade 1 hepatic steatosis. No other significant sonographic abnormality."
+US_SYNTH_022,52,Male,Structured,12,"LIVER: Diffusely increased hepatic echogenicity with moderate posterior beam attenuation and reduced conspicuity of the portal triads, in keeping with Grade 2 fatty infiltration. No focal hepatic lesion is identified. The intrahepatic bile ducts are not dilated.
+
+GALLBLADDER: No gallstones or wall thickening. No pericholecystic fluid.
+
+PANCREAS: The visualized pancreas shows no focal lesion or surrounding collection.
+
+SPLEEN: Normal in size without focal lesion.
+
+KIDNEYS: Bilateral kidneys are normal in size. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid.
+
+IMPRESSION: Grade 2 hepatic steatosis. No sonographic evidence of cholelithiasis or obstructive uropathy."
+US_SYNTH_023,47,Female,Structured,11,"LIVER: Diffusely increased hepatic echogenicity with marked posterior acoustic attenuation and diminished visualization of the deeper hepatic parenchyma, compatible with Grade 3 steatosis hepatis. No discrete focal lesion is identified within the visualized liver. No intrahepatic biliary dilatation.
+
+GALLBLADDER: No intraluminal calculus. The gallbladder wall is not thickened, and no pericholecystic fluid is seen.
+
+PANCREAS: Visualized pancreatic tissue shows no focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 3 hepatic steatosis. No other significant sonographic abnormality in the visualized organs."
+US_SYNTH_024,28,Male,Structured,11,"LIVER: The liver is normal in size, with mild diffuse parenchymal brightness relative to the renal cortex, in keeping with Grade 1 fatty infiltration. No focal hepatic lesion or intrahepatic biliary ductal dilatation.
+
+GALLBLADDER: Normally distended. No gallstones, wall thickening, or pericholecystic fluid.
+
+PANCREAS: No focal abnormality in the visualized portion.
+
+SPLEEN: Normal in size. No focal lesion.
+
+KIDNEYS: Normal renal size and cortical thickness bilaterally. No calculus or hydronephrosis.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Mild Grade 1 hepatic steatosis. Otherwise, no significant sonographic abnormality."
+US_SYNTH_025,58,Female,Structured,11,"LIVER: Normal in size and echotexture, without a focal lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: A solitary mobile echogenic calculus measuring 3.6 mm is seen within the lumen, with faint posterior acoustic shadowing. No gallbladder wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: The visualized pancreas demonstrates no focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid.
+
+IMPRESSION: Cholelithiasis with a small mobile gallbladder calculus. No sonographic evidence of acute cholecystitis."
+US_SYNTH_026,43,Male,Structured,12,"LIVER: Normal in size and echotexture, with no focal hepatic lesion or biliary dilatation.
+
+GALLBLADDER: Multiple mobile echogenic calculi with posterior acoustic shadowing are present, the largest measuring 10.7 mm. No wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: The visualized pancreatic parenchyma is unremarkable, without focal abnormality.
+
+SPLEEN: Normal in size. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size and position. No renal calculi or hydronephrosis.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Cholelithiasis without sonographic evidence of acute cholecystitis. No hydronephrosis."
+US_SYNTH_027,25,Female,Telegraphic,14,"Liver: WNL. No focal lesion or IHBR dilatation.
+GB: No calculus. No wall thickening or pericholecystic fluid.
+PAN: Visualized portion WNL; no focal lesion.
+SPL: Normal size; no focal lesion.
+RK: Simple cortical cyst at lower pole, 9.2 mm. No solid component. No hydro or calculus.
+LK: WNL; no calculus or hydronephrosis.
+Pelvis: No free fluid.
+Imp: Small right renal cortical cyst. No additional significant abnormality."
+US_SYNTH_028,61,Male,Telegraphic,14,"Liver: Normal echotexture; no focal lesion or biliary dilatation.
+GB: No stones, wall thickening, or pericholecystic fluid.
+PAN: Visualized pancreas WNL; no focal abnormality.
+SPL: WNL; no focal lesion.
+RK: No calculus or hydro.
+LK: Simple cortical cyst in interpolar region, 20.4 mm. No septations or solid component. No hydronephrosis.
+Pelvis: No free fluid.
+Imp: Left renal cortical cyst with simple sonographic features. No hydronephrosis."
+US_SYNTH_029,39,Female,Unstructured,12,"The liver is normal in size with homogeneous echotexture and no focal lesion or intrahepatic biliary dilatation, while the gallbladder is adequately distended without calculi, wall thickening, or pericholecystic fluid. The pancreas is partly obscured by bowel gas, limiting evaluation of its distal portion, although the visualized tissue shows no focal abnormality. Both kidneys are normal in size without hydronephrosis. A definite renal calculus is not demonstrated; however, due to limited visualization of the right renal sinus, a tiny right renal calculus cannot be entirely excluded. The spleen is normal in size without a focal lesion, and no free pelvic fluid is identified."
+US_SYNTH_030,33,Male,Unstructured,14,"The liver is normal in size and contour with homogeneous parenchymal echotexture, without a focal lesion or intrahepatic biliary dilatation. The gallbladder is normally distended and thin-walled, with no intraluminal calculus or pericholecystic fluid. The visualized pancreas is unremarkable, and the spleen is normal in size without a focal lesion. Both kidneys demonstrate preserved size and cortical echogenicity, with no renal calculus or hydronephrosis. The urinary bladder is adequately distended without visible wall irregularity, and no free fluid is seen in the pelvis. Overall, the examination is unremarkable, with no significant sonographic abnormality identified."
+US_SYNTH_031,31,Male,Structured,12,"LIVER: Normal in size with mildly increased diffuse hepatic echogenicity and preserved visualization of the diaphragm and intrahepatic vessels, consistent with Grade 1 hepatic steatosis. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: Normally distended, without calculus, wall thickening, or pericholecystic fluid.
+
+PANCREAS: Visualized portions are unremarkable, with no focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size and cortical echogenicity. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 1 hepatic steatosis. No other significant sonographic abnormality."
+US_SYNTH_032,49,Female,Structured,11,"LIVER: Diffuse hepatic hyperechogenicity with moderate posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty infiltration. No focal hepatic lesion or intrahepatic biliary ductal dilatation.
+
+GALLBLADDER: No intraluminal calculi. The gallbladder wall is not thickened, and no pericholecystic fluid is present.
+
+PANCREAS: The visualized pancreatic parenchyma shows no focal abnormality.
+
+SPLEEN: Normal in size, without focal lesion.
+
+KIDNEYS: Both kidneys demonstrate normal size and preserved cortical thickness. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid within the visualized pelvis.
+
+IMPRESSION: Grade 2 hepatic steatosis. No sonographic evidence of cholelithiasis or obstructive uropathy."
+US_SYNTH_033,56,Male,Structured,11,"LIVER: The liver demonstrates diffusely marked increased echogenicity, pronounced posterior beam attenuation, and reduced visualization of the deep hepatic parenchyma, consistent with Grade 3 hepatic steatosis. No focal lesion is identified in the visualized liver. No intrahepatic biliary dilatation.
+
+GALLBLADDER: Normally distended, with no calculus, wall thickening, or pericholecystic fluid.
+
+PANCREAS: Visualized portions show no focal pancreatic abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 3 hepatic steatosis. No additional significant sonographic abnormality identified."
+US_SYNTH_034,42,Female,Structured,13,"LIVER: Mild diffuse increase in hepatic parenchymal echogenicity relative to the right renal cortex, with minimal posterior attenuation, suggestive of Grade 1 steatosis. The liver is mildly enlarged. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: No intraluminal calculus. The wall is not thickened, and no pericholecystic fluid is present.
+
+PANCREAS: The visualized pancreas is unremarkable, without focal abnormality.
+
+SPLEEN: Normal in size, without focal lesion.
+
+KIDNEYS: Both kidneys are normal in size and cortical echogenicity. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid.
+
+IMPRESSION: Grade 1 hepatic steatosis with mild hepatomegaly. No other significant sonographic abnormality."
+US_SYNTH_035,36,Male,Structured,12,"LIVER: Normal in size and echotexture. No focal lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: A solitary mobile echogenic focus measuring 7.2 mm demonstrates posterior acoustic shadowing, consistent with a gallbladder calculus. No wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: Visualized portions are unremarkable, with no focal abnormality.
+
+SPLEEN: Normal in size. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Cholelithiasis without sonographic evidence of acute cholecystitis."
+US_SYNTH_036,53,Female,Structured,11,"LIVER: Normal in size with homogeneous echotexture. No focal hepatic lesion or biliary dilatation.
+
+GALLBLADDER: Multiple mobile echogenic calculi are present within the gallbladder lumen, the largest measuring 11.4 mm. No gallbladder wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: The visualized pancreas shows no focal lesion.
+
+SPLEEN: Normal in size and echotexture, without focal lesion.
+
+KIDNEYS: Both kidneys are normal in size. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Cholelithiasis. No sonographic findings of acute cholecystitis or obstructive uropathy."
+US_SYNTH_037,26,Male,Telegraphic,15,"Liver: WNL size/echotexture. No focal lesion or IHBR dilatation.
+GB: No stones, wall thickening, or pericholecystic fluid.
+PAN: Visualized portion WNL; no focal lesion.
+SPL: WNL size; no focal lesion.
+RK: Simple cortical cyst, upper pole, 15.2 mm. No septa or solid component. No hydro/calculus.
+LK: WNL; no calculus or hydro.
+Pelvis: No free fluid.
+Imp: Simple right renal cortical cyst. No hydronephrosis."
+US_SYNTH_038,62,Female,Telegraphic,15,"Liver: WNL; no focal lesion or biliary dilatation.
+GB: No calculus or wall thickening. No pericholecystic fluid.
+PAN: Visualized portion unremarkable; no focal abnormality.
+SPL: Normal size; no focal lesion.
+RK: Normal size; no calculus or hydro.
+LK: Simple cortical cyst, lower pole, 21.8 mm. No septations or solid component. No hydronephrosis.
+Pelvis: No free fluid.
+Imp: Left renal cortical cyst with simple sonographic appearance. No obstructive uropathy."
+US_SYNTH_039,39,Male,Unstructured,12,"The liver is normal in size and echotexture, without a focal lesion or intrahepatic biliary dilatation, and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid. The pancreas is partially obscured by overlying bowel gas, limiting evaluation of its distal portion, although the visualized pancreatic tissue shows no focal abnormality. Both kidneys are normal in size, with no hydronephrosis. No definite right renal calculus is identified; however, owing to limited visualization of the right renal sinus, a small calculus cannot be entirely excluded. The spleen is normal in size and shows no focal lesion, and no free pelvic fluid is demonstrated."
+US_SYNTH_040,33,Female,Unstructured,15,"The liver is normal in size and contour with homogeneous echotexture and no focal hepatic lesion or intrahepatic biliary dilatation, while the gallbladder is normally distended with a thin smooth wall and no intraluminal calculi or pericholecystic fluid. The visualized pancreas is unremarkable without focal abnormality, and the spleen is normal in size without a focal lesion. Both kidneys show preserved size and cortical echogenicity, with no renal calculi or hydronephrosis. No free fluid is identified in the visualized pelvis. Overall, the findings are consistent with an unremarkable abdominal ultrasound study, with no significant sonographic abnormality identified."
+US_SYNTH_041,27,Female,Structured,12,"LIVER: Normal in size with mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis. Intrahepatic vessels remain well visualized. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: Adequately distended. No intraluminal calculus, wall thickening, or pericholecystic fluid.
+
+PANCREAS: Visualized portions are unremarkable, without focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size and cortical echogenicity. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 1 hepatic steatosis. No other significant sonographic abnormality."
+US_SYNTH_042,50,Male,Structured,11,"LIVER: Diffuse increase in hepatic echogenicity with moderate posterior acoustic attenuation and partial obscuration of the portal triads, compatible with Grade 2 fatty infiltration. No focal hepatic lesion is seen. No intrahepatic biliary ductal dilatation.
+
+GALLBLADDER: Normal distension. No gallstones or wall thickening. No pericholecystic fluid.
+
+PANCREAS: The visualized pancreatic parenchyma shows no focal abnormality.
+
+SPLEEN: Normal in size, without focal lesion.
+
+KIDNEYS: Both kidneys maintain normal size and cortical thickness. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid is identified.
+
+IMPRESSION: Grade 2 hepatic steatosis. No sonographic evidence of cholelithiasis or obstructive uropathy."
+US_SYNTH_043,45,Female,Structured,12,"LIVER: The hepatic parenchyma is markedly hyperechoic, with pronounced posterior beam attenuation and reduced visualization of the deeper liver tissue, findings compatible with Grade 3 steatosis hepatis. No definite focal hepatic lesion is seen in the visualized parenchyma. No intrahepatic biliary dilatation.
+
+GALLBLADDER: No calculus, wall thickening, or pericholecystic fluid.
+
+PANCREAS: Visualized portions are unremarkable, with no focal lesion.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: No renal calculus or hydronephrosis. Both kidneys are within normal size limits.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Grade 3 hepatic steatosis. No additional significant sonographic abnormality identified."
+US_SYNTH_044,58,Male,Structured,11,"LIVER: Slight diffuse increase in hepatic echogenicity relative to the renal cortex, with minimal posterior acoustic attenuation, consistent with Grade 1 fatty change. The liver is within normal size limits. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: No intraluminal calculus or wall thickening. No pericholecystic fluid.
+
+PANCREAS: No focal abnormality in the visualized pancreas.
+
+SPLEEN: Normal in size. No focal splenic lesion.
+
+KIDNEYS: Both kidneys are normal in size and cortical echogenicity. No renal calculi or hydronephrosis.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Grade 1 hepatic steatosis. Otherwise, no significant sonographic abnormality."
+US_SYNTH_045,36,Female,Structured,12,"LIVER: Normal in size and echotexture. No focal hepatic lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: A mobile echogenic calculus measuring 5.8 mm is identified within the gallbladder lumen, with posterior acoustic shadowing. No wall thickening or pericholecystic fluid. The sonographic Murphy sign is negative.
+
+PANCREAS: The visualized pancreas is unremarkable, without focal abnormality.
+
+SPLEEN: Normal in size and echotexture. No focal splenic lesion.
+
+KIDNEYS: Normal in size bilaterally. No renal calculus or hydronephrosis.
+
+PELVIS: No free pelvic fluid.
+
+IMPRESSION: Cholelithiasis without sonographic evidence of acute cholecystitis."
+US_SYNTH_046,54,Male,Structured,12,"LIVER: Normal in size and contour with homogeneous parenchymal echotexture. No focal lesion or intrahepatic biliary dilatation.
+
+GALLBLADDER: Multiple mobile echogenic calculi with posterior acoustic shadowing are present; the largest measures 12.0 mm. No gallbladder wall thickening or pericholecystic fluid. Sonographic Murphy sign is negative.
+
+PANCREAS: Visualized portions are unremarkable, with no focal pancreatic lesion.
+
+SPLEEN: Normal in size. No focal splenic lesion.
+
+KIDNEYS: Both kidneys demonstrate normal size and cortical thickness. No renal calculus or hydronephrosis.
+
+PELVIS: No free fluid in the visualized pelvis.
+
+IMPRESSION: Cholelithiasis without sonographic evidence of acute cholecystitis. No additional significant abdominal abnormality identified."
+US_SYNTH_047,24,Female,Telegraphic,16,"Liver: WNL size; no focal lesion or IHBR dilatation.
+GB: No stones, wall thickening, or pericholecystic fluid.
+PAN: Visualized portion WNL; no focal abnormality.
+SPL: WNL size; no focal lesion.
+RK: Simple cortical cyst, interpolar region, 8.6 mm. No septa or solid component. No hydro/calculus.
+LK: WNL; no calculus or hydro.
+Pelvis: No free fluid.
+Imp: Small simple right renal cortical cyst. No hydronephrosis."
+US_SYNTH_048,60,Male,Telegraphic,14,"Liver: WNL echotexture; no focal lesion or biliary dilatation.
+GB: No calculus, wall thickening, or pericholecystic fluid.
+PAN: WNL in visualized portion; no focal lesion.
+SPL: Normal size; no focal lesion.
+RK: WNL size; no calculus or hydro.
+LK: Simple cortical cyst, lower pole, 19.6 mm. No septations or solid component. No hydronephrosis.
+Pelvis: No free fluid.
+Imp: Left renal cortical cyst with simple sonographic features. No obstructive uropathy."
+US_SYNTH_049,40,Female,Unstructured,12,"The liver is normal in size and echotexture, without a focal hepatic lesion or intrahepatic biliary dilatation, and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid. The pancreas is partially obscured by overlying bowel gas, limiting assessment of its distal portion, although the visualized tissue shows no focal abnormality. Both kidneys are within normal size limits and demonstrate no hydronephrosis; however, assessment of the left renal sinus is limited, and a tiny left renal calculus cannot be entirely excluded despite the absence of a definite shadowing focus. The spleen is normal in size without a focal lesion, and no free pelvic fluid is identified."
+US_SYNTH_050,32,Male,Unstructured,15,"The liver is normal in size and contour with homogeneous echotexture and no focal lesion or intrahepatic biliary dilatation, while the gallbladder is normally distended with a thin, smooth wall and no intraluminal calculi or pericholecystic fluid. The visualized pancreas has a normal sonographic appearance without focal abnormality, and the spleen is normal in size without a focal lesion. Both kidneys demonstrate preserved size and cortical echogenicity, with no renal calculus or hydronephrosis. No free pelvic fluid is seen. Overall, this is an unremarkable abdominal ultrasound study without significant sonographic abnormality."
+US_SYNTH_051,45,Male,Structured,19,"SHREE SAI DIAGNOSTICS & IMAGING
+Patient Name : Mr. Rajesh Kumar Agarwal          Age/Sex : 45 Y / M
+UHID : SSD-2026-0841573                          Date of Scan : 14/09/2026
+Ref. By : Dr. Meenakshi Iyer (Corporate Wellness Programme)
+
+USG ABDOMEN & PELVIS
+
+Indication: Annual executive health check-up.
+
+Liver:
+The liver is enlarged, measuring 17.2 cm in craniocaudal span in the right midclavicular line. Parenchymal echogenicity is diffusely increased with attenuation of the posterior beam and poor delineation of the diaphragm, while the walls of the portal venules are partly obscured - features of Grade II fatty infiltration. No focal space occupying lesion. Intrahepatic biliary radicles are not dilated. Portal vein measures 10 mm.
+
+Gall Bladder:
+Well distended. Wall thickness 2 mm. No calculus or sludge within the lumen. No pericholecystic fluid.
+
+Common Bile Duct:
+Measures 4 mm at the porta. Not dilated.
+
+Pancreas:
+Head 2.1 cm, body 1.1 cm, tail 1.8 cm. Echotexture is homogeneous. Main pancreatic duct is not dilated. No calcification or peripancreatic collection.
+
+Spleen:
+Measures 10.4 cm. Normal in size and echotexture. No focal lesion.
+
+Right Kidney:
+Measures 10.6 x 4.8 cm, parenchymal thickness 1.5 cm. Corticomedullary differentiation is preserved. No calculus. No hydronephrosis.
+
+Left Kidney:
+Measures 10.9 x 5.1 cm, parenchymal thickness 1.6 cm. Cortical echoes are normal. No calculus or back-pressure changes; pelvicalyceal system not dilated.
+
+Urinary Bladder:
+Adequately distended. Wall is smooth and not thickened. Contents are anechoic.
+Pre-void volume 310 ml; post-void residue 18 ml (insignificant).
+
+Prostate:
+Mildly enlarged, measuring 4.6 x 3.9 x 3.6 cm with an estimated volume of 33 cc. Homogeneous echotexture with a smooth capsule. Median lobe does not project into the bladder base.
+
+No free fluid in the abdomen or pelvis.
+
+IMPRESSION:
+1. Hepatomegaly with Grade II fatty liver.
+2. Mild prostatomegaly (approx. 33 cc).
+Suggest clinical correlation with LFT and lipid profile.
+
+Dr. Anand V. Kulkarni, MD (Radiodiagnosis)
+Consultant Radiologist"
+US_SYNTH_052,31,Female,Telegraphic,13,"USG W/A - MHC
+
+Liver: NAD. No SOL.
+GB: well distended, NAD.
+CBD: 3 mm
+Panc: NAD
+Spl: 9.2 cm, NAD
+RK / LK: NAD. no HDN / calculi.
+UB: NAD
+Ut: AV, 7.1 x 3.8 x 4.2 cm, ET 6 mm. NAD
+B/L Ov: normal.
+No FF.
+
+Imp: Normal study."
+US_SYNTH_053,58,Male,Unstructured,13,"Ultrasound of the whole abdomen was performed as part of the annual health check-up, after an overnight fast, using a 3.5 MHz curvilinear transducer.
+
+The liver is normal in size, spanning about 14.1 cm, with a mild diffuse rise in parenchymal echogenicity; the portal vein walls and the diaphragm remain clearly seen, suggesting mild fatty change of the liver. There is no focal lesion and the intrahepatic biliary channels are of normal calibre. The gall bladder is adequately distended and contains multiple mobile echogenic calculi casting posterior acoustic shadows, the largest measuring approximately 1.4 cm, along with a thin layer of dependent sludge. Its wall is not thickened at 2.5 mm and there is no fluid around it. The common bile duct measures 4.2 mm and is not dilated; no calculus is seen within its visualised portion.
+
+The pancreas is seen well up to the tail and shows normal size and echotexture, without any ductal dilatation. The spleen measures 9.8 cm and appears normal. Both kidneys are normal in size and position with well maintained corticomedullary differentiation, and neither shows a calculus or hydronephrosis. The urinary bladder is well distended with a thin wall and clear contents, and the prostate, at about 18 cc, is of normal size with homogeneous echoes. There is no ascites.
+
+In summary, the study shows cholelithiasis with sludge and grade I fatty liver. Surgical opinion may be considered for the gall bladder calculi."
+US_SYNTH_054,27,Female,Structured,10,"ULTRASOUND - ABDOMEN AND PELVIS (TRANSABDOMINAL)
+
+Clinical details: Annual health screening. LMP about 2 weeks back.
+
+FINDINGS
+
+LIVER - Normal in size (13.0 cm) with uniform echotexture. No focal lesion. IHBR not dilated.
+GALL BLADDER - Physiologically distended; lumen anechoic. No stones. Wall normal.
+PANCREAS - Normal.
+SPLEEN - Normal (8.7 cm).
+KIDNEYS - Right 9.9 cm, left 10.2 cm. Both show normal cortical thickness and echogenicity. No calculi, no hydronephrosis on either side.
+URINARY BLADDER - Well filled, normal wall thickness, no internal echoes.
+UTERUS - Anteverted, measures 7.4 x 4.0 x 3.5 cm. Myometrium is homogeneous. Endometrium 8 mm, central and regular. No fibroid seen.
+OVARIES -
+  Right ovary shows a thin-walled anechoic cyst measuring 3.2 x 2.8 cm with posterior acoustic enhancement; no internal septa or solid areas are present within it. Normal ovarian tissue is seen at its periphery.
+  Left ovary measures 2.9 x 1.8 cm with a few small follicles.
+POD - no free fluid.
+
+IMPRESSION:
+Simple right ovarian cyst (3.2 x 2.8 cm), likely functional. Follow-up scan after 6-8 weeks, preferably in the post-menstrual phase, is suggested.
+Rest of the abdomen and pelvis shows no significant abnormality."
+US_SYNTH_055,39,Male,Telegraphic,10,"Indication: Executive health check.
+
+Liver - N size (13.8 cm), N echotexture. No focal lesion. IHBR N.
+GB - distended, no calculus/sludge. Wall N.
+CBD - 3.5 mm.
+Pan - N size, echo. MPD not dilated.
+Spl - 10.1 cm, N.
+B/L kidneys - N size & position. CMD maintained.
+  Rt K - 10.3 x 4.6 cm. No calculus. PCS not dilated.
+  Lt K - 10.7 x 4.9 cm. 6 mm calculus in lower calyx, no HDN.
+UB - well distened, wall N, no intraluminal echoes.
+Prostate - 3.8 x 3.2 x 2.9 cm, vol ~18 cc, N size.
+No ascites.
+
+Imp: Lt renal calculus (6 mm, lower calyx) w/o hydronephrosis.
+Adv: urine R/M, adequate hydration."
+US_SYNTH_056,49,Female,Unstructured,11,"Real-time sonography of the abdomen and pelvis shows the liver to be of normal size and echopattern apart from a well-defined, homogeneously hyperechoic lesion measuring about 14 mm in segment VI of the right lobe, which shows no internal vascularity on colour Doppler and is consistent with a haemangioma; no other focal lesion is identified and the intrahepatic biliary radicles are not dilated. The gall bladder is well distended with a thin wall and no calculi, and the common duct is of normal calibre. Pancreas and spleen appear unremarkable, the spleen measuring 9 cm. Both kidneys are normal in size with preserved corticomedullary differentiation and there is no evidence of calculus, hydronephrosis or cortical cyst. The urinary bladder is distended and smooth in outline. The uterus is bulky, measuring 9.6 x 5.4 x 5.0 cm, and harbours a well-circumscribed hypoechoic intramural fibroid in the posterior wall measuring 2.1 x 1.9 cm which does not distort the endometrium, the latter being 7 mm and regular; both ovaries are normal in size and echotexture for age and there is no free fluid in the pouch of Douglas. Overall impression: hepatic haemangioma in the right lobe and a bulky uterus with a small intramural fibroid, the rest of the study being unremarkable."
+US_SYNTH_057,61,Male,Structured,19,"SONOGRAPHY OF WHOLE ABDOMEN
+
+Indication : Routine medical health check. K/c/o laparoscopic cholecystectomy (2019).
+Technique : Transabdominal scan using curvilinear and linear probes.
+
+HEPATOBILIARY SYSTEM
+- Liver measures 14.6 cm; normal size, outline and parenchymal echoes. No mass or cyst seen. Portal vein 11 mm.
+- Intrahepatic biliary radicals are not dilated.
+- Gall bladder is not visualised - surgically removed (post cholecystectomy status). Surgical clips noted in the GB fossa.
+- CBD is mildly prominent, measuring 7 mm, tapering smoothly to the ampulla with no obstructing calculus seen - post-cholecystectomy dilatation.
+
+PANCREAS
+- Normal sonographic appearance.
+- MPD is not dilated.
+
+SPLEEN
+- 10.8 cm. Homogeneous. No focal lesion.
+
+RIGHT KIDNEY
+- 10.2 x 4.9 cm; cortical thickness maintained.
+- A simple anechoic cortical cyst measuring 11 mm is seen at the upper pole, without septation or solid component.
+- No calculus / hydronephrosis.
+
+LEFT KIDNEY
+- 10.5 x 5.0 cm.
+- Lower pole shows a thin-walled simple cortical cyst of 1.6 cm diameter with posterior enhancement.
+- Calculus - nil. Pelvicalyceal system is not dilated.
+
+URINARY BLADDER
+- Well distended, wall regular (3 mm). Contents anechoic.
+- Post-void residual urine: 38 ml.
+
+PROSTATE
+- Enlarged, measuring 4.9 x 4.3 x 3.9 cm (volume approx. 42 cc), homogeneous echotexture. Mild indentation on the bladder base.
+
+OTHERS
+- No ascites. Aorta normal in calibre.
+
+OPINION:
+- Post-cholecystectomy status with mildly prominent CBD (7 mm), likely compensatory.
+- Bilateral simple renal cortical cysts (Rt 11 mm, Lt 16 mm) - Bosniak I.
+- Prostatomegaly (~42 cc)."
+US_SYNTH_058,24,Female,Telegraphic,9,"Liver, GB, Spl - NAD.
+Panc - not seen, obscured by bowel gas.
+RK - ? tiny calculus mid pole, no HDN.
+LK - partly obscured by gas; visualised part NAD.
+UB, Ut, B/L Ov - WNL. No FF.
+Imp: ? tiny Rt renal calculus. Suggest repeat USG KUB with full bladder."
+US_SYNTH_059,35,Male,Unstructured,13,"Health check-up scan. The liver is enlarged with a span of approximately 18 cm and shows a markedly increased, coarse echopattern with severe posterior attenuation; the diaphragmatic outline and the portal vein walls cannot be made out. Appearances are those of severe (grade III) hepatic steatosis. No discrete focal lesion is demonstrable, though small lesions may be masked by the fatty background. The spleen is mildly enlarged, measuring 13.5 cm in its long axis, with uniform echotexture and no focal lesion.
+
+The galbladder is normal, with no stones. CBD is 3 mm.  The pancreas appears normal. Both kidneys measure within normal limits and look normal, with no calculi or hydronephrosis. The bladder and prostate are unremarkable. No free fluid is seen in the abdomen.
+
+Impression: Hepatomegaly with grade III fatty liver; mild splenomegaly. Suggest LFT, lipid profile and fibroscan correlation."
+US_SYNTH_060,52,Female,Structured,13,"USG ABDOMEN + PELVIS
+Ref: MHC package
+
+Liver
+1. Normal in size (14.2 cm).
+2. Mildly increased echogenicity - Grade I fatty liver.
+3. No focal SOL. Intrahepatic ducts not dilated.
+
+Gall bladder & CBD
+1. Distended. A 4 mm echogenic non-shadowing polyp arising from the fundal wall, not moving with change of posture.
+2. No calculi. Wall thickness Normal.
+3. cbd 3.8 mm, not dilated.
+
+Pancreas
+1. Head, body and tail well seen; normal echopattern.
+2. No calcification, no ductal dilatation.
+
+Spleen
+1. 9.4 cm, appears normal.
+
+Kidneys
+1. RK 9.8 cm, LK 10.1 cm.
+2. normal cortical echogenicity, CMD well maintained.
+3. No calculus, no hydronephrosis bilaterally.
+
+Urinary Bladder
+1. Partially distended; wall regular.
+
+Uterus
+1. Postmenopausal, retroverted, measures 6.8 x 4.1 x 3.9 cm.
+2. A well defined hypoechoic subserosal fibroid of 3.4 x 3.0 cm on the fundal anterior wall.
+3. Endometrial thickness 3 mm (atrophic).
+
+Ovaries
+1. Not well visualised - postmenopausal status.
+
+Pouch of Douglas: No free fluid.
+
+IMPRESSION:
+* Grade I fatty liver.
+* Small gall bladder polyp (4 mm) - follow-up USG in 6-12 months advised.
+* Subserosal uterine fibroid."
+US_SYNTH_061,44,Male,Telegraphic,13,"USG ABDOMEN & PELVIS
+Ind: MHC
+
+Liver - 14.2 cm, mildly bright echotexture s/o Gr I fatty liver. No SOL. IHBR not dilated.
+GB - well distended, no calculus / sludge. Wall nl.
+CBD - 3.8 mm.
+PV - 9 mm, patent.
+Panc - NAD.
+Spl - 9.6 cm, normal.
+RK - 10.1 x 4.3 cm. CMD maintained. 4 mm calculus upper pole calyx. No HDN.
+LK - 10.6 x 4.8 cm. 9 mm calculus at PUJ / renal pelvis, with mild HDN.
+UB - well distended, wall regular, lumen clear.
+Prostate - ~18 cc, NAD.
+No free fluid.
+
+Imp:
+- Gr I fatty liver.
+- Rt renal calculus (4 mm), no HDN.
+- Lt PUJ calculus 9 mm causing mild HDN.
+Adv: Urology opinion."
+US_SYNTH_062,29,Female,Unstructured,11,"Ms. Ritika Deshpande    29Y/F    Date: 14/08/2026    Reg No: HC/26/118734
+
+Liver is normal in size with uniform echotexture; no focal lesion is seen and the biliary radicles are not dilated. The gallbladder is well distended with a thin wall and no calculi, and the CBD measures 3 mm. Pancreas, spleen and both kidneys appear normal, with no calculus or hydronephrosis. The urinary bladder, uterus (7.4 x 3.6 x 4.1 cm, endometrium 6 mm) and both ovaries are unremarkable and there is no free fluid in the pelvis. No sonographic abnormality detected."
+US_SYNTH_063,50,Male,Structured,10,"ULTRASONOGRAPHY OF ABDOMEN AND PELVIS
+
+Clinical details: Executive health check. Patient not adequately fasting.
+
+FINDINGS:
+
+Liver: Measures 15.1 cm. Diffusely raised parenchymal echogenicity with partial obscuration of the diaphragm and portal venous walls - fatty infiltration, grade II. No focal lesion. Hepatic veins and portal vein normal.
+
+Gall bladder: Partially contracted (post-prandial). Wall appears thickened, measuring 4.5 mm, likely physiological due to contraction. No calculus within.
+CBD: 4 mm, not dilated.
+
+Pancreas: Normal in size and echopattern. No peripancreatic collection.
+
+Spleen: 10.2 cm. Unremarkable.
+
+Kidneys: Right kidney 10.4 x 4.6 cm; left kidney 10.9 x 5.0 cm. Both show normal cortical echogenicity and corticomedullary differentiation. No calculus or hydronephrosis on either side.
+
+Urinary bladder: Adequately distended. Wall smooth. No intraluminal echoes.
+
+Prostate: 3.8 x 3.1 x 2.9 cm (volume ~18 cc). Normal echotexture.
+
+No ascites.
+
+IMPRESSION:
+1. Grade II fatty liver.
+2. Contracted gall bladder with wall thickening, likely physiological; re-evaluation after 6-8 hours of fasting suggested if clinically indicated."
+US_SYNTH_064,56,Female,Telegraphic,16,"USG Abd + Pelvis -- Annual health checkup
+
+Liver: nl size (13.4cm), nl echotexture. No focal lesion. IHBR nt dilated.
+GB: well distended, no calculi, NAD.
+CBD 3 mm. PV nl.
+Pancreas : NAD
+Spleen 8.9 cm, NAD.
+Rt K: 9.8 x 4.4 cm. 8 mm simple cortical cyst at mid pole. No calculus/HDN.
+Lt K: 10.2 x 4.7 cm. Anechoic cortical cyst at upper pole 2.5 x 2.2 cm, thin wall, no septations or solid component. No calculus/HDN.
+UB: partially filled, NAD.
+Ut: atrophic, postmenoapusal. ET thin 3 mm.
+Ovaries: not visualised (? atrophic).
+No free fluid.
+
+Imp: B/L simple renal cortical cysts (Lt 2.5 cm, Rt 8 mm). Bosniak I."
+US_SYNTH_065,26,Male,Unstructured,10,"Indication: Routine annual wellness screen.
+
+The liver measures 13.8 cm and shows a borderline increase in parenchymal echogenicity, ? early fatty change; there is no focal lesion within it and the portal vein is normal in calibre. Gall bladder is distended and anechoic without stones, and the CBD is not dilated. The pancreas and spleen are normal. Both kidneys are normal in size and position with preserved corticomedullary distinction and no calculi or pelvicalyceal dilatation. Bladder and prostate are normal. No free fluid is seen."
+US_SYNTH_066,41,Female,Structured,19,"DEPARTMENT OF RADIOLOGY & IMAGING
+ULTRASOUND - WHOLE ABDOMEN
+
+INDICATION: Corporate health check-up. Asymptomatic.
+TECHNIQUE: Real-time B-mode and colour Doppler sonography performed with a 3.5 MHz curvilinear transducer after overnight fasting. Pelvis scanned transabdominally with full bladder.
+
+LIVER:
+Normal in size, measuring 13.9 cm in the mid-clavicular line. Parenchymal echogenicity is mildly increased with preserved visualisation of the portal vein walls and diaphragm, consistent with grade I fatty infiltration. No focal space-occupying lesion. Intrahepatic biliary radicles are not dilated. Portal vein measures 10 mm with normal hepatopetal flow.
+
+GALL BLADDER:
+Optimally distended. Multiple mobile echogenic calculi with posterior acoustic shadowing are noted in the lumen, the largest measuring approximately 18 mm. Gall bladder wall shows diffuse thickening, measuring 4 mm. No pericholecystic fluid collection. Sonographic Murphy's sign is negative.
+
+COMMON BILE DUCT:
+Measures 4.2 mm at the porta; not dilated.
+
+PANCREAS:
+Normal in size and echotexture. Main pancreatic duct is not dilated. No focal lesion or calcification.
+
+SPLEEN:
+Measures 9.4 cm. Homogeneous echotexture. No focal lesion.
+
+RIGHT KIDNEY:
+Measures 10.3 x 4.5 cm with parenchymal thickness of 1.5 cm. Corticomedullary differentiation is well maintained. No calculus or hydronephrosis.
+
+LEFT KIDNEY:
+Measures 10.8 x 4.9 cm, parenchyma 1.6 cm thick. Pelvicalyceal system is not dilated. No renal calculus.
+
+URINARY BLADDER:
+Well distended with normal wall thickness. No intraluminal echoes.
+
+UTERUS:
+Anteverted, measuring 8.1 x 4.2 x 4.6 cm. Myometrial echotexture is homogeneous. Endometrial thickness 7 mm. No fibroid seen.
+
+OVARIES:
+Right ovary 2.8 x 1.9 cm, left ovary 3.0 x 2.1 cm. Both ovaries appear normal.
+
+No free fluid in the abdomen or pelvis.
+
+IMPRESSION:
+1. Cholelithiasis - multiple calculi, largest ~18 mm, with diffuse gall bladder wall thickening. No sonographic features of acute cholecystitis.
+2. Grade I fatty liver.
+3. No other significant abnormality.
+
+ADVICE: Surgical consultation for cholelithiasis is recommended."
+US_SYNTH_067,33,Male,Telegraphic,2,"MHC - USG abdomen.
+Liver: mildly echogenic, Gr-I fatty liver. No SOL.
+Rest of abdomen NAD.
+Imp: Fatty liver Gr I."
+US_SYNTH_068,47,Female,Unstructured,11,"Ultrasound of the abdomen and pelvis was performed as part of the annual health assessment, by the transabdominal route with a full bladder.
+
+The liver is of normal size and echogenicity with smooth margins and shows no focal lesion, the portal and hepatic veins being normal. Gallbladder is well distended, its wall is not thickened and there is no calculus or sludge; CBD is of normal calibre. Pancreas, as far as seen, is unremarkable. Spleen measures 9.1 cm and is normal. Right and left kidneys measure 10.2 cm and 10.5 cm respectively, show normal cortical echoes and have no calculi, with no dilatation of the collecting systems.
+
+The urinary bladder is adequately distended and normal in outline. The uterus is anteverted, measuring 8.6 x 4.9 x 5.1 cm, with a well-defined hypoechoic intramural fibroid of 1.8 x 1.5 cm in the posterior wall; endometrium is central and measures 8 mm. The right ovary is normal. Arising from the left ovary there is a complex cystic lesion measuring 4.1 x 3.3 cm with fine low-level internal echoes and a lacy reticular pattern, without internal vascularity on colour Doppler, possibly a haemorrhagic cyst. A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological.
+
+Impression: Left ovarian complex cyst (4.1 cm), possibly haemorrhagic - suggest follow-up scan in the post-menstrual phase (day 5-7). Small intramural uterine fibroid. Minimal physiological POD fluid."
+US_SYNTH_069,62,Male,Structured,14,"USG ABDOMEN & PELVIS (MHC)
+
+1. Liver -  Normal in size (14.6 cm). Mild diffuse increase in echogenicity - Grade 1 hepatic steatosis. No SOL seen. Hepatic & portal veins normal.
+2. Gall bladder - Distended. Lumen anechoic. No calculus. Wall thickness normal.
+3. CBD -  Not dilated (3.6 mm).
+4. Pancreas - Normal size & echopattern; duct not dilated.
+5. Spleen - 10.0 cm, unremarkable.
+6. Right kidney - 10.6 x 4.9 cm. A 5 mm echogenic focus with distal shadowing is seen in the lower calyx, s/o renal calculus. Mild dilatation of the pelvicalyceal system (mild hydronephrosis).
+7. Left kidney - 10.9 x 5.1 cm. Normal parenchyma. No calculus. No hydronephrosis.
+8. Urinary bladder - Adequately distended (pre-void volume 420 ml). Wall is mildly thickened (5.5 mm) and trabeculated. No intravesical mass.
+9. Prostate - Enlarged, measuring 5.1 x 4.6 x 4.4 cm, volume approx. 55 cc, with intravesical protrusion of the median lobe by 11 mm. Echotexture is homogenous.
+10. Post-void residual urine - 68 ml.
+11. No ascites or free fluid.
+
+OPINION:
+1. Prostatomegaly (~55 cc) with intravesical protrusion and mild bladder wall thickening / trabeculation.
+2. Right renal calculus (5 mm) with mild hydronephrosis.
+3. Grade 1 fatty liver.
+
+Suggest: Urology referral, S. PSA correlation."
+US_SYNTH_070,37,Female,Telegraphic,10,"USG W/A - Annual health check
+Liver: WNL. No SOL. IHBR not dil.
+GB: well distended, no calculi/sludge.
+CBD: 3 mm.  PV: 9 mm.
+Panc: WNL.
+Spl: 9.8 cm, normal echotexture. 9 mm splenule at hilum.
+B/L kidneys: normal size, CMD maintained. No calculus/HDN.
+UB, Ut (AV, 7.6 x 3.9 x 4.2 cm, ET 8 mm), B/L Ov: NAD.
+Imp: Small splenunculus (9 mm) near splenic hilum - normal variant. Otherwise NAD."
+US_SYNTH_071,54,Male,Unstructured,12,"Real-time B-mode sonography of the abdomen and pelvis was carried out as part of the executive health check-up, using a 3.5 MHz curvilinear transducer.
+
+The liver is enlarged, measuring approximately 17.2 cm in its craniocaudal span along the mid-clavicular line, and shows a diffuse increase in parenchymal echogenicity with moderate attenuation of the sound beam, such that the diaphragm is still seen but the walls of the portal venous radicles appear blurred; appearances are in keeping with grade II fatty infiltration. No focal space-occupying lesion is made out within the liver. The intrahepatic biliary radicles are not dilated and the portal vein measures 10 mm at the porta. The gall bladder is adequately distended, its wall is of normal thickness and there is no calculus or sludge within its lumen; the common bile duct is of normal calibre at 4 mm. The pancreas is visualised in its entirety and is normal in size and echopattern, with no peripancreatic collection. The spleen measures 10.4 cm and has a homogeneous echotexture without focal lesion.
+
+The right kidney measures 10.6 x 4.8 cm and the left kidney 10.9 x 5.1 cm; both show normal cortical thickness and well preserved corticomedullary differentiation. A small anechoic simple cortical cyst measuring about 7 mm is noted in the mid pole of the left kidney, with a thin imperceptible wall and posterior acoustic enhancement. There is no evidence of calculus or hydronephrosis on either side. The urinary bladder is well distended with smooth walls and clear contents. The prostate is normal in size, measuring 3.6 x 3.1 x 2.9 cm (volume approx. 17 cc), with homogeneous echotexture. No free fluid is seen in the peritoneal cavity.
+
+In summary, the study shows hepatomegaly with grade II fatty liver and a small simple cortical cyst in the left kidney. Correlation with lipid profile and liver function tests is advised."
+US_SYNTH_072,23,Female,Structured,26,"PATIENT NAME : Ms. Sneha Iyengar            AGE/SEX : 23 Yrs / F
+UHID : HCP-2026-0418827                    DATE : 14/09/2026
+REF. BY : Dr. Sameer Kulkarni (Corporate Wellness)
+CONTACT NO. : +91 98450 31762
+EXAMINATION : USG WHOLE ABDOMEN & PELVIS (TRANSABDOMINAL)
+
+Clinical details: Pre-employment / annual health check. Asymptomatic.
+
+FINDINGS:
+
+1. LIVER: Normal in size (13.1 cm), shape and outline. Parenchymal echotexture is homogeneous. No focal lesion is seen. No fatty infiltration. Hepatic veins and portal vein (9 mm) are normal.
+
+2. INTRAHEPATIC BILIARY RADICLES: Not dilated.
+
+3. GALL BLADDER: Well distended. Wall thickness normal (2 mm). No calculus, sludge or polyp. No pericholecystic fluid. Sonographic Murphy's sign is negative.
+
+4. COMMON BILE DUCT: Measures 3 mm; not dilated.
+
+5. PANCREAS: Head, body and tail visualised. Normal in size and echotexture. No focal lesion or calcification. Main pancreatic duct is not dilated. No peripancreatic collection.
+
+6. SPLEEN: Normal in size (9.2 cm) and echotexture. No focal lesion.
+
+7. RIGHT KIDNEY: Measures 10.1 x 4.2 cm. Cortical thickness and corticomedullary differentiation are normal. No calculus. No hydronephrosis. No cortical cyst.
+
+8. LEFT KIDNEY: Measures 10.4 x 4.5 cm. CMD maintained. No calculus or hydronephrosis. No focal renal lesion.
+
+9. URINARY BLADDER: Adequately distended. Wall is smooth and not thickened. No intraluminal echoes.
+
+10. UTERUS: Anteverted, normal in size (7.4 x 3.8 x 4.1 cm). Myometrial echotexture homogeneous; no fibroid. Endometrial thickness 7 mm.
+
+11. OVARIES: Right ovary 2.9 x 1.8 cm, left ovary 3.0 x 1.9 cm. No ovarian cyst or adnexal mass.
+
+12. PERITONEUM: No free fluid in the abdomen or pelvis.
+
+IMPRESSION:
+Normal ultrasound study of the abdomen and pelvis.
+
+Dr. Anjali Venkataraman
+MD (Radiodiagnosis)"
+US_SYNTH_073,48,Male,Telegraphic,10,"USG ABDOMEN - MHC
+
+Liver: N size, gr I fatty change. No SOL.
+GB: distended, echogenic sludge in dependent part. No calculi. Wall N.
+CBD 4 mm.
+Panc, Spl - NAD.
+B/L kidneys - NAD, no calculus/HDN.
+UB - N. Prostate - N size (18 cc).
+
+Imp: Gr I fatty liver. GB sludge. Rest NAD."
+US_SYNTH_074,60,Female,Unstructured,12,"Indication: Routine annual health screening. Known case of laparoscopic cholecystectomy (2019).
+
+Liver is normal in size at 14.6 cm but shows moderately increased echogenicity with partial obscuration of the deeper parenchyma and portal vein walls, consistent with grade 2 hepatic steatosis; no focal lesion is identified. Gall bladder is not visualised - surgically absent (post-cholecystectomy status), and the CBD measures 6 mm, which is within acceptable limits for the post-operative state. Pancreas and spleen are unremarkable. Both kidneys are normal in size and position with preserved CMD; a simple cortical cyst of 9 mm is seen at the upper pole of the right kidney and another of 1.2 cm at the lower pole of the left kidney, neither showing septations or solid components. No renal calculus, and no dilatation of the pelvicalyceal systems bilaterally. Urinary bladder is partially distended with a smooth wall. The uterus is small and atrophic, as expected for the postmenopausal age, with a thin endometrial stripe; both ovaries could not be visualised, probably atrophic. No ascites."
+US_SYNTH_075,30,Male,Structured,8,"Clinical: Annual health check-up
+Technique: Transabdominal scan with curvilinear probe.
+
+Liver -  Normal in size. A well-defined anechoic cyst measuring 12 x 10 mm is noted in segment VI, thin walled, with posterior acoustic enhancement and no internal echoes - s/o simple hepatic cyst. Rest of the liver parenchyma is unremarkble. No IHBR dilatation.
+Gall bladder -  Distended, normal wall. No calculus.
+CBD -  Normal calibre.
+Pancreas -  Normal.
+Spleen -  Normal size (9.8 cm) and echopattern.
+Kidneys -  Right 10.3 cm, Left 10.7 cm. Both normal in size and echogenicity. No calculus / hydronephrosis.
+Urinary bladder -  Well distended, normal.
+Prostate -  Normal size, volume 16 cc. homogeneous.
+No free fluid.
+
+IMPRESSION:
+Simple hepatic cyst (12 mm) in segment VI of liver.
+No other significant abnormality."
+US_SYNTH_076,42,Female,Telegraphic,13,"USG Abdomen + Pelvis
+Ind: Corporate health check. Asymptomatic.
+
+Liver - 14.2 cm, mildly incr. echogenicity - Gr-1 fatty liver. No focal lesion. IHBR not dilated.
+GB - well distended. Single calculus ~8 mm impacted at neck, non-mobile on change of posture. Wall 2.5 mm. No pericholecystic fluid. Sono Murphy -ve.
+CBD - 4.5 mm, NAD.
+Panc - WNL.
+Spl - 10.1 cm, WNL.
+RK - 10.4 x 4.6 cm. LK - 10.8 x 4.9 cm. B/L normal CMD, no calculus, no HDN.
+UB - partially filled, NAD.
+Ut - bulky (9.6 x 5.8 x 6.1 cm), AV, heterogeneous myometrium with ill-defined margins, no discrete fibroid. ET 8 mm. ? Adenomyosis.
+B/L Ov - normal.
+No free fluid in POD.
+
+Imp:
+1. Gr I fatty liver.
+2. Cholelithiasis - solitary 8 mm non-mobile calculus at GB neck.
+3. Bulky uterus with heterogeneous myometrium - ? adenomyosis.
+Adv: Gynaec opinion / TVS correlation."
+US_SYNTH_077,41,Male,Unstructured,11,"Ultrasound of the whole abdomen was performed for the annual medical check-up. The liver is of normal size and uniform echotexture, with no focal lesion and no intrahepatic biliary dilatation. The gallbladder is well distended and thin walled with no stones within, and the CBD is not dilated. Pancreas and spleen appear normal. In the right kidney, two small echogenic foci with distal acoustic shadowing, the larger measuring 5 mm and the smaller 3 mm, are seen in the lower and mid calyces, consistent with non-obstructing renal calculi. The left kidney shows a single shadowing calculus of 7 mm in the lower pole calyx. Neither kidney shows hydronephrosis, and the ureters are not dilated. Renal size and corticomedullary differentiation are otherwise maintained on both sides. Urinary bladder is well distended with no wall thickening. The prostate is normal in size and echotexture. There is no free fluid.
+
+Impression: Bilateral renal calculi (right 5 mm and 3 mm, left 7 mm) without obstructive uropathy."
+US_SYNTH_078,34,Female,Structured,15,"ULTRASOUND ABDOMEN AND PELVIS
+Indication: Health check-up (MHC)
+
+HEPATOBILIARY SYSTEM
+- Liver is mildly enlarged, span 16.5 cm in the right midclavicular line. Echotexture is homogeneous with normal echogenicity; no evidence of fatty infiltration. No focal lesion.
+- Intrahepatic biliary radicles: not dilated.
+- Gall bladder: physiologically distended, no calculi, wall not thickened.
+- CBD: 3.8 mm.
+
+PANCREAS
+- Head and body appear normal. Tail could not be assessed due to overlying bowel gas.
+
+SPLEEN
+- 9.6 cm, normal echotexture, no focal lesion.
+
+KIDNEYS
+- Right kidney: 10.2 x 4.4 cm. Normal.
+- Left kidney: 10.6 x 4.7 cm. Normal.
+- No calculus or hydronephrosis on either side.
+
+PELVIS
+- Urinary bladder: Normal.
+- Uterus: Anteverted, normal size, uniform myometrium. Endometrium 6 mm.
+- Ovaries: Both normal in size; no cyst.
+- No free fluid in the pouch of Douglas.
+
+CONCLUSION:
+Mild hepatomegaly with normal echotexture.
+Pancreatic tail obscured by bowel gas - not evaluated.
+No other abnormality."
+US_SYNTH_079,57,Male,Telegraphic,14,"USG W/A  - Exec health chk
+
+Liver: 15.1 cm. Markedly incr echogenicity, poor visualisation of diaphragm & PV walls -> Gr III fatty liver. No SOL. IHBR nt dilated.
+GB: well distended, no calculi. wall N.
+CBD: 5mm.
+Pan: N.
+Spl: enlarged, 14.2 cm, homogenous. no SOL.
+Trace free fluid in morisons pouch.
+RK: 10.8 cm, WNL. No calculus / HDN.
+LK: 11.0 cm, WNL. no calculus, no HDN.
+UB: N.  Prostate: 22 cc, N.
+
+Imp: Gr III fatty liver. Splenomegaly (14.2 cm). Trace free fluid in Morison's pouch.
+Adv: LFT correlation."
+US_SYNTH_080,28,Female,Unstructured,8,"Annual health check-up. Liver, pancreas and spleen are normal in size and echotexture with no focal lesion. A tiny 3 mm non-shadowing, non-mobile echogenic focus is seen arising from the anterior wall of the gallbladder, likely a small polyp; no calculus. Both kidneys, urinary bladder, uterus and ovaries show normal sonographic appearance. No free fluid."
+US_SYNTH_081,46,Male,Structured,11,"USG WHOLE ABDOMEN
+
+Indication: Annual health check-up.
+
+LIVER: Normal in size, measuring 14.2 cm in the midclavicular line. Diffusely bright liver parenchyma with mild posterior attenuation; diaphragm and portal vein walls are still well seen. No focal lesion is seen. Intrahepatic biliary radicles are not dilated. Portal vein normal in calibre.
+
+GALL BLADDER: Well distended. Wall is not thickened. No calculus or sludge within the lumen.
+
+CBD: 3.8 mm in calibre.
+
+PANCREAS: Head, body and tail visualised; normal in size and echopattern. No focal lesion.
+
+SPLEEN: 10.1 cm, normal size and echotexture. No SOL.
+
+KIDNEYS: Right kidney measures 10.3 x 4.6 cm, left kidney 10.6 x 4.9 cm. Both kidneys are normal in size, shape and position with maintained corticomedullary differentiation. No calculus or hydronephrosis on either side.
+
+URINARY BLADDER: Adequately filled, wall smooth. No intraluminal echoes.
+
+PROSTATE: Normal in size (volume approx. 17 cc), homogeneous echotexture.
+
+No free fluid in the abdomen or pelvis.
+
+IMPRESSION:
+Fatty liver, Grade I.
+No other significant abnormality."
+US_SYNTH_082,50,Female,Telegraphic,10,"USG ABD + PELVIS  (MHC)
+
+Liver - N size (13.8 cm), echotexture N. No SOL. IHBR not dil.
+GB - distended, no calculi. Wall N.
+CBD - 4 mm.
+PV - 10 mm.
+Panc - NAD.
+Spl - 9.6 cm, NAD.
+RK - 9.9 x 4.2 cm. LK - 10.2 x 4.5 cm. CMD maintained B/L. No calculus / HDN.
+UB - well distended, NAD.
+Ut - bulky, 11.2 x 6.4 x 5.8 cm. Multiple intramural & subserosal fibroids, largest ~3.8 x 3.1 cm in post wall (fundus). ET 5mm.
+Rt Ov - NAD.
+Lt Ov - 2.6 x 2.1 cm well defined echogenic lesion with post acoustic shadowing ? dermoid cyst.
+No free fluid in POD.
+
+Imp:
+- Bulky uterus with multiple fibroids.
+- Lt ovarian echogenic lesion - ? dermoid. Adv: correlation / MRI pelvis."
+US_SYNTH_083,38,Male,Unstructured,14,"Ultrasound examination of the abdomen and pelvis was performed as part of the annual executive health check using a curvilinear 3.5 MHz transducer. The liver is normal in size, with a span of about 13.5 cm, and shows a uniform echotexture with smooth margins; there is no focal lesion and the intrahepatic biliary radicles are not dilated. The portal vein and hepatic veins appear normal in calibre. The gall bladder is physiologically distended with a thin wall and an echo-free lumen, without any calculus, sludge or polyp, and the common bile duct measures 3 mm. The pancreas is well visualised in its entirety and is normal in size and echotexture, with no peripancreatic collection and a non-dilated main pancreatic duct. The spleen measures 9.8 cm and is homogeneous with no focal lesion. Both kidneys are normal in size and position, the right measuring 10.4 cm and the left 10.8 cm, with well preserved corticomedullary differentiation; neither kidney shows calculus, hydronephrosis or a cortical cyst. The urinary bladder is well distended with a smooth, non-thickened wall and clear contents, and the prostate is normal in size with a volume of approximately 15 cc and homogeneous echotexture. The aorta and IVC are normal in calibre and no para-aortic lymphadenopathy is seen. There is no ascites or pleural effusion. On the whole, no sonographic abnormality is detected in the abdomen and pelvis."
+US_SYNTH_084,59,Female,Structured,16,"ULTRASONOGRAPHY OF ABDOMEN & PELVIS
+
+Clinical details: Preventive health check-up. Asymptomatic.
+
+HEPATOBILIARY SYSTEM
+1. Liver measures 15.0 cm, normal in size. Parenchymal echogenicity is moderately increased with partial obscuration of the portal venous walls - Grade II fatty infiltration. No focal mass lesion.
+2. Gall bladder is well distended and shows multiple small mobile calculi, the largest measuring 6 mm, with posterior acoustic shadowing. Wall thickness 2 mm. No pericholecystic fluid.
+3. CBD measures 4.5 mm; not dilated.
+
+PANCREAS
+Pancreas appears normal.
+
+SPLEEN
+Measures 8.9 cm. Normal echotexture, no focal lesion.
+
+KIDNEYS
+Right kidney: 9.8 x 4.4 cm. A simple anechoic cortical cyst measuring 14 x 12 mm is seen at the upper pole, with no septations or solid component. No calculus or hydronephrosis on this side.
+Left kidney: 10.1 x 4.7 cm. Normal size and cortical thickness. No calculus. No hydronephrosis.
+
+URINARY BLADDER
+Well distended with normal wall.
+
+UTERUS & OVARIES
+Uterus is small and atrophic, measuring 5.6 x 3.1 x 2.8 cm, with a thin endometrial line (3 mm); appears normal for postmenopausal age. Ovaries not separately visualised.
+
+No free fluid.
+
+IMPRESSION:
+• Grade II fatty liver.
+• Cholelithiasis (multiple small calculi, largest 6 mm).
+• Simple right renal cortical cyst (14 mm).
+
+Dr. Meenakshi Raghavan, MD (Radiodiagnosis)
+Consultant Radiologist
+Reg. No. KMC 54871"
+US_SYNTH_085,25,Male,Telegraphic,8,"USG Abd - MHC
+Liver: WNL
+GB: WNL
+Panc: WNL
+Spl :WNL
+B/L K: WNL
+UB: WNL
+Prost: WNL
+Imp: NAD"
+US_SYNTH_086,44,Female,Unstructured,12,"Indication: routine health checkup.
+The liver is of normal size and echogenicity with no focal lesion; the hepatic and portal veins are of normal calibre. Gallbladder is well distended with no stones and its wall is not thickned, CBD being of normal calibre. Pancreas and spleen appear normal. The right kidney is normal in size and echopattern with no calculus or back pressure changes. The left kidney measures 10.9 cm and shows mild dilatation of the pelvicalyceal system with an AP pelvic diameter of 14 mm; the left ureter is not dilated and no calculus is seen along the visualised course of the left urinary tract. Urinary bladder is distended with a normal wall. The uterus is anteverted and appears normal, measuring 7.8 x 4.5 x 3.9 cm with an endometrial thickness of 8 mm, and both ovaries are normal. No free fluid is noted in the pelvis.
+Impression: Mild left hydronephrosis without obvious calculus — ? PUJ obstruction. Suggest DTPA renogram for correlation."
+US_SYNTH_087,53,Male,Structured,12,"Ref: Annual Health Check (Corporate)
+Study: USG Abdomen and Pelvis
+
+FINDINGS:
+1) LIVER: Normal size (14.6 cm). Mildly increased parenchymal echogenicity with preserved visualisation of diaphragm and intrahepatic vessels, s/o grade 1 hepatic steatosis. No SOL. IHBRs normal.
+2) GALLBLADDER: Normally distended, anechoic lumen. No calculus/sludge. Wall 2.4 mm.
+3) CBD: 3.5 mm.
+4) PANCREAS: Unremarkable.
+5) SPLEEN: 10.4 cm. Appears normal.
+6) RIGHT KIDNEY: 10.5 x 4.8 cm. A tiny 2 mm non-shadowing echogenic focus in the mid-pole sinus, which could represent a tiny calculus or vascular calcification. No hydronephrosis.
+7) LEFT KIDNEY: 10.7 x 5.0 cm. Normal. No calculus or hydronephrosis.
+8) URINARY BLADDER: Well distended, wall regular. Post-void residue 18 ml (insignificant).
+9) PROSTATE: Enlarged, measuring 4.6 x 4.1 x 3.8 cm (volume ~38 cc), with homogeneous echotexture.
+10) No ascites.
+
+OPINION:
+- Grade I fatty liver.
+- Prostatomegaly (approx. 38 cc).
+- Tiny echogenic focus in right kidney - ? non-obstructing microcalculus vs vascular calcification. Suggest follow-up."
+US_SYNTH_088,32,Female,Telegraphic,11,"MHC - USG abdomen/pelvis
+Liver: N size. Gr I fatty changes. No focal lesion.
+GB: well distended, no stones, wall N.
+CBD 3mm.
+Pan: obscured by overlying bowel gas - not well seen.
+Spleen: N (9.2cm).
+Rt K 10.1cm / Lt K 10.4cm - normal, no calculus, no HDN.
+UB: N.
+Ut: AV, N size, ET 7mm. B/L ovaries N.
+No FF.
+Imp: Grade I fatty liver. Rest NAD."
+US_SYNTH_089,49,Male,Unstructured,11,"Clinical indication: Executive health screening; asymptomatic.
+
+The liver is normal in size but shows a moderate diffuse increase in echogenicity with blurring of the portal vein radicle walls, in keeping with grade II hepatic steatosis; no space-occupying lesion is identified and biliary radicles are not dilated. The gall bladder, examined in the fasting state, contains no calculus and has a normal wall, and the CBD measures 4 mm. Multiple punctate echogenic foci are noted scattered within the pancreatic parenchyma, mainly in the head and body, consistent with parenchymal calcifications; the main pancreatic duct is mildly dilated, measuring 4 mm in the body, and no peripancreatic fluid is seen. In this setting chronic pancreatitis cannot be excluded and correlation with serum amylase/lipase and MRCP is recommended. The spleen is normal in size (10.6 cm) with homogeneous echotexture. Both kidneys are normal in size with good corticomedullary differentiation, and there is no evidence of calculus or hydronephrosis on either side. The urinary bladder is unremarkable and the prostate is of normal size (16 cc). No free fluid."
+US_SYNTH_090,36,Female,Structured,12,"Patient Name: Mrs. Pooja Malhotra        MRN: SHC/24/0087312
+DOB: 14/03/1990     Age/Sex: 36 Y / F
+Date of Scan: 27-10-2026      Ref. by: Corporate Wellness Program
+
+ULTRASOUND ABDOMEN AND PELVIS
+
+Liver - Normal in size (13.1 cm) and echotexture. no focal lesion seen. Portal vein 9 mm.
+Gall bladder - Distended, thin walled, no calculus.
+CBD - Normal calibre (3 mm).
+Pancreas - Normal.
+Spleen - normal size (8.7 cm) and echotexture.
+Right Kidney - 10.2 x 4.1 cm. Normal.
+Left Kidney - 10.5 x 4.3 cm. Normal.
+No hydronephrosis/calculus on either side.
+Urinary Bladder - Well distended, normal.
+Uterus - Anteverted, 7.4 x 4.0 x 3.6 cm, normal. Endometrium 6 mm.
+Ovaries - Right 2.8 x 1.9 cm, Left 3.0 x 2.0 cm; both normal with follicles.
+No free fluid in pelvis.
+
+IMPRESSION: Normal study."
+US_SYNTH_091,60,Male,Telegraphic,15,"USG ABD + PELVIS
+Ind: MHC
+
+Liver - enlarged, 17.2 cm. Diffusely incr echogenicity, PV walls partly obscured - Gr II fatty liver. No focal SOL.
+IHBR not dilated.
+GB - distended. Single mobile calculus 2.2 cm in lumen w/ PAS. Wall 2.5 mm. No pericholecystic fluid. CBD 4.1 mm.
+Panc - NAD.
+Spl - 10.4 cm, normal echo.
+RK - 10.2 x 4.6 cm. CMD maintained. No calculus / HDN.
+LK - 10.6 x 5.0 cm. Simple cortical cyst 1.9 x 1.7 cm upper pole, anechoic, no septa/solid comp. No HDN.
+UB - well distended, wall normal.
+Prostate - enlarged, 4.3 x 3.9 x 3.4 cm, vol ~30 cc. Homogeneous.
+No ascites.
+
+Imp:
+1. Hepatomegaly with grade II fatty liver.
+2. Cholelithiasis (2.2 cm).
+3. Lt renal simple cortical cyst.
+4. Prostatomegaly (~30 cc)."
+US_SYNTH_092,26,Female,Unstructured,8,"Liver, gall bladder, pancreas, spleen and both kidneys appear normal on this scan, and the urinary bladder, uterus and both ovaries are unremarkable with no free fluid in the pelvis. Normal ultrasound abdomen and pelvis."
+US_SYNTH_093,42,Male,Structured,13,"ULTRASOUND OF ABDOMEN AND PELVIS
+
+Clinical details: Executive health check-up. Asymptomatic.
+
+FINDINGS:
+
+Liver: Normal in size (14.1 cm). Parenchymal echogenicity is mildly raised, consistent with grade I fatty infiltration. An ill-defined hypoechoic lesion measuring approx. 18 x 15 mm is noted in segment VIII, close to the dome; no internal vascularity on colour Doppler. Intrahepatic biliary radicles are not dilated. Portal vein is normal in calibre.
+
+Gall bladder: Adequately distended. No calculi or sludge. Wall is not thickened.
+
+CBD: 3.8 mm, normal.
+
+Pancreas: Normal in size and echotexture. No focal lesion. MPD not dilated.
+
+Spleen: 9.8 cm. Unremarkable.
+
+Kidneys: Right kidney 10.4 cm, left kidney 10.9 cm. Both show normal cortical thickness and corticomedullary differentiation. No calculus, hydronephrosis or mass on either side.
+
+Urinary bladder: Well distended, smooth wall, no intraluminal echoes.
+
+Prostate: Normal in size (vol 17 cc), homogeneous.
+
+No free fluid in the abdomen or pelvis.
+
+IMPRESSION:
+1. Ill-defined hypoechoic focal lesion (18 mm) in segment VIII of the liver - indeterminate on ultrasound. Contrast-enhanced CT / MRI liver is advised for further characterisation.
+2. Grade I fatty liver."
+US_SYNTH_094,55,Female,Telegraphic,9,"USG W/A - MHC
+Non-fasting scan.
+
+Liver: N size, mildly bright - Gr 1 fatty. No SOL. IHBR - not dil.
+GB: contracted (post-prandial), not evaluable.
+CBD: 3 mm.
+Pan, Spl: NAD.
+Rt K / Lt K: N size, CMD well maintained, no calculus/HDN b/l.
+UB: NAD
+Ut: atrophic, ET thin (postmenopausal)
+Rt ov: anechoic thin walled cyst 2.0 x 1.8 cm - simple cyst. Lt ov: not seen separately
+No FF.
+
+Imp: Gr 1 fatty liver. Rt ovarian simple cyst 2 cm. Atrophic uterus. GB not assessed (contracted)."
+US_SYNTH_095,31,Male,Unstructured,10,"Ultrasound of the whole abdomen was performed as part of annual health check-up.  The liver is of normal size and echotexture with no focal lesion and the intrahepatic biliary radicals are not dilated. Gall bladder is well distended with thin walls and no calculus within it; CBD is of normal calibre. Pancreas and spleen appear normal. The right kidney measures 10.1 x 4.4 cm and is normal in size, position and echogenicity with no calculus or hydronephrosis. The left kidney measures 11.2 x 5.3 cm and shows moderate hydronephrosis with dilated pelvis and calyces, the cause being an echogenic calculus of 11 mm with posterior acoustic shadowing impacted at the pelviureteric junction; the left ureter is not dilated beyond this point. Urinary bladder is adequately distended and normal in wall thickness. Prostate is normal in size and echo pattern. There is no ascites. In summary, left PUJ calculus (11 mm) causing moderate left hydronephrosis, with the rest of the abdomen being normal. Urology opinion is recommended."
+US_SYNTH_096,47,Female,Structured,19,"SUNRISE DIAGNOSTICS & IMAGING CENTRE - DEPARTMENT OF RADIOLOGY
+
+Patient Name : Mrs. Lakshmi Venkataraman          Age/Sex : 47 Y / F
+UHID         : SDI-2026-0418837                   Date    : 14/09/2026
+Mobile       : +91 98450 31672                    Ref. By : Corporate Health Check (Gold package)
+
+ULTRASONOGRAPHY - WHOLE ABDOMEN & PELVIS
+
+Clinical indication: Routine master health check-up. No complaints.
+Technique: Real-time B-mode and colour Doppler sonography with a 3.5 MHz curvilinear probe after 6 hours of fasting. Transvaginal scan not performed.
+
+HEPATOBILIARY SYSTEM
+• Liver is enlarged, measuring 18.4 cm in the right midclavicular line, with markedly increased parenchymal echogenicity and poor visualisation of the diaphragm and posterior right lobe, consistent with grade III fatty liver.
+• Portal and hepatic venous walls are not discernible. No discrete focal lesion is made out, though sensitivity is reduced by the fatty background.
+• Intrahepatic biliary radicles are not dilated. Portal vein measures 10 mm.
+
+GALL BLADDER & CBD
+• Gall bladder is well distended with normal wall thickness (2 mm).
+• Multiple small non-shadowing, non-mobile echogenic foci are seen arising from the wall, the largest measuring 5 mm along the anterior wall of the body — features suggestive of cholesterol polyps.
+• No calculus. No pericholecystic collection.
+• CBD measures 4 mm and is normal in course and calibre.
+
+PANCREAS
+• Head, body and tail are well visualised and normal in size and echotexture. Main pancreatic duct is not dilated. No calcification.
+
+SPLEEN
+• Measures 10.2 cm. Normal echotexture. No focal lesion.
+
+RIGHT KIDNEY
+• 10.6 x 4.8 cm. Normal cortical echogenicity and thickness, corticomedullary differentiation maintained. No calculus. No hydronephrosis.
+
+LEFT KIDNEY
+• 10.9 x 5.1 cm. Normal in size and echotexture. No calculus seen. Pelvicalyceal system not dilated.
+
+URINARY BLADDER
+• Well distended. Wall is smooth and not thickened. No intraluminal echoes.
+
+UTERUS
+• Anteverted, 7.8 x 4.1 x 4.6 cm. Myometrial echotexture homogeneous; no fibroid seen. Endometrial thickness 7 mm.
+
+OVARIES
+• Both ovaries are normal in size and echopattern. No cyst or mass.
+
+• No ascites or pelvic free fluid. No significant retroperitoneal lymphadenopathy.
+
+IMPRESSION:
+1. Hepatomegaly with grade III fatty infiltration of the liver.
+2. Multiple small gall bladder polyps (largest 5 mm), likely cholesterol polyps. Follow-up ultrasound in 6-12 months is suggested.
+3. No other significant abnormality.
+
+Suggest clinical correlation with LFT and lipid profile.
+
+Dr. Meenakshi Raghavan, MD (Radiodiagnosis)
+Consultant Radiologist"
+US_SYNTH_097,36,Male,Telegraphic,11,"USG abdomen (MHC)
+Liver: WNL. No SOL.
+GB: well distended. Fundal wall shows few echogenic foci with comet-tail artefacts - s/o adenomyomatosis (fundal type). No calculi.
+CBD: 3.5mm
+Panc/Spl: normal
+B/L kidneys: normal size & echo. No calculus, no HDN.
+UB: normal. Prostate: normal (14 cc).
+No free fluid.
+Imp: Fundal adenomyomatosis of GB. Otherwise NAD."
+US_SYNTH_098,39,Female,Unstructured,11,"Indication - annual health checkup, LMP 14 days back.
+Liver measures 13.2 cm and shows normal echotexture without any focal lesion; there is no intra hepatic biliary dilatation and the portal vein is normal.  The gallbladder is distended, its walls are thin and there are no stones or sludge in it, and the common bile duct is not dilated. pancreas appears normal and the spleen (9.4 cm) is also normal. Both kidneys are normal in size with good corticomedullary differentiation; there is no calculus and no backpressure changes on either side. The urinary bladder is well filled and shows no wall thickening. Uterus is anteverted and of normal size (7.4 x 3.9 x 4.2 cm) with homogeneous myometrium and a trilaminar endometrium of 8 mm. Both ovaries are normal in size and show a few small follicles. A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological given the mid-cycle timing. Apart from this no other abnormality is seen."
+US_SYNTH_099,28,Male,Structured,13,"USG – ABDOMEN & PELVIS
+Indication : Pre-employment / annual wellness screening
+
+1. LIVER – Normal in size (13.8 cm). Diffuse mild increase in echogenicity with preserved visualisation of the diaphragm and portal venous walls – Grade I hepatic steatosis. No focal hepatic lesion. IHBRs normal.
+2. GALL BLADDER – Physiologically distended. Lumen anechoic; no calculus, no polyp. Wall thickness normal.
+3. CBD – Not dilated (3 mm).
+4. PANCREAS – Unremarkable.
+5. SPLEEN – Normal size (10 cm), homogeneous.
+6. RIGHT KIDNEY – Measures 10.8 x 4.5 cm. A well-defined hyperechoic cortical lesion of 8 x 6 mm is seen in the mid pole, without posterior shadowing or internal vascularity; likely angiomyolipoma. No calculus or hydronephrosis.
+7. LEFT KIDNEY – Measures 11.0 x 4.9 cm. Normal parenchymal echoes and CMD. No calculus, no hydronephrosis.
+8. URINARY BLADDER – Normal capacity, anechoic lumen, wall regular.
+9. PROSTATE – 3.6 x 2.9 x 2.7 cm (vol ~15 cc). Normal.
+10. No ascites.
+
+OPINION:
+• Grade I fatty liver.
+• Small echogenic cortical lesion (8 mm) in the right kidney, likely an angiomyolipoma. Suggest NCCT/CECT KUB for confirmation if clinically indicated."
+US_SYNTH_100,61,Female,Telegraphic,15,"SONO ABDOMEN-PELVIS | Health check
+H/o lap cholecystectomy (2019)
+
+Liver: 14.6 cm, mild diffuse ↑ echogenicity - fatty liver gr I. No focal lesion. No IHBRD.
+GB: not visualised - post cholecystectomy status. GB fossa clear.
+CBD: 5.8 mm (acceptable post-op). No calculus in visualised CBD.
+Panc: NAD.
+Spl : 9.1cm, NAD
+Rt K: 9.8 x 4.3 cm. Multiple anechoic cortical cysts, largest 3.1 x 2.8 cm at upper pole - simple (Bosniak I). No calculus. No HDN.
+Lt K: 10.0 x 4.6 cm. 2-3 small simple cortical cysts, largest 1.5 cm in interpolar region. No calculus / hydro.
+UB: partially filled, NAD.
+Ut: small, atrophic (post menopausal). ET 2 mm.
+Ov: not visualised b/l (atrophic).
+No free fluid.
+
+Imp:
+- Gr I fatty liver
+- B/L multiple simple renal cortical cysts (R 3.1 cm, L 1.5 cm)
+- Post cholecystectomy status
+- Atrophic uterus"

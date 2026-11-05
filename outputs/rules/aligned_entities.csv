@@ -1,0 +1,806 @@
+report_id,organ,concept,gold_status,pred_status,gold_grade,pred_grade,gold_size,pred_size,gold_radlex,pred_radlex,gold_icd,pred_icd,gold_evidence,pred_evidence
+US_SYNTH_001,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculus,"Normally distended; no calculus, no wall thickening, and no pericholecystic fluid"
+US_SYNTH_001,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,"Normally distended; no calculus, no wall thickening, and no pericholecystic fluid"
+US_SYNTH_001,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,no wall thickening,"Normally distended; no calculus, no wall thickening, and no pericholecystic fluid"
+US_SYNTH_001,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no renal calculus,No hydronephrosis or renal calculus
+US_SYNTH_001,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No hydronephrosis or renal calculus
+US_SYNTH_001,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_001,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_001,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis","Normal in size with mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_001,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,"Visualized pancreas is unremarkable, with no focal abnormality"
+US_SYNTH_001,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_001,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal splenic lesion,Normal in size; no focal splenic lesion
+US_SYNTH_002,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,without calculi,Well distended without calculi
+US_SYNTH_002,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid is present,"The wall is not thickened, and no pericholecystic fluid is present"
+US_SYNTH_002,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,The wall is not thickened,"The wall is not thickened, and no pericholecystic fluid is present"
+US_SYNTH_002,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_002,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_002,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary dilatation,No intrahepatic biliary dilatation
+US_SYNTH_002,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion is seen,No focal lesion is seen
+US_SYNTH_002,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,"moderately increased echogenicity with partial posterior beam attenuation, in keeping with Grade 2 fatty infiltration","The hepatic parenchyma demonstrates moderately increased echogenicity with partial posterior beam attenuation, in keeping with Grade 2 fatty infiltration"
+US_SYNTH_002,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal abnormality,"Visualized portions are normal in echotexture, without a focal abnormality"
+US_SYNTH_002,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid or obvious pelvic mass
+US_SYNTH_002,Pelvis,Pelvic Mass,Negated,Negated,N/A,N/A,,,,,,,no obvious pelvic mass,No free fluid or obvious pelvic mass
+US_SYNTH_002,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_003,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No gallstones,No gallstones or wall thickening
+US_SYNTH_003,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic collection,No pericholecystic collection
+US_SYNTH_003,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,no wall thickening,No gallstones or wall thickening
+US_SYNTH_003,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculi,No calculi or hydronephrosis
+US_SYNTH_003,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no calculi or hydronephrosis,No calculi or hydronephrosis
+US_SYNTH_003,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No discrete focal hepatic lesion,No discrete focal hepatic lesion is identified
+US_SYNTH_003,Liver,Steatosis,Affirmed,Affirmed,Grade 3,Grade 3,,,RID39103,RID39103,K76.0,K76.0,"diffusely hyperechoic with marked posterior acoustic attenuation and reduced conspicuity of the intrahepatic vasculature, compatible with Grade 3 steatosis hepatis","The liver is diffusely hyperechoic with marked posterior acoustic attenuation and reduced conspicuity of the intrahepatic vasculature, compatible with Grade 3 steatosis hepatis"
+US_SYNTH_003,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,shows no focal abnormality,The visualized pancreatic tissue shows no focal abnormality
+US_SYNTH_003,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_003,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Normal in size with no focal lesion
+US_SYNTH_004,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No intraluminal calculus,No intraluminal calculus
+US_SYNTH_004,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no surrounding fluid,"The gallbladder wall is normal in thickness, with no surrounding fluid"
+US_SYNTH_004,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,The gallbladder wall is normal in thickness,"The gallbladder wall is normal in thickness, with no surrounding fluid"
+US_SYNTH_004,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no renal calculus,No hydronephrosis or renal calculus
+US_SYNTH_004,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No hydronephrosis or renal calculus
+US_SYNTH_004,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_004,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_004,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"slightly brighter than the adjacent renal cortex, consistent with mild fatty change, Grade 1","The hepatic parenchyma is slightly brighter than the adjacent renal cortex, consistent with mild fatty change, Grade 1"
+US_SYNTH_004,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal pancreatic abnormality,No focal pancreatic abnormality is seen in the visualized portion
+US_SYNTH_004,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_004,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,"Normal in size and echotexture, without a focal lesion"
+US_SYNTH_005,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,6.5,6.5,RID5770,RID5770,K80.20,K80.20,A solitary mobile echogenic calculus measuring 6.5 mm demonstrates posterior acoustic shadowing,A solitary mobile echogenic calculus measuring 6.5 mm demonstrates posterior acoustic shadowing
+US_SYNTH_005,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,No wall thickening or pericholecystic fluid
+US_SYNTH_005,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_005,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No wall thickening,No wall thickening or pericholecystic fluid
+US_SYNTH_005,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_005,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_005,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_005,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_005,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal pancreatic abnormality,No focal pancreatic abnormality is identified in the visualized portion
+US_SYNTH_005,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_005,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,"Normal in size, without a focal lesion"
+US_SYNTH_006,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,11.8,11.8,RID5770,RID5770,K80.20,K80.20,"Several mobile intraluminal echogenic foci produce posterior acoustic shadowing, the largest measuring 11.8 mm","Several mobile intraluminal echogenic foci produce posterior acoustic shadowing, the largest measuring 11.8 mm"
+US_SYNTH_006,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_006,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_006,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_006,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculi,No renal calculi or hydronephrosis
+US_SYNTH_006,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no renal calculi or hydronephrosis,No renal calculi or hydronephrosis
+US_SYNTH_006,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_006,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_006,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal abnormality,"Visualized portions are unremarkable, without a focal abnormality"
+US_SYNTH_006,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_006,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,"Normal in size, without a focal lesion"
+US_SYNTH_007,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No stones,No stones or wall thickening
+US_SYNTH_007,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_007,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,no wall thickening,No stones or wall thickening
+US_SYNTH_007,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculus,WNL; no calculus
+US_SYNTH_007,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,8.0,8.0,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst, lower pole, 8.0 mm","Simple cortical cyst, lower pole, 8.0 mm; no solid component"
+US_SYNTH_007,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No hydronephrosis
+US_SYNTH_007,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,no solid component,"Simple cortical cyst, lower pole, 8.0 mm; no solid component"
+US_SYNTH_007,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL in size; no focal lesion
+US_SYNTH_007,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,WNL in visualized portion; no focal abnormality
+US_SYNTH_007,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_007,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_008,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculus,No calculus
+US_SYNTH_008,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,No wall thickening or pericholecystic fluid
+US_SYNTH_008,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No wall thickening,No wall thickening or pericholecystic fluid
+US_SYNTH_008,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus,No calculus or hydro
+US_SYNTH_008,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,21.5,21.5,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst, mid-pole, 21.5 mm","Simple cortical cyst, mid-pole, 21.5 mm; no septa or solid component"
+US_SYNTH_008,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No calculus or hydro
+US_SYNTH_008,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,no septa,"Simple cortical cyst, mid-pole, 21.5 mm; no septa or solid component"
+US_SYNTH_008,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,no solid component,"Simple cortical cyst, mid-pole, 21.5 mm; no septa or solid component"
+US_SYNTH_008,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or biliary dilatation,WNL; no focal lesion or biliary dilatation
+US_SYNTH_008,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL; no focal lesion or biliary dilatation
+US_SYNTH_008,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,no focal abnormality
+US_SYNTH_008,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_008,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_009,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculus,"and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_009,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,"and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_009,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_009,Kidneys,Calculus,Possible,Possible,N/A,N/A,,,,,,,a tiny left renal calculus cannot be entirely excluded,"however, owing to limited visualization, a tiny left renal calculus cannot be entirely excluded"
+US_SYNTH_009,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no hydronephrosis is present,and no hydronephrosis is present
+US_SYNTH_009,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,The liver is normal in size and echotexture without a focal lesion or intrahepatic biliary dilatation
+US_SYNTH_009,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,The liver is normal in size and echotexture without a focal lesion or intrahepatic biliary dilatation
+US_SYNTH_009,Pancreas,Bowel Gas Obscuration,Affirmed,Affirmed,N/A,N/A,,,,,,,The pancreas is partly obscured by overlying bowel gas,The pancreas is partly obscured by overlying bowel gas
+US_SYNTH_009,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the visualized portion appears unremarkable,although the visualized portion appears unremarkable
+US_SYNTH_009,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,no free pelvic fluid is identified,and no free pelvic fluid is identified
+US_SYNTH_009,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The spleen is unremarkable,The spleen is unremarkable
+US_SYNTH_010,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,contains no calculi,"the gallbladder is thin-walled, contains no calculi, and shows no pericholecystic fluid"
+US_SYNTH_010,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,"the gallbladder is thin-walled, contains no calculi, and shows no pericholecystic fluid"
+US_SYNTH_010,Gallbladder,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the gallbladder is thin-walled,the gallbladder is thin-walled
+US_SYNTH_010,Global,Unremarkable Study,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,Z00.00,Z00.00,an unremarkable abdominal ultrasound study,"Overall, this is an unremarkable abdominal ultrasound study"
+US_SYNTH_010,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,without calculi,"Both kidneys are normal in size and echogenicity, without calculi or hydronephrosis"
+US_SYNTH_010,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,without calculi or hydronephrosis,"Both kidneys are normal in size and echogenicity, without calculi or hydronephrosis"
+US_SYNTH_010,Kidneys,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Both kidneys are normal in size and echogenicity,Both kidneys are normal in size and echogenicity
+US_SYNTH_010,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or biliary dilatation,The liver is normal in size with homogeneous echotexture and no focal lesion or biliary dilatation
+US_SYNTH_010,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,The liver is normal in size with homogeneous echotexture and no focal lesion or biliary dilatation
+US_SYNTH_010,Liver,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The liver is normal in size with homogeneous echotexture,The liver is normal in size with homogeneous echotexture
+US_SYNTH_010,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality identified,"The visualized pancreas and spleen are unremarkable, with no focal abnormality identified"
+US_SYNTH_010,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreas and spleen are unremarkable,"The visualized pancreas and spleen are unremarkable, with no focal abnormality identified"
+US_SYNTH_010,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,no free pelvic fluid is seen,and no free pelvic fluid is seen
+US_SYNTH_010,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the visualized pancreas and spleen are unremarkable,"The visualized pancreas and spleen are unremarkable, with no focal abnormality identified"
+US_SYNTH_011,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No gallstones,"No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_011,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,pericholecystic fluid,"No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_011,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_011,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_011,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_011,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_011,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_011,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"mildly increased diffuse parenchymal echogenicity and preserved visualization of the intrahepatic vessels, consistent with Grade 1 hepatic steatosis","Normal in size with mildly increased diffuse parenchymal echogenicity and preserved visualization of the intrahepatic vessels, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_011,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,"Visualized portions are unremarkable, without focal abnormality"
+US_SYNTH_011,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_011,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_012,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No intraluminal calculi,No intraluminal calculi
+US_SYNTH_012,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,there is no pericholecystic fluid,"The wall is not thickened, and there is no pericholecystic fluid"
+US_SYNTH_012,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,The wall is not thickened,"The wall is not thickened, and there is no pericholecystic fluid"
+US_SYNTH_012,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal stones,No renal stones or hydronephrosis
+US_SYNTH_012,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal stones or hydronephrosis,No renal stones or hydronephrosis
+US_SYNTH_012,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary ductal dilatation,No intrahepatic biliary ductal dilatation
+US_SYNTH_012,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion is identified,No focal hepatic lesion is identified
+US_SYNTH_012,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,"Diffuse hepatic hyperechogenicity with mild posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty liver","Diffuse hepatic hyperechogenicity with mild posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty liver"
+US_SYNTH_012,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,shows no focal abnormality,Visualized pancreatic parenchyma shows no focal abnormality
+US_SYNTH_012,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid within the visualized pelvis,No free fluid within the visualized pelvis
+US_SYNTH_012,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal lesion,"Normal in size, without focal lesion"
+US_SYNTH_013,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,with no calculus,"Adequately distended, with no calculus, wall thickening, or surrounding fluid"
+US_SYNTH_013,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,surrounding fluid,"Adequately distended, with no calculus, wall thickening, or surrounding fluid"
+US_SYNTH_013,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"Adequately distended, with no calculus, wall thickening, or surrounding fluid"
+US_SYNTH_013,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus,No calculus or hydronephrosis
+US_SYNTH_013,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydronephrosis,No calculus or hydronephrosis
+US_SYNTH_013,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary dilatation,No intrahepatic biliary dilatation
+US_SYNTH_013,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No discrete focal lesion is seen in the visualized liver,No discrete focal lesion is seen in the visualized liver
+US_SYNTH_013,Liver,Steatosis,Affirmed,Affirmed,Grade 3,Grade 3,,,RID39103,RID39103,K76.0,K76.0,"diffusely marked increased echogenicity, pronounced posterior beam attenuation, and poor visualization of the deeper hepatic parenchyma, compatible with Grade 3 hepatic steatosis","The liver demonstrates diffusely marked increased echogenicity, pronounced posterior beam attenuation, and poor visualization of the deeper hepatic parenchyma, compatible with Grade 3 hepatic steatosis"
+US_SYNTH_013,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,shows no focal abnormality,The visualized portion shows no focal abnormality
+US_SYNTH_013,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid is identified,No free fluid is identified
+US_SYNTH_013,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_014,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No gallstones are identified,No gallstones are identified
+US_SYNTH_014,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_014,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_014,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_014,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_014,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary ductal dilatation,No focal hepatic lesion or intrahepatic biliary ductal dilatation
+US_SYNTH_014,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary ductal dilatation
+US_SYNTH_014,Liver,Hepatomegaly,Affirmed,Affirmed,N/A,N/A,,,,,R16.0,R16.0,Mildly enlarged liver,"Mildly enlarged liver with diffuse increased parenchymal echogenicity and slight attenuation of the ultrasound beam, suggestive of Grade 1 fatty infiltration"
+US_SYNTH_014,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"diffuse increased parenchymal echogenicity and slight attenuation of the ultrasound beam, suggestive of Grade 1 fatty infiltration","Mildly enlarged liver with diffuse increased parenchymal echogenicity and slight attenuation of the ultrasound beam, suggestive of Grade 1 fatty infiltration"
+US_SYNTH_014,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal lesion,"Visualized portions of the pancreas are unremarkable, without focal lesion"
+US_SYNTH_014,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_014,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal splenic lesion,No splenomegaly or focal splenic lesion
+US_SYNTH_014,Spleen,Splenomegaly,Negated,Negated,N/A,N/A,,,,,,,No splenomegaly,No splenomegaly or focal splenic lesion
+US_SYNTH_015,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,4.1,4.1,RID5770,RID5770,K80.20,K80.20,"A small mobile echogenic focus measuring 4.1 mm is seen within the gallbladder lumen, with posterior acoustic shadowing, consistent with a calculus","A small mobile echogenic focus measuring 4.1 mm is seen within the gallbladder lumen, with posterior acoustic shadowing, consistent with a calculus"
+US_SYNTH_015,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,No wall thickening or pericholecystic fluid
+US_SYNTH_015,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_015,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No wall thickening,No wall thickening or pericholecystic fluid
+US_SYNTH_015,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,without renal calculus,"Both kidneys are normal in size, without renal calculus or hydronephrosis"
+US_SYNTH_015,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,without renal calculus or hydronephrosis,"Both kidneys are normal in size, without renal calculus or hydronephrosis"
+US_SYNTH_015,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_015,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_015,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,with no focal abnormality,"Visualized pancreatic parenchyma is unremarkable, with no focal abnormality"
+US_SYNTH_015,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_015,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_016,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,9.6,9.6,RID5770,RID5770,K80.20,K80.20,"Two mobile intraluminal calculi are visualized, measuring up to 9.6 mm, with posterior acoustic shadowing","Two mobile intraluminal calculi are visualized, measuring up to 9.6 mm, with posterior acoustic shadowing"
+US_SYNTH_016,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid is seen,"No pericholecystic fluid is seen, and the sonographic Murphy sign is negative"
+US_SYNTH_016,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,the sonographic Murphy sign is negative,"No pericholecystic fluid is seen, and the sonographic Murphy sign is negative"
+US_SYNTH_016,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,The gallbladder wall is not thickened,The gallbladder wall is not thickened
+US_SYNTH_016,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_016,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_016,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion or biliary dilatation,No focal hepatic lesion or biliary dilatation
+US_SYNTH_016,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or biliary dilatation
+US_SYNTH_016,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,shows no focal abnormality,The visualized pancreas shows no focal abnormality
+US_SYNTH_016,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_016,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,with no focal lesion,"Normal in size, with no focal lesion"
+US_SYNTH_017,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculus,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_017,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,pericholecystic fluid,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_017,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_017,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No hydro or calculus,No hydro or calculus
+US_SYNTH_017,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,12.4,12.4,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst at upper pole, 12.4 mm","Simple cortical cyst at upper pole, 12.4 mm"
+US_SYNTH_017,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydro,No hydro or calculus
+US_SYNTH_017,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no hydronephrosis,WNL; no hydronephrosis
+US_SYNTH_017,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,No solid component,No solid component
+US_SYNTH_017,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or IHBR dilatation,WNL; no focal lesion or IHBR dilatation
+US_SYNTH_017,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL; no focal lesion or IHBR dilatation
+US_SYNTH_017,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Visualized portion WNL; no focal lesion
+US_SYNTH_017,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_017,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL; no focal lesion
+US_SYNTH_018,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No stones,No stones or wall thickening
+US_SYNTH_018,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_018,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,no wall thickening,No stones or wall thickening
+US_SYNTH_018,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus,No calculus or hydro
+US_SYNTH_018,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,18.7,18.7,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst, interpolar region, 18.7 mm","Simple cortical cyst, interpolar region, 18.7 mm"
+US_SYNTH_018,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydro,No calculus or hydro
+US_SYNTH_018,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No hydronephrosis
+US_SYNTH_018,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,No septations,No septations or solid component
+US_SYNTH_018,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,no solid component,No septations or solid component
+US_SYNTH_018,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or biliary dilatation,No focal lesion or biliary dilatation
+US_SYNTH_018,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or biliary dilatation
+US_SYNTH_018,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,Visualized portion WNL; no focal abnormality
+US_SYNTH_018,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_018,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Normal size; no focal lesion
+US_SYNTH_019,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,without calculus,"and the gallbladder is adequately distended without calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_019,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,pericholecystic fluid,"and the gallbladder is adequately distended without calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_019,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"and the gallbladder is adequately distended without calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_019,Kidneys,Calculus,Possible,Possible,N/A,N/A,,,,,,,a tiny left renal calculus cannot be entirely excluded,"and although no definite shadowing calculus is demonstrated, a tiny left renal calculus cannot be entirely excluded"
+US_SYNTH_019,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no definite shadowing calculus is demonstrated,"and although no definite shadowing calculus is demonstrated, a tiny left renal calculus cannot be entirely excluded"
+US_SYNTH_019,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no hydronephrosis is evident,and no hydronephrosis is evident
+US_SYNTH_019,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or intrahepatic biliary dilatation,The liver is normal in size and echogenicity with no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_019,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,The liver is normal in size and echogenicity with no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_019,Pancreas,Bowel Gas Obscuration,Affirmed,Affirmed,N/A,N/A,,,,,,,"The pancreatic region is partially obscured by overlying bowel gas, limiting assessment of the pancreatic body and tail","The pancreatic region is partially obscured by overlying bowel gas, limiting assessment of the pancreatic body and tail"
+US_SYNTH_019,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,the visualized portion shows no focal abnormality,the visualized portion shows no focal abnormality
+US_SYNTH_019,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,no free pelvic fluid is seen,and no free pelvic fluid is seen
+US_SYNTH_019,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,The spleen is normal in size without a focal lesion
+US_SYNTH_020,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no intraluminal calculi,"The gallbladder is normally distended with a thin, smooth wall and no intraluminal calculi or pericholecystic fluid"
+US_SYNTH_020,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no intraluminal calculi or pericholecystic fluid,"The gallbladder is normally distended with a thin, smooth wall and no intraluminal calculi or pericholecystic fluid"
+US_SYNTH_020,Gallbladder,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"The gallbladder is normally distended with a thin, smooth wall","The gallbladder is normally distended with a thin, smooth wall"
+US_SYNTH_020,Global,Unremarkable Study,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,Z00.00,Z00.00,an unremarkable abdominal ultrasound study,"Overall, this is an unremarkable abdominal ultrasound study with no significant sonographic abnormality"
+US_SYNTH_020,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,with no renal calculus,"Both kidneys are normal in size and cortical echogenicity, with no renal calculus or hydronephrosis"
+US_SYNTH_020,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no renal calculus or hydronephrosis,"Both kidneys are normal in size and cortical echogenicity, with no renal calculus or hydronephrosis"
+US_SYNTH_020,Kidneys,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Both kidneys are normal in size and cortical echogenicity,Both kidneys are normal in size and cortical echogenicity
+US_SYNTH_020,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal hepatic lesion or intrahepatic biliary dilatation,"The liver is normal in size, contour, and echotexture, with no focal hepatic lesion or intrahepatic biliary dilatation"
+US_SYNTH_020,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal hepatic lesion,"The liver is normal in size, contour, and echotexture, with no focal hepatic lesion or intrahepatic biliary dilatation"
+US_SYNTH_020,Liver,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,Z00.00,,"The liver is normal in size, contour, and echotexture","The liver is normal in size, contour, and echotexture"
+US_SYNTH_020,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,The visualized pancreas is normal in appearance without focal abnormality
+US_SYNTH_020,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreas is normal in appearance,The visualized pancreas is normal in appearance
+US_SYNTH_020,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid is identified in the visualized pelvis,No free fluid is identified in the visualized pelvis
+US_SYNTH_020,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,with no focal lesion,and the spleen is normal in size and echotexture with no focal lesion
+US_SYNTH_020,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the spleen is normal in size and echotexture,and the spleen is normal in size and echotexture
+US_SYNTH_021,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no intraluminal calculus,"Well distended, with no intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_021,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,pericholecystic fluid,"Well distended, with no intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_021,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"Well distended, with no intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_021,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus,No calculus or hydronephrosis
+US_SYNTH_021,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydronephrosis,No calculus or hydronephrosis
+US_SYNTH_021,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary dilatation,No intrahepatic biliary dilatation
+US_SYNTH_021,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion
+US_SYNTH_021,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"mildly increased diffuse parenchymal echogenicity and maintained visualization of the portal venous radicles, suggestive of Grade 1 hepatic steatosis","Normal in size with mildly increased diffuse parenchymal echogenicity and maintained visualization of the portal venous radicles, suggestive of Grade 1 hepatic steatosis"
+US_SYNTH_021,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal pancreatic abnormality,No focal pancreatic abnormality
+US_SYNTH_021,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Visualized portions are unremarkable,Visualized portions are unremarkable
+US_SYNTH_021,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_021,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_022,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No gallstones,No gallstones or wall thickening
+US_SYNTH_022,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_022,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No gallstones or wall thickening,No gallstones or wall thickening
+US_SYNTH_022,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_022,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_022,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,The intrahepatic bile ducts are not dilated,The intrahepatic bile ducts are not dilated
+US_SYNTH_022,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion is identified,No focal hepatic lesion is identified
+US_SYNTH_022,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,"Diffusely increased hepatic echogenicity with moderate posterior beam attenuation and reduced conspicuity of the portal triads, in keeping with Grade 2 fatty infiltration","Diffusely increased hepatic echogenicity with moderate posterior beam attenuation and reduced conspicuity of the portal triads, in keeping with Grade 2 fatty infiltration"
+US_SYNTH_022,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,The visualized pancreas shows no focal lesion,The visualized pancreas shows no focal lesion or surrounding collection
+US_SYNTH_022,Pancreas,Surrounding Collection,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or surrounding collection,The visualized pancreas shows no focal lesion or surrounding collection
+US_SYNTH_022,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_022,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal lesion,Normal in size without focal lesion
+US_SYNTH_023,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No intraluminal calculus,No intraluminal calculus
+US_SYNTH_023,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid is seen,"The gallbladder wall is not thickened, and no pericholecystic fluid is seen"
+US_SYNTH_023,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,The gallbladder wall is not thickened,"The gallbladder wall is not thickened, and no pericholecystic fluid is seen"
+US_SYNTH_023,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_023,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_023,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary dilatation,No intrahepatic biliary dilatation
+US_SYNTH_023,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No discrete focal lesion is identified within the visualized liver,No discrete focal lesion is identified within the visualized liver
+US_SYNTH_023,Liver,Steatosis,Affirmed,Affirmed,Grade 3,Grade 3,,,RID39103,RID39103,K76.0,K76.0,"Diffusely increased hepatic echogenicity with marked posterior acoustic attenuation and diminished visualization of the deeper hepatic parenchyma, compatible with Grade 3 steatosis hepatis","Diffusely increased hepatic echogenicity with marked posterior acoustic attenuation and diminished visualization of the deeper hepatic parenchyma, compatible with Grade 3 steatosis hepatis"
+US_SYNTH_023,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,Visualized pancreatic tissue shows no focal abnormality,Visualized pancreatic tissue shows no focal abnormality
+US_SYNTH_023,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_023,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_024,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No gallstones,"No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_024,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"No gallstones, wall thickening, or pericholecystic fluid","No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_024,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"No gallstones, wall thickening, or pericholecystic fluid","No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_024,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus,No calculus or hydronephrosis
+US_SYNTH_024,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydronephrosis,No calculus or hydronephrosis
+US_SYNTH_024,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion or intrahepatic biliary ductal dilatation,No focal hepatic lesion or intrahepatic biliary ductal dilatation
+US_SYNTH_024,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary ductal dilatation
+US_SYNTH_024,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"mild diffuse parenchymal brightness relative to the renal cortex, in keeping with Grade 1 fatty infiltration","The liver is normal in size, with mild diffuse parenchymal brightness relative to the renal cortex, in keeping with Grade 1 fatty infiltration"
+US_SYNTH_024,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal abnormality in the visualized portion,No focal abnormality in the visualized portion
+US_SYNTH_024,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_024,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion
+US_SYNTH_025,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,3.6,3.6,RID5770,RID5770,K80.20,K80.20,"A solitary mobile echogenic calculus measuring 3.6 mm is seen within the lumen, with faint posterior acoustic shadowing","A solitary mobile echogenic calculus measuring 3.6 mm is seen within the lumen, with faint posterior acoustic shadowing"
+US_SYNTH_025,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening or pericholecystic fluid,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_025,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_025,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_025,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_025,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_025,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion or intrahepatic biliary dilatation,"Normal in size and echotexture, without a focal lesion or intrahepatic biliary dilatation"
+US_SYNTH_025,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,"Normal in size and echotexture, without a focal lesion or intrahepatic biliary dilatation"
+US_SYNTH_025,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,the visualized pancreas demonstrates no focal abnormality,The visualized pancreas demonstrates no focal abnormality
+US_SYNTH_025,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_025,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_026,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,10.7,10.7,RID5770,RID5770,K80.20,K80.20,"Multiple mobile echogenic calculi with posterior acoustic shadowing are present, the largest measuring 10.7 mm","Multiple mobile echogenic calculi with posterior acoustic shadowing are present, the largest measuring 10.7 mm"
+US_SYNTH_026,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No wall thickening or pericholecystic fluid,No wall thickening or pericholecystic fluid
+US_SYNTH_026,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_026,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No wall thickening,No wall thickening or pericholecystic fluid
+US_SYNTH_026,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculi,No renal calculi or hydronephrosis
+US_SYNTH_026,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculi or hydronephrosis,No renal calculi or hydronephrosis
+US_SYNTH_026,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal hepatic lesion or biliary dilatation,"Normal in size and echotexture, with no focal hepatic lesion or biliary dilatation"
+US_SYNTH_026,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal hepatic lesion,"Normal in size and echotexture, with no focal hepatic lesion or biliary dilatation"
+US_SYNTH_026,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,"The visualized pancreatic parenchyma is unremarkable, without focal abnormality"
+US_SYNTH_026,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreatic parenchyma is unremarkable,"The visualized pancreatic parenchyma is unremarkable, without focal abnormality"
+US_SYNTH_026,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_026,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_027,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculus,No calculus
+US_SYNTH_027,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No wall thickening or pericholecystic fluid,No wall thickening or pericholecystic fluid
+US_SYNTH_027,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No wall thickening,No wall thickening or pericholecystic fluid
+US_SYNTH_027,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No hydro or calculus,No hydro or calculus
+US_SYNTH_027,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculus or hydronephrosis,WNL; no calculus or hydronephrosis
+US_SYNTH_027,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,9.2,9.2,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst at lower pole, 9.2 mm","Simple cortical cyst at lower pole, 9.2 mm"
+US_SYNTH_027,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydro,No hydro or calculus
+US_SYNTH_027,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no calculus or hydronephrosis,WNL; no calculus or hydronephrosis
+US_SYNTH_027,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,No solid component,No solid component
+US_SYNTH_027,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or IHBR dilatation,No focal lesion or IHBR dilatation
+US_SYNTH_027,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or IHBR dilatation
+US_SYNTH_027,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Visualized portion WNL; no focal lesion
+US_SYNTH_027,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_027,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Normal size; no focal lesion
+US_SYNTH_028,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No stones,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_028,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"No stones, wall thickening, or pericholecystic fluid","No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_028,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"No stones, wall thickening, or pericholecystic fluid","No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_028,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus,No calculus or hydro
+US_SYNTH_028,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,20.4,20.4,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst in interpolar region, 20.4 mm","Simple cortical cyst in interpolar region, 20.4 mm"
+US_SYNTH_028,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydro,No calculus or hydro
+US_SYNTH_028,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No hydronephrosis
+US_SYNTH_028,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,No septations,No septations or solid component
+US_SYNTH_028,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,No septations or solid component,No septations or solid component
+US_SYNTH_028,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or biliary dilatation,Normal echotexture; no focal lesion or biliary dilatation
+US_SYNTH_028,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Normal echotexture; no focal lesion or biliary dilatation
+US_SYNTH_028,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,Visualized pancreas WNL; no focal abnormality
+US_SYNTH_028,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_028,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL; no focal lesion
+US_SYNTH_029,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,without calculi,"while the gallbladder is adequately distended without calculi, wall thickening, or pericholecystic fluid"
+US_SYNTH_029,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"without calculi, wall thickening, or pericholecystic fluid","while the gallbladder is adequately distended without calculi, wall thickening, or pericholecystic fluid"
+US_SYNTH_029,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"without calculi, wall thickening, or pericholecystic fluid","while the gallbladder is adequately distended without calculi, wall thickening, or pericholecystic fluid"
+US_SYNTH_029,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,A definite renal calculus is not demonstrated,A definite renal calculus is not demonstrated
+US_SYNTH_029,Kidneys,Calculus,Possible,Possible,N/A,N/A,,,,,,,a tiny right renal calculus cannot be entirely excluded,"however, due to limited visualization of the right renal sinus, a tiny right renal calculus cannot be entirely excluded"
+US_SYNTH_029,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,Both kidneys are normal in size without hydronephrosis,Both kidneys are normal in size without hydronephrosis
+US_SYNTH_029,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or intrahepatic biliary dilatation,The liver is normal in size with homogeneous echotexture and no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_029,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,The liver is normal in size with homogeneous echotexture and no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_029,Pancreas,Bowel Gas Obscuration,Affirmed,Affirmed,N/A,N/A,,,,,,,"The pancreas is partly obscured by bowel gas, limiting evaluation of its distal portion","The pancreas is partly obscured by bowel gas, limiting evaluation of its distal portion"
+US_SYNTH_029,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,the visualized tissue shows no focal abnormality,although the visualized tissue shows no focal abnormality
+US_SYNTH_029,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,no free pelvic fluid is identified,and no free pelvic fluid is identified
+US_SYNTH_029,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,The spleen is normal in size without a focal lesion
+US_SYNTH_030,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,with no intraluminal calculus,"The gallbladder is normally distended and thin-walled, with no intraluminal calculus or pericholecystic fluid"
+US_SYNTH_030,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,with no intraluminal calculus or pericholecystic fluid,"The gallbladder is normally distended and thin-walled, with no intraluminal calculus or pericholecystic fluid"
+US_SYNTH_030,Gallbladder,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The gallbladder is normally distended and thin-walled,The gallbladder is normally distended and thin-walled
+US_SYNTH_030,Global,Unremarkable Study,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,Z00.00,Z00.00,"the examination is unremarkable, with no significant sonographic abnormality identified","Overall, the examination is unremarkable, with no significant sonographic abnormality identified"
+US_SYNTH_030,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,with no renal calculus,"Both kidneys demonstrate preserved size and cortical echogenicity, with no renal calculus or hydronephrosis"
+US_SYNTH_030,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,with no renal calculus or hydronephrosis,"Both kidneys demonstrate preserved size and cortical echogenicity, with no renal calculus or hydronephrosis"
+US_SYNTH_030,Kidneys,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Both kidneys demonstrate preserved size and cortical echogenicity,Both kidneys demonstrate preserved size and cortical echogenicity
+US_SYNTH_030,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion or intrahepatic biliary dilatation,"The liver is normal in size and contour with homogeneous parenchymal echotexture, without a focal lesion or intrahepatic biliary dilatation"
+US_SYNTH_030,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,"The liver is normal in size and contour with homogeneous parenchymal echotexture, without a focal lesion or intrahepatic biliary dilatation"
+US_SYNTH_030,Liver,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The liver is normal in size and contour with homogeneous parenchymal echotexture,The liver is normal in size and contour with homogeneous parenchymal echotexture
+US_SYNTH_030,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreas is unremarkable,The visualized pancreas is unremarkable
+US_SYNTH_030,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,no free fluid is seen in the pelvis,and no free fluid is seen in the pelvis
+US_SYNTH_030,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,and the spleen is normal in size without a focal lesion
+US_SYNTH_030,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the spleen is normal in size,and the spleen is normal in size
+US_SYNTH_031,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,without calculus,"Normally distended, without calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_031,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,pericholecystic fluid,"Normally distended, without calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_031,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"Normally distended, without calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_031,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_031,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_031,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_031,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_031,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"mildly increased diffuse hepatic echogenicity and preserved visualization of the diaphragm and intrahepatic vessels, consistent with Grade 1 hepatic steatosis","Normal in size with mildly increased diffuse hepatic echogenicity and preserved visualization of the diaphragm and intrahepatic vessels, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_031,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,"Visualized portions are unremarkable, with no focal abnormality"
+US_SYNTH_031,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Visualized portions are unremarkable,"Visualized portions are unremarkable, with no focal abnormality"
+US_SYNTH_031,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_031,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_032,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No intraluminal calculi,No intraluminal calculi
+US_SYNTH_032,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid is present,"The gallbladder wall is not thickened, and no pericholecystic fluid is present"
+US_SYNTH_032,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,The gallbladder wall is not thickened,"The gallbladder wall is not thickened, and no pericholecystic fluid is present"
+US_SYNTH_032,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_032,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_032,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary ductal dilatation,No focal hepatic lesion or intrahepatic biliary ductal dilatation
+US_SYNTH_032,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary ductal dilatation
+US_SYNTH_032,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,"Diffuse hepatic hyperechogenicity with moderate posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty infiltration","Diffuse hepatic hyperechogenicity with moderate posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty infiltration"
+US_SYNTH_032,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,shows no focal abnormality,The visualized pancreatic parenchyma shows no focal abnormality
+US_SYNTH_032,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid within the visualized pelvis,No free fluid within the visualized pelvis
+US_SYNTH_032,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal lesion,"Normal in size, without focal lesion"
+US_SYNTH_033,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,with no calculus,"Normally distended, with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_033,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,pericholecystic fluid,"Normally distended, with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_033,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"Normally distended, with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_033,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_033,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_033,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary dilatation,No intrahepatic biliary dilatation
+US_SYNTH_033,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion is identified in the visualized liver,No focal lesion is identified in the visualized liver
+US_SYNTH_033,Liver,Steatosis,Affirmed,Affirmed,Grade 3,Grade 3,,,RID39103,RID39103,K76.0,K76.0,"diffusely marked increased echogenicity, pronounced posterior beam attenuation, and reduced visualization of the deep hepatic parenchyma, consistent with Grade 3 hepatic steatosis","The liver demonstrates diffusely marked increased echogenicity, pronounced posterior beam attenuation, and reduced visualization of the deep hepatic parenchyma, consistent with Grade 3 hepatic steatosis"
+US_SYNTH_033,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,show no focal pancreatic abnormality,Visualized portions show no focal pancreatic abnormality
+US_SYNTH_033,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_033,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_034,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No intraluminal calculus,No intraluminal calculus
+US_SYNTH_034,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid is present,"The wall is not thickened, and no pericholecystic fluid is present"
+US_SYNTH_034,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,The wall is not thickened,"The wall is not thickened, and no pericholecystic fluid is present"
+US_SYNTH_034,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_034,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_034,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_034,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_034,Liver,Hepatomegaly,Affirmed,Affirmed,N/A,N/A,,,,,R16.0,R16.0,The liver is mildly enlarged,The liver is mildly enlarged
+US_SYNTH_034,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"Mild diffuse increase in hepatic parenchymal echogenicity relative to the right renal cortex, with minimal posterior attenuation, suggestive of Grade 1 steatosis","Mild diffuse increase in hepatic parenchymal echogenicity relative to the right renal cortex, with minimal posterior attenuation, suggestive of Grade 1 steatosis"
+US_SYNTH_034,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,"The visualized pancreas is unremarkable, without focal abnormality"
+US_SYNTH_034,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreas is unremarkable,"The visualized pancreas is unremarkable, without focal abnormality"
+US_SYNTH_034,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_034,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal lesion,"Normal in size, without focal lesion"
+US_SYNTH_035,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,7.2,7.2,RID5770,RID5770,K80.20,K80.20,"A solitary mobile echogenic focus measuring 7.2 mm demonstrates posterior acoustic shadowing, consistent with a gallbladder calculus","A solitary mobile echogenic focus measuring 7.2 mm demonstrates posterior acoustic shadowing, consistent with a gallbladder calculus"
+US_SYNTH_035,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no pericholecystic fluid,No wall thickening or pericholecystic fluid
+US_SYNTH_035,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_035,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No wall thickening,No wall thickening or pericholecystic fluid
+US_SYNTH_035,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_035,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_035,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or intrahepatic biliary dilatation,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_035,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_035,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,with no focal abnormality,"Visualized portions are unremarkable, with no focal abnormality"
+US_SYNTH_035,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Visualized portions are unremarkable,"Visualized portions are unremarkable, with no focal abnormality"
+US_SYNTH_035,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_035,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_036,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,11.4,11.4,RID5770,RID5770,K80.20,K80.20,"Multiple mobile echogenic calculi are present within the gallbladder lumen, the largest measuring 11.4 mm","Multiple mobile echogenic calculi are present within the gallbladder lumen, the largest measuring 11.4 mm"
+US_SYNTH_036,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening or pericholecystic fluid,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_036,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_036,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_036,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_036,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_036,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion or biliary dilatation,No focal hepatic lesion or biliary dilatation
+US_SYNTH_036,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or biliary dilatation
+US_SYNTH_036,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,The visualized pancreas shows no focal lesion,The visualized pancreas shows no focal lesion
+US_SYNTH_036,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_036,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal lesion,"Normal in size and echotexture, without focal lesion"
+US_SYNTH_037,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No stones,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_037,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,pericholecystic fluid,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_037,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,wall thickening,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_037,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No hydro/calculus,No hydro/calculus
+US_SYNTH_037,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculus or hydro,WNL; no calculus or hydro
+US_SYNTH_037,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,15.2,15.2,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst, upper pole, 15.2 mm","Simple cortical cyst, upper pole, 15.2 mm"
+US_SYNTH_037,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydro,No hydro/calculus
+US_SYNTH_037,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,WNL; no calculus or hydro
+US_SYNTH_037,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,No septa,No septa or solid component
+US_SYNTH_037,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,no solid component,No septa or solid component
+US_SYNTH_037,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or IHBR dilatation,No focal lesion or IHBR dilatation
+US_SYNTH_037,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or IHBR dilatation
+US_SYNTH_037,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Visualized portion WNL; no focal lesion
+US_SYNTH_037,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_037,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL size; no focal lesion
+US_SYNTH_038,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculus,No calculus or wall thickening
+US_SYNTH_038,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_038,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No calculus or wall thickening,No calculus or wall thickening
+US_SYNTH_038,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculus,Normal size; no calculus or hydro
+US_SYNTH_038,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,21.8,21.8,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst, lower pole, 21.8 mm","Simple cortical cyst, lower pole, 21.8 mm"
+US_SYNTH_038,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no calculus or hydro,Normal size; no calculus or hydro
+US_SYNTH_038,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No hydronephrosis
+US_SYNTH_038,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,No septations,No septations or solid component
+US_SYNTH_038,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,No septations or solid component,No septations or solid component
+US_SYNTH_038,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or biliary dilatation,WNL; no focal lesion or biliary dilatation
+US_SYNTH_038,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL; no focal lesion or biliary dilatation
+US_SYNTH_038,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,Visualized portion unremarkable; no focal abnormality
+US_SYNTH_038,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Visualized portion unremarkable,Visualized portion unremarkable; no focal abnormality
+US_SYNTH_038,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_038,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Normal size; no focal lesion
+US_SYNTH_039,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,with no calculus,"and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_039,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"no calculus, wall thickening, or pericholecystic fluid","and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_039,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"no calculus, wall thickening, or pericholecystic fluid","and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_039,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No definite right renal calculus is identified,No definite right renal calculus is identified
+US_SYNTH_039,Kidneys,Calculus,Possible,Possible,N/A,N/A,,,,,,,a small calculus cannot be entirely excluded,"however, owing to limited visualization of the right renal sinus, a small calculus cannot be entirely excluded"
+US_SYNTH_039,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,"Both kidneys are normal in size, with no hydronephrosis","Both kidneys are normal in size, with no hydronephrosis"
+US_SYNTH_039,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion or intrahepatic biliary dilatation,"The liver is normal in size and echotexture, without a focal lesion or intrahepatic biliary dilatation"
+US_SYNTH_039,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,"The liver is normal in size and echotexture, without a focal lesion or intrahepatic biliary dilatation"
+US_SYNTH_039,Pancreas,Bowel Gas Obscuration,Affirmed,Affirmed,N/A,N/A,,,,,,,"The pancreas is partially obscured by overlying bowel gas, limiting evaluation of its distal portion","The pancreas is partially obscured by overlying bowel gas, limiting evaluation of its distal portion"
+US_SYNTH_039,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,the visualized pancreatic tissue shows no focal abnormality,although the visualized pancreatic tissue shows no focal abnormality
+US_SYNTH_039,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,no free pelvic fluid is demonstrated,and no free pelvic fluid is demonstrated
+US_SYNTH_039,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,shows no focal lesion,The spleen is normal in size and shows no focal lesion
+US_SYNTH_040,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no intraluminal calculi,while the gallbladder is normally distended with a thin smooth wall and no intraluminal calculi or pericholecystic fluid
+US_SYNTH_040,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no intraluminal calculi or pericholecystic fluid,while the gallbladder is normally distended with a thin smooth wall and no intraluminal calculi or pericholecystic fluid
+US_SYNTH_040,Gallbladder,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the gallbladder is normally distended with a thin smooth wall,while the gallbladder is normally distended with a thin smooth wall
+US_SYNTH_040,Global,Unremarkable Study,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,Z00.00,Z00.00,an unremarkable abdominal ultrasound study,"Overall, the findings are consistent with an unremarkable abdominal ultrasound study, with no significant sonographic abnormality identified"
+US_SYNTH_040,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,with no renal calculi,"Both kidneys show preserved size and cortical echogenicity, with no renal calculi or hydronephrosis"
+US_SYNTH_040,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,with no renal calculi or hydronephrosis,"Both kidneys show preserved size and cortical echogenicity, with no renal calculi or hydronephrosis"
+US_SYNTH_040,Kidneys,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Both kidneys show preserved size and cortical echogenicity,Both kidneys show preserved size and cortical echogenicity
+US_SYNTH_040,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal hepatic lesion or intrahepatic biliary dilatation,The liver is normal in size and contour with homogeneous echotexture and no focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_040,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal hepatic lesion,The liver is normal in size and contour with homogeneous echotexture and no focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_040,Liver,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The liver is normal in size and contour with homogeneous echotexture,The liver is normal in size and contour with homogeneous echotexture
+US_SYNTH_040,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,The visualized pancreas is unremarkable without focal abnormality
+US_SYNTH_040,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreas is unremarkable,The visualized pancreas is unremarkable without focal abnormality
+US_SYNTH_040,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid is identified in the visualized pelvis,No free fluid is identified in the visualized pelvis
+US_SYNTH_040,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,and the spleen is normal in size without a focal lesion
+US_SYNTH_040,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the spleen is normal in size,and the spleen is normal in size
+US_SYNTH_041,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No intraluminal calculus,"No intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_041,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"No intraluminal calculus, wall thickening, or pericholecystic fluid","No intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_041,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"No intraluminal calculus, wall thickening, or pericholecystic fluid","No intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_041,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_041,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_041,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_041,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_041,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis","Normal in size with mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_041,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,"Visualized portions are unremarkable, without focal abnormality"
+US_SYNTH_041,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Visualized portions are unremarkable,"Visualized portions are unremarkable, without focal abnormality"
+US_SYNTH_041,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_041,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_042,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No gallstones,No gallstones or wall thickening
+US_SYNTH_042,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_042,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No gallstones or wall thickening,No gallstones or wall thickening
+US_SYNTH_042,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_042,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_042,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary ductal dilatation,No intrahepatic biliary ductal dilatation
+US_SYNTH_042,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion is seen,No focal hepatic lesion is seen
+US_SYNTH_042,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,"Diffuse increase in hepatic echogenicity with moderate posterior acoustic attenuation and partial obscuration of the portal triads, compatible with Grade 2 fatty infiltration","Diffuse increase in hepatic echogenicity with moderate posterior acoustic attenuation and partial obscuration of the portal triads, compatible with Grade 2 fatty infiltration"
+US_SYNTH_042,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,The visualized pancreatic parenchyma shows no focal abnormality,The visualized pancreatic parenchyma shows no focal abnormality
+US_SYNTH_042,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid is identified,No free fluid is identified
+US_SYNTH_042,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal lesion,"Normal in size, without focal lesion"
+US_SYNTH_043,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,"No calculus, wall thickening, or pericholecystic fluid","No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_043,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"No calculus, wall thickening, or pericholecystic fluid","No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_043,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"No calculus, wall thickening, or pericholecystic fluid","No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_043,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_043,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_043,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No intrahepatic biliary dilatation,No intrahepatic biliary dilatation
+US_SYNTH_043,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No definite focal hepatic lesion is seen in the visualized parenchyma,No definite focal hepatic lesion is seen in the visualized parenchyma
+US_SYNTH_043,Liver,Steatosis,Affirmed,Affirmed,Grade 3,Grade 3,,,RID39103,RID39103,K76.0,K76.0,"The hepatic parenchyma is markedly hyperechoic, with pronounced posterior beam attenuation and reduced visualization of the deeper liver tissue, findings compatible with Grade 3 steatosis hepatis","The hepatic parenchyma is markedly hyperechoic, with pronounced posterior beam attenuation and reduced visualization of the deeper liver tissue, findings compatible with Grade 3 steatosis hepatis"
+US_SYNTH_043,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,with no focal lesion,"Visualized portions are unremarkable, with no focal lesion"
+US_SYNTH_043,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Visualized portions are unremarkable,"Visualized portions are unremarkable, with no focal lesion"
+US_SYNTH_043,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_043,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_044,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No intraluminal calculus,No intraluminal calculus or wall thickening
+US_SYNTH_044,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_044,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No intraluminal calculus or wall thickening,No intraluminal calculus or wall thickening
+US_SYNTH_044,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculi,No renal calculi or hydronephrosis
+US_SYNTH_044,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculi or hydronephrosis,No renal calculi or hydronephrosis
+US_SYNTH_044,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_044,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_044,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"Slight diffuse increase in hepatic echogenicity relative to the renal cortex, with minimal posterior acoustic attenuation, consistent with Grade 1 fatty change","Slight diffuse increase in hepatic echogenicity relative to the renal cortex, with minimal posterior acoustic attenuation, consistent with Grade 1 fatty change"
+US_SYNTH_044,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal abnormality in the visualized pancreas,No focal abnormality in the visualized pancreas
+US_SYNTH_044,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_044,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_045,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,5.8,5.8,RID5770,RID5770,K80.20,K80.20,"A mobile echogenic calculus measuring 5.8 mm is identified within the gallbladder lumen, with posterior acoustic shadowing","A mobile echogenic calculus measuring 5.8 mm is identified within the gallbladder lumen, with posterior acoustic shadowing"
+US_SYNTH_045,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No wall thickening or pericholecystic fluid,No wall thickening or pericholecystic fluid
+US_SYNTH_045,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,The sonographic Murphy sign is negative,The sonographic Murphy sign is negative
+US_SYNTH_045,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No wall thickening,No wall thickening or pericholecystic fluid
+US_SYNTH_045,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_045,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_045,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion or intrahepatic biliary dilatation,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_045,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal hepatic lesion,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_045,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,"The visualized pancreas is unremarkable, without focal abnormality"
+US_SYNTH_045,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreas is unremarkable,"The visualized pancreas is unremarkable, without focal abnormality"
+US_SYNTH_045,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid,No free pelvic fluid
+US_SYNTH_045,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_046,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,12.0,12.0,RID5770,RID5770,K80.20,K80.20,Multiple mobile echogenic calculi with posterior acoustic shadowing are present; the largest measures 12.0 mm,Multiple mobile echogenic calculi with posterior acoustic shadowing are present; the largest measures 12.0 mm
+US_SYNTH_046,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening or pericholecystic fluid,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_046,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy sign is negative,Sonographic Murphy sign is negative
+US_SYNTH_046,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,No gallbladder wall thickening,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_046,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus or hydronephrosis
+US_SYNTH_046,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No renal calculus or hydronephrosis,No renal calculus or hydronephrosis
+US_SYNTH_046,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or intrahepatic biliary dilatation,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_046,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_046,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,with no focal pancreatic lesion,"Visualized portions are unremarkable, with no focal pancreatic lesion"
+US_SYNTH_046,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Visualized portions are unremarkable,"Visualized portions are unremarkable, with no focal pancreatic lesion"
+US_SYNTH_046,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the visualized pelvis,No free fluid in the visualized pelvis
+US_SYNTH_046,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal splenic lesion,No focal splenic lesion
+US_SYNTH_047,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No stones,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_047,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"No stones, wall thickening, or pericholecystic fluid","No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_047,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"No stones, wall thickening, or pericholecystic fluid","No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_047,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No hydro/calculus,No hydro/calculus
+US_SYNTH_047,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculus or hydro,WNL; no calculus or hydro
+US_SYNTH_047,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,8.6,8.6,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst, interpolar region, 8.6 mm","Simple cortical cyst, interpolar region, 8.6 mm"
+US_SYNTH_047,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydro,No hydro/calculus
+US_SYNTH_047,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no calculus or hydro,WNL; no calculus or hydro
+US_SYNTH_047,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,No septa,No septa or solid component
+US_SYNTH_047,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,No septa or solid component,No septa or solid component
+US_SYNTH_047,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or IHBR dilatation,WNL size; no focal lesion or IHBR dilatation
+US_SYNTH_047,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL size; no focal lesion or IHBR dilatation
+US_SYNTH_047,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal abnormality,Visualized portion WNL; no focal abnormality
+US_SYNTH_047,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_047,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL size; no focal lesion
+US_SYNTH_048,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculus,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_048,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"No calculus, wall thickening, or pericholecystic fluid","No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_048,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"No calculus, wall thickening, or pericholecystic fluid","No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_048,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculus,WNL size; no calculus or hydro
+US_SYNTH_048,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,19.6,19.6,RID3954,RID3954,N28.1,N28.1,"Simple cortical cyst, lower pole, 19.6 mm","Simple cortical cyst, lower pole, 19.6 mm"
+US_SYNTH_048,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no calculus or hydro,WNL size; no calculus or hydro
+US_SYNTH_048,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis,No hydronephrosis
+US_SYNTH_048,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,No septations,No septations or solid component
+US_SYNTH_048,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,No septations or solid component,No septations or solid component
+US_SYNTH_048,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or biliary dilatation,WNL echotexture; no focal lesion or biliary dilatation
+US_SYNTH_048,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL echotexture; no focal lesion or biliary dilatation
+US_SYNTH_048,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,WNL in visualized portion; no focal lesion
+US_SYNTH_048,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid,No free fluid
+US_SYNTH_048,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,Normal size; no focal lesion
+US_SYNTH_049,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,with no calculus,"and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_049,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,"with no calculus, wall thickening, or pericholecystic fluid","and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_049,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,"with no calculus, wall thickening, or pericholecystic fluid","and the gallbladder is adequately distended with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_049,Kidneys,Calculus,Possible,Possible,N/A,N/A,,,,,,,a tiny left renal calculus cannot be entirely excluded,and a tiny left renal calculus cannot be entirely excluded despite the absence of a definite shadowing focus
+US_SYNTH_049,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,the absence of a definite shadowing focus,and a tiny left renal calculus cannot be entirely excluded despite the absence of a definite shadowing focus
+US_SYNTH_049,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,demonstrate no hydronephrosis,Both kidneys are within normal size limits and demonstrate no hydronephrosis
+US_SYNTH_049,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,without a focal hepatic lesion or intrahepatic biliary dilatation,"The liver is normal in size and echotexture, without a focal hepatic lesion or intrahepatic biliary dilatation"
+US_SYNTH_049,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal hepatic lesion,"The liver is normal in size and echotexture, without a focal hepatic lesion or intrahepatic biliary dilatation"
+US_SYNTH_049,Pancreas,Bowel Gas Obscuration,Affirmed,Affirmed,N/A,N/A,,,,,,,"The pancreas is partially obscured by overlying bowel gas, limiting assessment of its distal portion","The pancreas is partially obscured by overlying bowel gas, limiting assessment of its distal portion"
+US_SYNTH_049,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,the visualized tissue shows no focal abnormality,although the visualized tissue shows no focal abnormality
+US_SYNTH_049,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,no free pelvic fluid is identified,and no free pelvic fluid is identified
+US_SYNTH_049,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,The spleen is normal in size without a focal lesion
+US_SYNTH_050,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no intraluminal calculi,"while the gallbladder is normally distended with a thin, smooth wall and no intraluminal calculi or pericholecystic fluid"
+US_SYNTH_050,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,no intraluminal calculi or pericholecystic fluid,"while the gallbladder is normally distended with a thin, smooth wall and no intraluminal calculi or pericholecystic fluid"
+US_SYNTH_050,Gallbladder,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"the gallbladder is normally distended with a thin, smooth wall","while the gallbladder is normally distended with a thin, smooth wall"
+US_SYNTH_050,Global,Unremarkable Study,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,Z00.00,Z00.00,an unremarkable abdominal ultrasound study,"Overall, this is an unremarkable abdominal ultrasound study without significant sonographic abnormality"
+US_SYNTH_050,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,with no renal calculus,"Both kidneys demonstrate preserved size and cortical echogenicity, with no renal calculus or hydronephrosis"
+US_SYNTH_050,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,with no renal calculus or hydronephrosis,"Both kidneys demonstrate preserved size and cortical echogenicity, with no renal calculus or hydronephrosis"
+US_SYNTH_050,Kidneys,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Both kidneys demonstrate preserved size and cortical echogenicity,Both kidneys demonstrate preserved size and cortical echogenicity
+US_SYNTH_050,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,no focal lesion or intrahepatic biliary dilatation,The liver is normal in size and contour with homogeneous echotexture and no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_050,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion,The liver is normal in size and contour with homogeneous echotexture and no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_050,Liver,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The liver is normal in size and contour with homogeneous echotexture,The liver is normal in size and contour with homogeneous echotexture
+US_SYNTH_050,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without focal abnormality,The visualized pancreas has a normal sonographic appearance without focal abnormality
+US_SYNTH_050,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,The visualized pancreas has a normal sonographic appearance,The visualized pancreas has a normal sonographic appearance
+US_SYNTH_050,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free pelvic fluid is seen,No free pelvic fluid is seen
+US_SYNTH_050,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,without a focal lesion,and the spleen is normal in size without a focal lesion
+US_SYNTH_050,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,the spleen is normal in size,and the spleen is normal in size
+US_SYNTH_051,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculus or sludge within the lumen,No calculus or sludge within the lumen
+US_SYNTH_051,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_051,Gallbladder,Sludge,Negated,Negated,N/A,N/A,,,,,,,No calculus or sludge within the lumen,No calculus or sludge within the lumen
+US_SYNTH_051,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus. No hydronephrosis.,No calculus
+US_SYNTH_051,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus or back-pressure changes,No calculus or back-pressure changes; pelvicalyceal system not dilated
+US_SYNTH_051,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus. No hydronephrosis.,No hydronephrosis
+US_SYNTH_051,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal space occupying lesion,No focal space occupying lesion
+US_SYNTH_051,Liver,Hepatomegaly,Affirmed,Affirmed,N/A,N/A,,,,,R16.0,R16.0,"The liver is enlarged, measuring 17.2 cm in craniocaudal span","The liver is enlarged, measuring 17.2 cm in craniocaudal span in the right midclavicular line"
+US_SYNTH_051,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,features of Grade II fatty infiltration,"Parenchymal echogenicity is diffusely increased with attenuation of the posterior beam and poor delineation of the diaphragm, while the walls of the portal venules are partly obscured - features of Grade II fatty infiltration"
+US_SYNTH_051,Pancreas,Calcification,Negated,Negated,N/A,N/A,,,,,,,No calcification or peripancreatic collection,No calcification or peripancreatic collection
+US_SYNTH_051,Pancreas,Surrounding Collection,Negated,Negated,N/A,N/A,,,,,,,No calcification or peripancreatic collection,No calcification or peripancreatic collection
+US_SYNTH_051,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the abdomen or pelvis,No free fluid in the abdomen or pelvis
+US_SYNTH_051,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,Normal in size and echotexture. No focal lesion.,No focal lesion
+US_SYNTH_052,Gallbladder,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"GB: well distended, NAD","well distended, NAD"
+US_SYNTH_052,Global,Unremarkable Study,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,Z00.00,Z00.00,Imp: Normal study.,Normal study
+US_SYNTH_052,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no HDN / calculi,NAD. no HDN / calculi
+US_SYNTH_052,Kidneys,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,RK / LK: NAD,NAD. no HDN / calculi
+US_SYNTH_052,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No SOL,No SOL
+US_SYNTH_052,Liver,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Liver: NAD,NAD
+US_SYNTH_052,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Panc: NAD,NAD
+US_SYNTH_052,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"Spl: 9.2 cm, NAD","9.2 cm, NAD"
+US_SYNTH_053,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,14.0,14.0,RID5770,RID5770,K80.20,K80.20,"contains multiple mobile echogenic calculi casting posterior acoustic shadows, the largest measuring approximately 1.4 cm","The gall bladder is adequately distended and contains multiple mobile echogenic calculi casting posterior acoustic shadows, the largest measuring approximately 1.4 cm, along with a thin layer of dependent sludge"
+US_SYNTH_053,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculus is seen within its visualised portion,no calculus is seen within its visualised portion
+US_SYNTH_053,Gallbladder,Sludge,Affirmed,Affirmed,N/A,N/A,,,,,,,a thin layer of dependent sludge,"The gall bladder is adequately distended and contains multiple mobile echogenic calculi casting posterior acoustic shadows, the largest measuring approximately 1.4 cm, along with a thin layer of dependent sludge"
+US_SYNTH_053,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,Its wall is not thickened,Its wall is not thickened at 2.5 mm and there is no fluid around it
+US_SYNTH_053,Kidneys,Calculus,Negated,Affirmed,N/A,N/A,,,,,,N20.0,neither shows a calculus or hydronephrosis,"Both kidneys are normal in size and position with well maintained corticomedullary differentiation, and neither shows a calculus or hydronephrosis"
+US_SYNTH_053,Kidneys,Hydronephrosis,Negated,Affirmed,N/A,N/A,,,,,,N13.30,neither shows a calculus or hydronephrosis,"Both kidneys are normal in size and position with well maintained corticomedullary differentiation, and neither shows a calculus or hydronephrosis"
+US_SYNTH_053,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,There is no focal lesion,There is no focal lesion and the intrahepatic biliary channels are of normal calibre
+US_SYNTH_053,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,suggesting mild fatty change of the liver,"the portal vein walls and the diaphragm remain clearly seen, suggesting mild fatty change of the liver"
+US_SYNTH_053,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,There is no ascites,There is no ascites
+US_SYNTH_054,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No stones.,No stones
+US_SYNTH_054,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,"No calculi, no hydronephrosis on either side","No calculi, no hydronephrosis on either side"
+US_SYNTH_054,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,"No calculi, no hydronephrosis on either side","No calculi, no hydronephrosis on either side"
+US_SYNTH_054,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion.,No focal lesion
+US_SYNTH_054,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,POD - no free fluid.,POD - no free fluid
+US_SYNTH_054,Pelvis,Uterine Fibroid,Negated,Negated,N/A,N/A,,,,,,,No fibroid seen,No fibroid seen
+US_SYNTH_055,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculus/sludge,"distended, no calculus/sludge"
+US_SYNTH_055,Gallbladder,Sludge,Negated,Negated,N/A,N/A,,,,,,,no calculus/sludge,"distended, no calculus/sludge"
+US_SYNTH_055,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion.,No focal lesion
+US_SYNTH_055,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No ascites.,No ascites
+US_SYNTH_056,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculi,The gall bladder is well distended with a thin wall and no calculi
+US_SYNTH_056,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,"there is no evidence of calculus, hydronephrosis or cortical cyst","Both kidneys are normal in size with preserved corticomedullary differentiation and there is no evidence of calculus, hydronephrosis or cortical cyst"
+US_SYNTH_056,Kidneys,Cortical Cyst,Negated,Negated,N/A,N/A,,,RID3954,RID3954,,,"there is no evidence of calculus, hydronephrosis or cortical cyst","Both kidneys are normal in size with preserved corticomedullary differentiation and there is no evidence of calculus, hydronephrosis or cortical cyst"
+US_SYNTH_056,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,"there is no evidence of calculus, hydronephrosis or cortical cyst","Both kidneys are normal in size with preserved corticomedullary differentiation and there is no evidence of calculus, hydronephrosis or cortical cyst"
+US_SYNTH_056,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Pancreas and spleen appear unremarkable,"Pancreas and spleen appear unremarkable, the spleen measuring 9 cm"
+US_SYNTH_056,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,there is no free fluid in the pouch of Douglas,both ovaries are normal in size and echotexture for age and there is no free fluid in the pouch of Douglas
+US_SYNTH_056,Pelvis,Uterine Fibroid,Affirmed,Affirmed,N/A,N/A,21.0,21.0,,,D25.9,D25.9,a well-circumscribed hypoechoic intramural fibroid in the posterior wall measuring 2.1 x 1.9 cm,"The uterus is bulky, measuring 9.6 x 5.4 x 5.0 cm, and harbours a well-circumscribed hypoechoic intramural fibroid in the posterior wall measuring 2.1 x 1.9 cm which does not distort the endometrium, the latter being 7 mm and regular"
+US_SYNTH_056,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Pancreas and spleen appear unremarkable,"Pancreas and spleen appear unremarkable, the spleen measuring 9 cm"
+US_SYNTH_057,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no obstructing calculus seen,"- CBD is mildly prominent, measuring 7 mm, tapering smoothly to the ampulla with no obstructing calculus seen - post-cholecystectomy dilatation"
+US_SYNTH_057,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus / hydronephrosis.,- No calculus / hydronephrosis
+US_SYNTH_057,Kidneys,Calculus,Negated,Affirmed,N/A,N/A,,,,,,N20.0,Calculus - nil.,- Calculus - nil
+US_SYNTH_057,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,11.0,11.0,RID3954,RID3954,N28.1,N28.1,A simple anechoic cortical cyst measuring 11 mm is seen at the upper pole,"- A simple anechoic cortical cyst measuring 11 mm is seen at the upper pole, without septation or solid component"
+US_SYNTH_057,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,16.0,16.0,RID3954,RID3954,N28.1,N28.1,Lower pole shows a thin-walled simple cortical cyst of 1.6 cm diameter,- Lower pole shows a thin-walled simple cortical cyst of 1.6 cm diameter with posterior enhancement
+US_SYNTH_057,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus / hydronephrosis.,- No calculus / hydronephrosis
+US_SYNTH_057,Kidneys,Septation,Negated,Negated,N/A,N/A,,,,,,,without septation or solid component,"- A simple anechoic cortical cyst measuring 11 mm is seen at the upper pole, without septation or solid component"
+US_SYNTH_057,Kidneys,Solid Component,Negated,Negated,N/A,N/A,,,,,,,without septation or solid component,"- A simple anechoic cortical cyst measuring 11 mm is seen at the upper pole, without septation or solid component"
+US_SYNTH_057,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No ascites.,- No ascites
+US_SYNTH_057,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,Homogeneous. No focal lesion.,No focal lesion
+US_SYNTH_058,Kidneys,Calculus,Possible,Affirmed,N/A,N/A,,,,,,N20.0,? tiny calculus mid pole,"? tiny calculus mid pole, no HDN"
+US_SYNTH_058,Liver,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"Liver, GB, Spl - NAD.",NAD
+US_SYNTH_058,Pancreas,Bowel Gas Obscuration,Affirmed,Negated,N/A,N/A,,,,,,,"Panc - not seen, obscured by bowel gas.","not seen, obscured by bowel gas"
+US_SYNTH_059,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculi or hydronephrosis,"Both kidneys measure within normal limits and look normal, with no calculi or hydronephrosis"
+US_SYNTH_059,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no calculi or hydronephrosis,"Both kidneys measure within normal limits and look normal, with no calculi or hydronephrosis"
+US_SYNTH_059,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No discrete focal lesion is demonstrable,"No discrete focal lesion is demonstrable, though small lesions may be masked by the fatty background"
+US_SYNTH_059,Liver,Hepatomegaly,Affirmed,Affirmed,N/A,N/A,,,,,R16.0,R16.0,The liver is enlarged with a span of approximately 18 cm,"The liver is enlarged with a span of approximately 18 cm and shows a markedly increased, coarse echopattern with severe posterior attenuation"
+US_SYNTH_059,Liver,Steatosis,Affirmed,Affirmed,Grade 3,Grade 3,,,RID39103,RID39103,K76.0,K76.0,Appearances are those of severe (grade III) hepatic steatosis,Appearances are those of severe (grade III) hepatic steatosis
+US_SYNTH_059,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid is seen in the abdomen,No free fluid is seen in the abdomen
+US_SYNTH_059,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,uniform echotexture and no focal lesion,"The spleen is mildly enlarged, measuring 13.5 cm in its long axis, with uniform echotexture and no focal lesion"
+US_SYNTH_059,Spleen,Splenomegaly,Affirmed,Affirmed,N/A,N/A,,,,,R16.1,R16.1,"The spleen is mildly enlarged, measuring 13.5 cm in its long axis","The spleen is mildly enlarged, measuring 13.5 cm in its long axis, with uniform echotexture and no focal lesion"
+US_SYNTH_060,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculi,No calculi
+US_SYNTH_060,Gallbladder,Polyp,Affirmed,Affirmed,N/A,N/A,4.0,4.0,,,K82.8,K82.8,A 4 mm echogenic non-shadowing polyp arising from the fundal wall,"A 4 mm echogenic non-shadowing polyp arising from the fundal wall, not moving with change of posture"
+US_SYNTH_060,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,"No calculus, no hydronephrosis bilaterally","No calculus, no hydronephrosis bilaterally"
+US_SYNTH_060,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,"No calculus, no hydronephrosis bilaterally","No calculus, no hydronephrosis bilaterally"
+US_SYNTH_060,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal SOL,No focal SOL
+US_SYNTH_060,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,Mildly increased echogenicity - Grade I fatty liver,Mildly increased echogenicity - Grade I fatty liver
+US_SYNTH_060,Pancreas,Calcification,Negated,Negated,N/A,N/A,,,,,,,"No calcification, no ductal dilatation","No calcification, no ductal dilatation"
+US_SYNTH_060,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,Pouch of Douglas: No free fluid.,Pouch of Douglas: No free fluid
+US_SYNTH_060,Pelvis,Uterine Fibroid,Affirmed,Affirmed,N/A,N/A,34.0,34.0,,,D25.9,D25.9,A well defined hypoechoic subserosal fibroid of 3.4 x 3.0 cm,A well defined hypoechoic subserosal fibroid of 3.4 x 3.0 cm on the fundal anterior wall
+US_SYNTH_061,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculus / sludge,"well distended, no calculus / sludge"
+US_SYNTH_061,Gallbladder,Sludge,Negated,Negated,N/A,N/A,,,,,,,no calculus / sludge,"well distended, no calculus / sludge"
+US_SYNTH_061,Kidneys,Calculus,Affirmed,Affirmed,N/A,N/A,4.0,4.0,,,N20.0,N20.0,4 mm calculus upper pole calyx,CMD maintained. 4 mm calculus upper pole calyx
+US_SYNTH_061,Kidneys,Calculus,Affirmed,Affirmed,N/A,N/A,9.0,9.0,,,N20.0,N20.0,9 mm calculus at PUJ / renal pelvis,"10.6 x 4.8 cm. 9 mm calculus at PUJ / renal pelvis, with mild HDN"
+US_SYNTH_061,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No SOL,No SOL
+US_SYNTH_061,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,mildly bright echotexture s/o Gr I fatty liver,"14.2 cm, mildly bright echotexture s/o Gr I fatty liver"
+US_SYNTH_061,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Panc - NAD,NAD
+US_SYNTH_061,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid.,No free fluid
+US_SYNTH_062,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculi,The gallbladder is well distended with a thin wall and no calculi
+US_SYNTH_062,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion is seen,no focal lesion is seen and the biliary radicles are not dilated
+US_SYNTH_062,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,there is no free fluid in the pelvis,"The urinary bladder, uterus (7.4 x 3.6 x 4.1 cm, endometrium 6 mm) and both ovaries are unremarkable and there is no free fluid in the pelvis"
+US_SYNTH_063,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculus within.,No calculus within
+US_SYNTH_063,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydronephrosis on either side.,No calculus or hydronephrosis on either side
+US_SYNTH_063,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydronephrosis on either side.,No calculus or hydronephrosis on either side
+US_SYNTH_063,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion.,No focal lesion
+US_SYNTH_063,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,"fatty infiltration, grade II","Diffusely raised parenchymal echogenicity with partial obscuration of the diaphragm and portal venous walls - fatty infiltration, grade II"
+US_SYNTH_063,Pancreas,Surrounding Collection,Negated,Negated,N/A,N/A,,,,,,,No peripancreatic collection.,No peripancreatic collection
+US_SYNTH_063,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No ascites.,No ascites
+US_SYNTH_063,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Spleen: 10.2 cm. Unremarkable.,Unremarkable
+US_SYNTH_064,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculi,"well distended, no calculi, NAD"
+US_SYNTH_064,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion.,No focal lesion
+US_SYNTH_064,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Pancreas : NAD,NAD
+US_SYNTH_064,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid.,No free fluid
+US_SYNTH_065,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,without stones,Gall bladder is distended and anechoic without stones
+US_SYNTH_065,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,no calculi or pelvicalyceal dilatation,Both kidneys are normal in size and position with preserved corticomedullary distinction and no calculi or pelvicalyceal dilatation
+US_SYNTH_065,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,no calculi or pelvicalyceal dilatation,Both kidneys are normal in size and position with preserved corticomedullary distinction and no calculi or pelvicalyceal dilatation
+US_SYNTH_065,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,there is no focal lesion within it,there is no focal lesion within it and the portal vein is normal in calibre
+US_SYNTH_065,Liver,Steatosis,Possible,Possible,N/A,N/A,,,RID39103,RID39103,,,"borderline increase in parenchymal echogenicity, ? early fatty change","The liver measures 13.8 cm and shows a borderline increase in parenchymal echogenicity, ? early fatty change"
+US_SYNTH_065,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid is seen.,No free fluid is seen
+US_SYNTH_066,Gallbladder,Calculus,Affirmed,Affirmed,N/A,N/A,18.0,18.0,RID5770,RID5770,K80.20,K80.20,"Multiple mobile echogenic calculi with posterior acoustic shadowing are noted in the lumen, the largest measuring approximately 18 mm","Multiple mobile echogenic calculi with posterior acoustic shadowing are noted in the lumen, the largest measuring approximately 18 mm"
+US_SYNTH_066,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid collection.,No pericholecystic fluid collection
+US_SYNTH_066,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy's sign is negative.,Sonographic Murphy's sign is negative
+US_SYNTH_066,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydronephrosis.,No calculus or hydronephrosis
+US_SYNTH_066,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus.,No renal calculus
+US_SYNTH_066,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus or hydronephrosis.,No calculus or hydronephrosis
+US_SYNTH_066,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal space-occupying lesion.,No focal space-occupying lesion
+US_SYNTH_066,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,consistent with grade I fatty infiltration,"Parenchymal echogenicity is mildly increased with preserved visualisation of the portal vein walls and diaphragm, consistent with grade I fatty infiltration"
+US_SYNTH_066,Pancreas,Calcification,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or calcification.,No focal lesion or calcification
+US_SYNTH_066,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or calcification.,No focal lesion or calcification
+US_SYNTH_066,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the abdomen or pelvis.,No free fluid in the abdomen or pelvis
+US_SYNTH_066,Pelvis,Uterine Fibroid,Negated,Negated,N/A,N/A,,,,,,,No fibroid seen.,No fibroid seen
+US_SYNTH_066,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,Homogeneous echotexture. No focal lesion.,No focal lesion
+US_SYNTH_067,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No SOL,No SOL
+US_SYNTH_067,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,"mildly echogenic, Gr-I fatty liver","mildly echogenic, Gr-I fatty liver"
+US_SYNTH_068,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,there is no calculus or sludge,"Gallbladder is well distended, its wall is not thickened and there is no calculus or sludge"
+US_SYNTH_068,Gallbladder,Sludge,Negated,Negated,N/A,N/A,,,,,,,there is no calculus or sludge,"Gallbladder is well distended, its wall is not thickened and there is no calculus or sludge"
+US_SYNTH_068,Gallbladder,Wall Thickening,Negated,Negated,N/A,N/A,,,,,,,its wall is not thickened,"Gallbladder is well distended, its wall is not thickened and there is no calculus or sludge"
+US_SYNTH_068,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,have no calculi,"Right and left kidneys measure 10.2 cm and 10.5 cm respectively, show normal cortical echoes and have no calculi, with no dilatation of the collecting systems"
+US_SYNTH_068,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,shows no focal lesion,"The liver is of normal size and echogenicity with smooth margins and shows no focal lesion, the portal and hepatic veins being normal"
+US_SYNTH_068,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"Pancreas, as far as seen, is unremarkable.","Pancreas, as far as seen, is unremarkable"
+US_SYNTH_068,Pelvis,Free Fluid,Affirmed,Affirmed,N/A,N/A,,,,,,,"A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological","A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological"
+US_SYNTH_068,Pelvis,Uterine Fibroid,Affirmed,Affirmed,N/A,N/A,18.0,18.0,,,D25.9,D25.9,a well-defined hypoechoic intramural fibroid of 1.8 x 1.5 cm,"The uterus is anteverted, measuring 8.6 x 4.9 x 5.1 cm, with a well-defined hypoechoic intramural fibroid of 1.8 x 1.5 cm in the posterior wall"
+US_SYNTH_069,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,Lumen anechoic. No calculus.,No calculus
+US_SYNTH_069,Kidneys,Calculus,Affirmed,Affirmed,N/A,N/A,5.0,5.0,,,N20.0,N20.0,"A 5 mm echogenic focus with distal shadowing is seen in the lower calyx, s/o renal calculus","A 5 mm echogenic focus with distal shadowing is seen in the lower calyx, s/o renal calculus"
+US_SYNTH_069,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,Normal parenchyma. No calculus.,No calculus
+US_SYNTH_069,Kidneys,Hydronephrosis,Affirmed,Affirmed,N/A,N/A,,,,,N13.30,N13.30,Mild dilatation of the pelvicalyceal system (mild hydronephrosis),Mild dilatation of the pelvicalyceal system (mild hydronephrosis)
+US_SYNTH_069,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No hydronephrosis.,No hydronephrosis
+US_SYNTH_069,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No SOL seen.,No SOL seen
+US_SYNTH_069,Liver,Steatosis,Affirmed,Affirmed,Grade 1,Grade 1,,,RID39103,RID39103,K76.0,K76.0,Mild diffuse increase in echogenicity - Grade 1 hepatic steatosis,Mild diffuse increase in echogenicity - Grade 1 hepatic steatosis
+US_SYNTH_069,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No ascites or free fluid.,No ascites or free fluid
+US_SYNTH_069,Pelvis,Pelvic Mass,Negated,Negated,N/A,N/A,,,,,,,No intravesical mass.,No intravesical mass
+US_SYNTH_069,Pelvis,Prostatomegaly,Affirmed,Affirmed,N/A,N/A,,,,,N40.0,N40.0,"Enlarged, measuring 5.1 x 4.6 x 4.4 cm, volume approx. 55 cc",Prostatomegaly (~55 cc) with intravesical protrusion and mild bladder wall thickening / trabeculation
+US_SYNTH_069,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"10.0 cm, unremarkable","Spleen - 10.0 cm, unremarkable"
+US_SYNTH_070,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,no calculi/sludge,"well distended, no calculi/sludge"
+US_SYNTH_070,Gallbladder,Sludge,Negated,Negated,N/A,N/A,,,,,,,no calculi/sludge,"well distended, no calculi/sludge"
+US_SYNTH_070,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No SOL.,No SOL
+US_SYNTH_071,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,there is no calculus or sludge within its lumen,"The gall bladder is adequately distended, its wall is of normal thickness and there is no calculus or sludge within its lumen"
+US_SYNTH_071,Gallbladder,Sludge,Negated,Negated,N/A,N/A,,,,,,,there is no calculus or sludge within its lumen,"The gall bladder is adequately distended, its wall is of normal thickness and there is no calculus or sludge within its lumen"
+US_SYNTH_071,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,There is no evidence of calculus or hydronephrosis on either side,There is no evidence of calculus or hydronephrosis on either side
+US_SYNTH_071,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,7.0,7.0,RID3954,RID3954,N28.1,N28.1,A small anechoic simple cortical cyst measuring about 7 mm is noted in the mid pole of the left kidney,"A small anechoic simple cortical cyst measuring about 7 mm is noted in the mid pole of the left kidney, with a thin imperceptible wall and posterior acoustic enhancement"
+US_SYNTH_071,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,There is no evidence of calculus or hydronephrosis on either side,There is no evidence of calculus or hydronephrosis on either side
+US_SYNTH_071,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal space-occupying lesion is made out within the liver,No focal space-occupying lesion is made out within the liver
+US_SYNTH_071,Liver,Hepatomegaly,Affirmed,Affirmed,N/A,N/A,,,,,R16.0,R16.0,"The liver is enlarged, measuring approximately 17.2 cm","The liver is enlarged, measuring approximately 17.2 cm in its craniocaudal span along the mid-clavicular line, and shows a diffuse increase in parenchymal echogenicity with moderate attenuation of the sound beam, such that the diaphragm is still seen but the walls of the portal venous radicles appear blurred"
+US_SYNTH_071,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,appearances are in keeping with grade II fatty infiltration,"The liver is enlarged, measuring approximately 17.2 cm in its craniocaudal span along the mid-clavicular line, and shows a diffuse increase in parenchymal echogenicity with moderate attenuation of the sound beam, such that the diaphragm is still seen but the walls of the portal venous radicles appear blurred"
+US_SYNTH_071,Pancreas,Surrounding Collection,Negated,Negated,N/A,N/A,,,,,,,with no peripancreatic collection,"The pancreas is visualised in its entirety and is normal in size and echopattern, with no peripancreatic collection"
+US_SYNTH_071,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid is seen in the peritoneal cavity,No free fluid is seen in the peritoneal cavity
+US_SYNTH_071,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,homogeneous echotexture without focal lesion,The spleen measures 10.4 cm and has a homogeneous echotexture without focal lesion
+US_SYNTH_072,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,"No calculus, sludge or polyp","No calculus, sludge or polyp"
+US_SYNTH_072,Gallbladder,Pericholecystic Fluid,Negated,Negated,N/A,N/A,,,,,,,No pericholecystic fluid,No pericholecystic fluid
+US_SYNTH_072,Gallbladder,Polyp,Negated,Negated,N/A,N/A,,,,,,,"No calculus, sludge or polyp","No calculus, sludge or polyp"
+US_SYNTH_072,Gallbladder,Sludge,Negated,Negated,N/A,N/A,,,,,,,"No calculus, sludge or polyp","No calculus, sludge or polyp"
+US_SYNTH_072,Gallbladder,Sonographic Murphy Sign,Negated,Negated,N/A,N/A,,,,,,,Sonographic Murphy's sign is negative,Sonographic Murphy's sign is negative
+US_SYNTH_072,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus. No hydronephrosis,No calculus
+US_SYNTH_072,Kidneys,Cortical Cyst,Negated,Negated,N/A,N/A,,,RID3954,RID3954,,,No cortical cyst,No cortical cyst
+US_SYNTH_072,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus. No hydronephrosis,No hydronephrosis
+US_SYNTH_072,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion is seen,No focal lesion is seen
+US_SYNTH_072,Liver,Steatosis,Negated,Negated,N/A,N/A,,,RID39103,RID39103,,,No fatty infiltration,No fatty infiltration
+US_SYNTH_072,Pancreas,Calcification,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or calcification,No focal lesion or calcification
+US_SYNTH_072,Pancreas,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No focal lesion or calcification,No focal lesion or calcification
+US_SYNTH_072,Pancreas,Surrounding Collection,Negated,Negated,N/A,N/A,,,,,,,No peripancreatic collection,No peripancreatic collection
+US_SYNTH_072,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid in the abdomen or pelvis,PERITONEUM: No free fluid in the abdomen or pelvis
+US_SYNTH_072,Pelvis,Ovarian Cyst,Negated,Negated,N/A,N/A,,,,,,,No ovarian cyst or adnexal mass,No ovarian cyst or adnexal mass
+US_SYNTH_072,Pelvis,Pelvic Mass,Negated,Negated,N/A,N/A,,,,,,,No ovarian cyst or adnexal mass,No ovarian cyst or adnexal mass
+US_SYNTH_072,Pelvis,Uterine Fibroid,Negated,Negated,N/A,N/A,,,,,,,no fibroid,no fibroid
+US_SYNTH_072,Spleen,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,Normal in size (9.2 cm) and echotexture. No focal lesion.,No focal lesion
+US_SYNTH_073,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,No calculi,No calculi
+US_SYNTH_073,Gallbladder,Sludge,Affirmed,Affirmed,N/A,N/A,,,,,,,echogenic sludge in dependent part,"distended, echogenic sludge in dependent part"
+US_SYNTH_073,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,No SOL,No SOL
+US_SYNTH_073,Liver,Steatosis,Affirmed,Affirmed,Grade 1,N/A,,,RID39103,RID39103,K76.0,K76.0,gr I fatty change,"N size, gr I fatty change"
+US_SYNTH_073,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,"Panc, Spl - NAD",NAD
+US_SYNTH_074,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No renal calculus,No renal calculus
+US_SYNTH_074,Kidneys,Cortical Cyst,Affirmed,Affirmed,N/A,N/A,9.0,9.0,RID3954,RID3954,N28.1,N28.1,a simple cortical cyst of 9 mm is seen at the upper pole of the right kidney,"a simple cortical cyst of 9 mm is seen at the upper pole of the right kidney and another of 1.2 cm at the lower pole of the left kidney, neither showing septations or solid components"
+US_SYNTH_074,Kidneys,Septation,Negated,Affirmed,N/A,N/A,,,,,,,neither showing septations or solid components,"a simple cortical cyst of 9 mm is seen at the upper pole of the right kidney and another of 1.2 cm at the lower pole of the left kidney, neither showing septations or solid components"
+US_SYNTH_074,Kidneys,Solid Component,Negated,Affirmed,N/A,N/A,,,,,,,neither showing septations or solid components,"a simple cortical cyst of 9 mm is seen at the upper pole of the right kidney and another of 1.2 cm at the lower pole of the left kidney, neither showing septations or solid components"
+US_SYNTH_074,Liver,Focal Lesion,Negated,Negated,N/A,N/A,,,,,,,no focal lesion is identified,no focal lesion is identified
+US_SYNTH_074,Liver,Steatosis,Affirmed,Affirmed,Grade 2,Grade 2,,,RID39103,RID39103,K76.0,K76.0,consistent with grade 2 hepatic steatosis,"Liver is normal in size at 14.6 cm but shows moderately increased echogenicity with partial obscuration of the deeper parenchyma and portal vein walls, consistent with grade 2 hepatic steatosis"
+US_SYNTH_074,Pancreas,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Pancreas and spleen are unremarkable,Pancreas and spleen are unremarkable
+US_SYNTH_074,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No ascites.,No ascites
+US_SYNTH_074,Spleen,Unremarkable,Affirmed,Affirmed,N/A,N/A,,,RID28473,RID28473,,,Pancreas and spleen are unremarkable,Pancreas and spleen are unremarkable
+US_SYNTH_075,Gallbladder,Calculus,Negated,Negated,N/A,N/A,,,RID5770,RID5770,,,"Distended, normal wall. No calculus.",No calculus
+US_SYNTH_075,Kidneys,Calculus,Negated,Negated,N/A,N/A,,,,,,,No calculus / hydronephrosis,No calculus / hydronephrosis
+US_SYNTH_075,Kidneys,Hydronephrosis,Negated,Negated,N/A,N/A,,,,,,,No calculus / hydronephrosis,No calculus / hydronephrosis
+US_SYNTH_075,Liver,Biliary Dilatation,Negated,Negated,N/A,N/A,,,,,,,No IHBR dilatation,No IHBR dilatation
+US_SYNTH_075,Pelvis,Free Fluid,Negated,Negated,N/A,N/A,,,,,,,No free fluid.,No free fluid

@@ -1,0 +1,242 @@
+{
+  "extractor": {
+    "extractor": "rules"
+  },
+  "reliability": {
+    "proposed": 815,
+    "accepted": 815,
+    "rejected_by_reason": {},
+    "hallucination_rate": 0.0,
+    "out_of_vocabulary_rate": 0.0,
+    "reports_without_parsable_output": 0,
+    "retries": 0,
+    "flags": {}
+  },
+  "per_report": {
+    "US_SYNTH_001": {
+      "proposed": 12
+    },
+    "US_SYNTH_002": {
+      "proposed": 12
+    },
+    "US_SYNTH_003": {
+      "proposed": 10
+    },
+    "US_SYNTH_004": {
+      "proposed": 11
+    },
+    "US_SYNTH_005": {
+      "proposed": 11
+    },
+    "US_SYNTH_006": {
+      "proposed": 12
+    },
+    "US_SYNTH_007": {
+      "proposed": 11
+    },
+    "US_SYNTH_008": {
+      "proposed": 14
+    },
+    "US_SYNTH_009": {
+      "proposed": 11
+    },
+    "US_SYNTH_010": {
+      "proposed": 14
+    },
+    "US_SYNTH_011": {
+      "proposed": 12
+    },
+    "US_SYNTH_012": {
+      "proposed": 11
+    },
+    "US_SYNTH_013": {
+      "proposed": 11
+    },
+    "US_SYNTH_014": {
+      "proposed": 14
+    },
+    "US_SYNTH_015": {
+      "proposed": 12
+    },
+    "US_SYNTH_016": {
+      "proposed": 11
+    },
+    "US_SYNTH_017": {
+      "proposed": 13
+    },
+    "US_SYNTH_018": {
+      "proposed": 14
+    },
+    "US_SYNTH_019": {
+      "proposed": 12
+    },
+    "US_SYNTH_020": {
+      "proposed": 15
+    },
+    "US_SYNTH_021": {
+      "proposed": 12
+    },
+    "US_SYNTH_022": {
+      "proposed": 12
+    },
+    "US_SYNTH_023": {
+      "proposed": 11
+    },
+    "US_SYNTH_024": {
+      "proposed": 11
+    },
+    "US_SYNTH_025": {
+      "proposed": 11
+    },
+    "US_SYNTH_026": {
+      "proposed": 12
+    },
+    "US_SYNTH_027": {
+      "proposed": 14
+    },
+    "US_SYNTH_028": {
+      "proposed": 14
+    },
+    "US_SYNTH_029": {
+      "proposed": 12
+    },
+    "US_SYNTH_030": {
+      "proposed": 14
+    },
+    "US_SYNTH_031": {
+      "proposed": 12
+    },
+    "US_SYNTH_032": {
+      "proposed": 11
+    },
+    "US_SYNTH_033": {
+      "proposed": 11
+    },
+    "US_SYNTH_034": {
+      "proposed": 13
+    },
+    "US_SYNTH_035": {
+      "proposed": 12
+    },
+    "US_SYNTH_036": {
+      "proposed": 11
+    },
+    "US_SYNTH_037": {
+      "proposed": 15
+    },
+    "US_SYNTH_038": {
+      "proposed": 15
+    },
+    "US_SYNTH_039": {
+      "proposed": 12
+    },
+    "US_SYNTH_040": {
+      "proposed": 15
+    },
+    "US_SYNTH_041": {
+      "proposed": 12
+    },
+    "US_SYNTH_042": {
+      "proposed": 11
+    },
+    "US_SYNTH_043": {
+      "proposed": 12
+    },
+    "US_SYNTH_044": {
+      "proposed": 11
+    },
+    "US_SYNTH_045": {
+      "proposed": 12
+    },
+    "US_SYNTH_046": {
+      "proposed": 12
+    },
+    "US_SYNTH_047": {
+      "proposed": 15
+    },
+    "US_SYNTH_048": {
+      "proposed": 14
+    },
+    "US_SYNTH_049": {
+      "proposed": 12
+    },
+    "US_SYNTH_050": {
+      "proposed": 15
+    },
+    "US_SYNTH_051": {
+      "proposed": 13
+    },
+    "US_SYNTH_052": {
+      "proposed": 8
+    },
+    "US_SYNTH_053": {
+      "proposed": 9
+    },
+    "US_SYNTH_054": {
+      "proposed": 6
+    },
+    "US_SYNTH_055": {
+      "proposed": 4
+    },
+    "US_SYNTH_056": {
+      "proposed": 8
+    },
+    "US_SYNTH_057": {
+      "proposed": 10
+    },
+    "US_SYNTH_058": {
+      "proposed": 4
+    },
+    "US_SYNTH_059": {
+      "proposed": 8
+    },
+    "US_SYNTH_060": {
+      "proposed": 9
+    },
+    "US_SYNTH_061": {
+      "proposed": 8
+    },
+    "US_SYNTH_062": {
+      "proposed": 3
+    },
+    "US_SYNTH_063": {
+      "proposed": 8
+    },
+    "US_SYNTH_064": {
+      "proposed": 4
+    },
+    "US_SYNTH_065": {
+      "proposed": 7
+    },
+    "US_SYNTH_066": {
+      "proposed": 13
+    },
+    "US_SYNTH_067": {
+      "proposed": 2
+    },
+    "US_SYNTH_068": {
+      "proposed": 8
+    },
+    "US_SYNTH_069": {
+      "proposed": 12
+    },
+    "US_SYNTH_070": {
+      "proposed": 4
+    },
+    "US_SYNTH_071": {
+      "proposed": 11
+    },
+    "US_SYNTH_072": {
+      "proposed": 18
+    },
+    "US_SYNTH_073": {
+      "proposed": 5
+    },
+    "US_SYNTH_074": {
+      "proposed": 9
+    },
+    "US_SYNTH_075": {
+      "proposed": 5
+    }
+  }
+}

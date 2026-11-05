@@ -1,0 +1,112 @@
+[
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "shows no focal lesion"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Wall Thickening",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "its wall is not thickened"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "there is no calculus or sludge"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Sludge",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "there is no calculus or sludge"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Pancreas, as far as seen, is unremarkable."
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Spleen measures 9.1 cm and is normal."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "have no calculi"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "with no dilatation of the collecting systems"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Uterine Fibroid",
+    "grade": "N/A",
+    "size_mm": 18.0,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "D25.9",
+    "evidence_text": "a well-defined hypoechoic intramural fibroid of 1.8 x 1.5 cm"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Ovarian Cyst",
+    "grade": "N/A",
+    "size_mm": 41.0,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "N83.20",
+    "evidence_text": "Arising from the left ovary there is a complex cystic lesion measuring 4.1 x 3.3 cm"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological"
+  }
+]

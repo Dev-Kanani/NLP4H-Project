@@ -1,0 +1,358 @@
+{
+  "run_name": "rules",
+  "extractor": {
+    "extractor": "rules"
+  },
+  "split": "dev",
+  "splits_evaluated": [
+    "dev"
+  ],
+  "n_reports": 75,
+  "n_gold_entities": 928,
+  "n_pred_entities": 815,
+  "entity_concept": {
+    "tp": 798,
+    "fp": 17,
+    "fn": 130,
+    "precision": 0.9791411042944785,
+    "recall": 0.8599137931034483,
+    "f1": 0.9156626506024096,
+    "ci95": {
+      "precision": [
+        0.9659496201519393,
+        0.9901368453700271
+      ],
+      "recall": [
+        0.8114222764859924,
+        0.9124809198100675
+      ],
+      "f1": [
+        0.8854908759608324,
+        0.9463533364904093
+      ]
+    }
+  },
+  "entity_strict": {
+    "tp": 795,
+    "fp": 20,
+    "fn": 133,
+    "precision": 0.9754601226993865,
+    "recall": 0.8566810344827587,
+    "f1": 0.9122203098106714,
+    "ci95": {
+      "precision": [
+        0.96157677143179,
+        0.9863544608408576
+      ],
+      "recall": [
+        0.8079302180493063,
+        0.9071848816362372
+      ],
+      "f1": [
+        0.8819972929468376,
+        0.9425965541641298
+      ]
+    }
+  },
+  "assertion": {
+    "pairs": 805,
+    "accuracy": 0.991304347826087,
+    "macro_f1": 0.9647021755009094,
+    "cohen_kappa": 0.971594346090253,
+    "confusion": {
+      "Affirmed": {
+        "Affirmed": 140,
+        "Negated": 5,
+        "Possible": 1
+      },
+      "Negated": {
+        "Affirmed": 1,
+        "Negated": 652,
+        "Possible": 0
+      },
+      "Possible": {
+        "Affirmed": 0,
+        "Negated": 0,
+        "Possible": 6
+      }
+    }
+  },
+  "size_mm": {
+    "gold_entities_with_size": 42,
+    "pairs_with_size": 33,
+    "coverage": 0.7857142857142857,
+    "mae_mm": 0.0,
+    "exact_match_rate": 1.0
+  },
+  "steatosis_grade": {
+    "pairs": 32,
+    "gold_steatosis": 32,
+    "accuracy": 0.96875,
+    "confusion": {
+      "Grade 1": {
+        "Grade 1": 16,
+        "Grade 2": 0,
+        "Grade 3": 0
+      },
+      "Grade 2": {
+        "Grade 1": 0,
+        "Grade 2": 9,
+        "Grade 3": 0
+      },
+      "Grade 3": {
+        "Grade 1": 0,
+        "Grade 2": 0,
+        "Grade 3": 6
+      },
+      "N/A": {
+        "Grade 1": 1,
+        "Grade 2": 0,
+        "Grade 3": 0
+      }
+    }
+  },
+  "ontology_grounding": {
+    "radlex_agreement": 1.0,
+    "icd10_agreement": 0.9987468671679198
+  },
+  "evidence_token_recall_mean": 0.9831285916812232,
+  "hallucination_rate": 0.0,
+  "model_reliability": {
+    "proposed": 815,
+    "accepted": 815,
+    "rejected_by_reason": {},
+    "hallucination_rate": 0.0,
+    "out_of_vocabulary_rate": 0.0,
+    "reports_without_parsable_output": 0,
+    "retries": 0,
+    "flags": {}
+  },
+  "schema_validity_pass_rate": 1.0,
+  "schema_errors": [],
+  "triage_agreement": {
+    "accuracy": 0.9333333333333333,
+    "cohen_kappa": 0.8843306600863664
+  },
+  "phi": {
+    "available": true,
+    "gold_identifiers": 14,
+    "covered": 14,
+    "recall": 1.0,
+    "false_positives": 0,
+    "missed": [],
+    "false_positive_examples": []
+  },
+  "prevalence": [
+    {
+      "condition": "Hepatic steatosis",
+      "gold_prevalence": 0.4266666666666667,
+      "pred_prevalence": 0.44,
+      "abs_error_pp": 1.3333333333333308,
+      "abs_error_ci95_pp": [
+        0.0,
+        4.0000000000000036
+      ]
+    },
+    {
+      "condition": "Hepatomegaly",
+      "gold_prevalence": 0.06666666666666667,
+      "pred_prevalence": 0.06666666666666667,
+      "abs_error_pp": 0.0,
+      "abs_error_ci95_pp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "condition": "Cholelithiasis",
+      "gold_prevalence": 0.16,
+      "pred_prevalence": 0.16,
+      "abs_error_pp": 0.0,
+      "abs_error_ci95_pp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "condition": "Gallbladder polyp",
+      "gold_prevalence": 0.013333333333333334,
+      "pred_prevalence": 0.013333333333333334,
+      "abs_error_pp": 0.0,
+      "abs_error_ci95_pp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "condition": "Renal calculus",
+      "gold_prevalence": 0.04,
+      "pred_prevalence": 0.06666666666666667,
+      "abs_error_pp": 2.6666666666666665,
+      "abs_error_ci95_pp": [
+        0.0,
+        7.999999999999999
+      ]
+    },
+    {
+      "condition": "Renal cortical cyst",
+      "gold_prevalence": 0.18666666666666668,
+      "pred_prevalence": 0.17333333333333334,
+      "abs_error_pp": 1.3333333333333335,
+      "abs_error_ci95_pp": [
+        0.0,
+        4.000000000000001
+      ]
+    },
+    {
+      "condition": "Possible renal calculus",
+      "gold_prevalence": 0.08,
+      "pred_prevalence": 0.06666666666666667,
+      "abs_error_pp": 1.3333333333333335,
+      "abs_error_ci95_pp": [
+        0.0,
+        4.000000000000001
+      ]
+    },
+    {
+      "condition": "Prostatomegaly",
+      "gold_prevalence": 0.04,
+      "pred_prevalence": 0.013333333333333334,
+      "abs_error_pp": 2.6666666666666665,
+      "abs_error_ci95_pp": [
+        0.0,
+        6.666666666666667
+      ]
+    },
+    {
+      "condition": "Uterine fibroid",
+      "gold_prevalence": 0.04,
+      "pred_prevalence": 0.04,
+      "abs_error_pp": 0.0,
+      "abs_error_ci95_pp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "by_style": [
+    {
+      "style": "Structured",
+      "reports": 39,
+      "tp": 435,
+      "fp": 7,
+      "fn": 46,
+      "precision": 0.9841628959276018,
+      "recall": 0.9043659043659044,
+      "f1": 0.942578548212351,
+      "precision_ci": [
+        0.9727998922999208,
+        0.9933195941817609
+      ],
+      "recall_ci": [
+        0.8513108944878786,
+        0.957780118255728
+      ],
+      "f1_ci": [
+        0.911792940871845,
+        0.972193699954016
+      ]
+    },
+    {
+      "style": "Telegraphic",
+      "reports": 18,
+      "tp": 173,
+      "fp": 5,
+      "fn": 49,
+      "precision": 0.9719101123595506,
+      "recall": 0.7792792792792793,
+      "f1": 0.865,
+      "precision_ci": [
+        0.9205238026682023,
+        1.0
+      ],
+      "recall_ci": [
+        0.6267120817471449,
+        0.9064317375886524
+      ],
+      "f1_ci": [
+        0.7537070485528748,
+        0.9468880462782021
+      ]
+    },
+    {
+      "style": "Unstructured",
+      "reports": 18,
+      "tp": 190,
+      "fp": 5,
+      "fn": 35,
+      "precision": 0.9743589743589743,
+      "recall": 0.8444444444444444,
+      "f1": 0.9047619047619048,
+      "precision_ci": [
+        0.9424030808340647,
+        1.0
+      ],
+      "recall_ci": [
+        0.738513251783894,
+        0.9304497751124438
+      ],
+      "f1_ci": [
+        0.8320792290804531,
+        0.9611072193942413
+      ]
+    }
+  ],
+  "by_source": [
+    {
+      "source": "original",
+      "reports": 50,
+      "tp": 613,
+      "fp": 6,
+      "fn": 1,
+      "precision": 0.9903069466882067,
+      "recall": 0.998371335504886,
+      "f1": 0.9943227899432279,
+      "precision_ci": [
+        0.9822573479597686,
+        0.9967533783072681
+      ],
+      "recall_ci": [
+        0.9950900163666121,
+        1.0
+      ],
+      "f1_ci": [
+        0.9899461030643414,
+        0.9975984606300793
+      ]
+    },
+    {
+      "source": "v2_generated",
+      "reports": 25,
+      "tp": 185,
+      "fp": 11,
+      "fn": 129,
+      "precision": 0.9438775510204082,
+      "recall": 0.589171974522293,
+      "f1": 0.7254901960784315,
+      "precision_ci": [
+        0.8947368421052632,
+        0.981653470738553
+      ],
+      "recall_ci": [
+        0.5175877902550438,
+        0.6539799038881607
+      ],
+      "f1_ci": [
+        0.6610526315789474,
+        0.7797501993604979
+      ]
+    }
+  ],
+  "throughput_reports_per_s": 749.7777358882719,
+  "nlp_seconds": 0.10002964399996017,
+  "bootstrap": {
+    "resamples": 1000,
+    "seed": 20261029,
+    "unit": "report"
+  }
+}

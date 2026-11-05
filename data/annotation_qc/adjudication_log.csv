@@ -1,0 +1,8 @@
+report_id,action,organ,finding,status,decision,rationale
+US_SYNTH_063,keep,Gallbladder,Wall Thickening,Possible,writer (Possible),'Wall appears thickened ... likely physiological due to contraction': existence itself is called apparent -> Possible (guideline 6.8)
+US_SYNTH_084,keep,Pelvis,Unremarkable,Affirmed,writer (keep row),"Uterus 'appears normal for postmenopausal age' is a whole-organ normal statement; pelvis has no abnormality (rules 3, 6.2)"
+US_SYNTH_089,relabel,Liver,Biliary Dilatation,Negated,blind annotator,'biliary radicles are not dilated' -> Intrahepatic Biliary Dilatation (guideline 6.5)
+US_SYNTH_094,drop,Gallbladder,Contracted Gallbladder,Affirmed,blind annotator,Non-fasting contracted GB is a technical state with no vocabulary name (guideline 6.4)
+US_SYNTH_094,drop,Pelvis,Atrophic Uterus,Affirmed,blind annotator,Age-appropriate atrophic uterus is not annotated (guideline 6.4)
+US_SYNTH_100,drop,Pelvis,Atrophic Uterus,Affirmed,blind annotator,Age-appropriate atrophic uterus is not annotated (guideline 6.4)
+US_SYNTH_100,add,Pelvis,Unremarkable,Affirmed,blind annotator,"'UB: partially filled, NAD.' is a whole-organ normal statement and pelvis has no other abnormality once atrophic uterus is not annotated"

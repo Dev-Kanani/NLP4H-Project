@@ -1,0 +1,1231 @@
+finding_id,report_id,age,sex,style,organ,finding,grade,size_mm,status,radlex_id,icd10_code,evidence_text
+US_SYNTH_001_F01,US_SYNTH_001,34,Female,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_001_F02,US_SYNTH_001,34,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_001_F03,US_SYNTH_001,34,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_001_F04,US_SYNTH_001,34,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculus
+US_SYNTH_001_F05,US_SYNTH_001,34,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,no wall thickening
+US_SYNTH_001_F06,US_SYNTH_001,34,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_001_F07,US_SYNTH_001,34,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_001_F08,US_SYNTH_001,34,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal splenic lesion
+US_SYNTH_001_F09,US_SYNTH_001,34,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_001_F10,US_SYNTH_001,34,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no renal calculus
+US_SYNTH_001_F11,US_SYNTH_001,34,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_002_F01,US_SYNTH_002,51,Male,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,"moderately increased echogenicity with partial posterior beam attenuation, in keeping with Grade 2 fatty infiltration"
+US_SYNTH_002_F02,US_SYNTH_002,51,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion is seen
+US_SYNTH_002_F03,US_SYNTH_002,51,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary dilatation
+US_SYNTH_002_F04,US_SYNTH_002,51,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,without calculi
+US_SYNTH_002_F05,US_SYNTH_002,51,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,The wall is not thickened
+US_SYNTH_002_F06,US_SYNTH_002,51,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid is present
+US_SYNTH_002_F07,US_SYNTH_002,51,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without a focal abnormality
+US_SYNTH_002_F08,US_SYNTH_002,51,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_002_F09,US_SYNTH_002,51,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_002_F10,US_SYNTH_002,51,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no renal calculus or hydronephrosis
+US_SYNTH_002_F11,US_SYNTH_002,51,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_002_F12,US_SYNTH_002,51,Male,Structured,Pelvis,Pelvic Mass,N/A,,Negated,N/A,N/A,no obvious pelvic mass
+US_SYNTH_003_F01,US_SYNTH_003,46,Female,Structured,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,"diffusely hyperechoic with marked posterior acoustic attenuation and reduced conspicuity of the intrahepatic vasculature, compatible with Grade 3 steatosis hepatis"
+US_SYNTH_003_F02,US_SYNTH_003,46,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No discrete focal hepatic lesion
+US_SYNTH_003_F03,US_SYNTH_003,46,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No gallstones
+US_SYNTH_003_F04,US_SYNTH_003,46,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,no wall thickening
+US_SYNTH_003_F05,US_SYNTH_003,46,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic collection
+US_SYNTH_003_F06,US_SYNTH_003,46,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,shows no focal abnormality
+US_SYNTH_003_F07,US_SYNTH_003,46,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_003_F08,US_SYNTH_003,46,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculi
+US_SYNTH_003_F09,US_SYNTH_003,46,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculi or hydronephrosis
+US_SYNTH_003_F10,US_SYNTH_003,46,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_004_F01,US_SYNTH_004,29,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"slightly brighter than the adjacent renal cortex, consistent with mild fatty change, Grade 1"
+US_SYNTH_004_F02,US_SYNTH_004,29,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_004_F03,US_SYNTH_004,29,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_004_F04,US_SYNTH_004,29,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No intraluminal calculus
+US_SYNTH_004_F05,US_SYNTH_004,29,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,The gallbladder wall is normal in thickness
+US_SYNTH_004_F06,US_SYNTH_004,29,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no surrounding fluid
+US_SYNTH_004_F07,US_SYNTH_004,29,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,No focal pancreatic abnormality
+US_SYNTH_004_F08,US_SYNTH_004,29,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_004_F09,US_SYNTH_004,29,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_004_F10,US_SYNTH_004,29,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no renal calculus
+US_SYNTH_004_F11,US_SYNTH_004,29,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_005_F01,US_SYNTH_005,57,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_005_F02,US_SYNTH_005,57,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_005_F03,US_SYNTH_005,57,Female,Structured,Gallbladder,Calculus,N/A,6.5,Affirmed,RID5770,K80.20,A solitary mobile echogenic calculus measuring 6.5 mm demonstrates posterior acoustic shadowing
+US_SYNTH_005_F04,US_SYNTH_005,57,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No wall thickening
+US_SYNTH_005_F05,US_SYNTH_005,57,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_005_F06,US_SYNTH_005,57,Female,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_005_F07,US_SYNTH_005,57,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,No focal pancreatic abnormality
+US_SYNTH_005_F08,US_SYNTH_005,57,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_005_F09,US_SYNTH_005,57,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_005_F10,US_SYNTH_005,57,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no renal calculus or hydronephrosis
+US_SYNTH_005_F11,US_SYNTH_005,57,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_006_F01,US_SYNTH_006,41,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_006_F02,US_SYNTH_006,41,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_006_F03,US_SYNTH_006,41,Male,Structured,Gallbladder,Calculus,N/A,11.8,Affirmed,RID5770,K80.20,"Several mobile intraluminal echogenic foci produce posterior acoustic shadowing, the largest measuring 11.8 mm"
+US_SYNTH_006_F04,US_SYNTH_006,41,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No gallbladder wall thickening
+US_SYNTH_006_F05,US_SYNTH_006,41,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_006_F06,US_SYNTH_006,41,Male,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_006_F07,US_SYNTH_006,41,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without a focal abnormality
+US_SYNTH_006_F08,US_SYNTH_006,41,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_006_F09,US_SYNTH_006,41,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculi
+US_SYNTH_006_F10,US_SYNTH_006,41,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no renal calculi or hydronephrosis
+US_SYNTH_006_F11,US_SYNTH_006,41,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_007_F01,US_SYNTH_007,24,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_007_F02,US_SYNTH_007,24,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No stones
+US_SYNTH_007_F03,US_SYNTH_007,24,Female,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,no wall thickening
+US_SYNTH_007_F04,US_SYNTH_007,24,Female,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_007_F05,US_SYNTH_007,24,Female,Telegraphic,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_007_F06,US_SYNTH_007,24,Female,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_007_F07,US_SYNTH_007,24,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,8.0,Affirmed,RID3954,N28.1,"Simple cortical cyst, lower pole, 8.0 mm"
+US_SYNTH_007_F08,US_SYNTH_007,24,Female,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,no solid component
+US_SYNTH_007_F09,US_SYNTH_007,24,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_007_F10,US_SYNTH_007,24,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus
+US_SYNTH_007_F11,US_SYNTH_007,24,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_008_F01,US_SYNTH_008,62,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_008_F02,US_SYNTH_008,62,Male,Telegraphic,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or biliary dilatation
+US_SYNTH_008_F03,US_SYNTH_008,62,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus
+US_SYNTH_008_F04,US_SYNTH_008,62,Male,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No wall thickening
+US_SYNTH_008_F05,US_SYNTH_008,62,Male,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_008_F06,US_SYNTH_008,62,Male,Telegraphic,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_008_F07,US_SYNTH_008,62,Male,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_008_F08,US_SYNTH_008,62,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus
+US_SYNTH_008_F09,US_SYNTH_008,62,Male,Telegraphic,Kidneys,Cortical Cyst,N/A,21.5,Affirmed,RID3954,N28.1,"Simple cortical cyst, mid-pole, 21.5 mm"
+US_SYNTH_008_F10,US_SYNTH_008,62,Male,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,no septa
+US_SYNTH_008_F11,US_SYNTH_008,62,Male,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,no solid component
+US_SYNTH_008_F12,US_SYNTH_008,62,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_008_F13,US_SYNTH_008,62,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_009_F01,US_SYNTH_009,38,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_009_F02,US_SYNTH_009,38,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_009_F03,US_SYNTH_009,38,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculus
+US_SYNTH_009_F04,US_SYNTH_009,38,Female,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_009_F05,US_SYNTH_009,38,Female,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_009_F06,US_SYNTH_009,38,Female,Unstructured,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,The pancreas is partly obscured by overlying bowel gas
+US_SYNTH_009_F07,US_SYNTH_009,38,Female,Unstructured,Pancreas,Unremarkable Visualized Portion,N/A,,Affirmed,RID28473,N/A,the visualized portion appears unremarkable
+US_SYNTH_009_F08,US_SYNTH_009,38,Female,Unstructured,Kidneys,Calculus,N/A,,Possible,N/A,N/A,a tiny left renal calculus cannot be entirely excluded
+US_SYNTH_009_F09,US_SYNTH_009,38,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no hydronephrosis is present
+US_SYNTH_009_F10,US_SYNTH_009,38,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,The spleen is unremarkable
+US_SYNTH_009_F11,US_SYNTH_009,38,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free pelvic fluid is identified
+US_SYNTH_010_F01,US_SYNTH_010,55,Male,Unstructured,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,The liver is normal in size with homogeneous echotexture
+US_SYNTH_010_F02,US_SYNTH_010,55,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_010_F03,US_SYNTH_010,55,Male,Unstructured,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or biliary dilatation
+US_SYNTH_010_F04,US_SYNTH_010,55,Male,Unstructured,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,the gallbladder is thin-walled
+US_SYNTH_010_F05,US_SYNTH_010,55,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,contains no calculi
+US_SYNTH_010_F06,US_SYNTH_010,55,Male,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_010_F07,US_SYNTH_010,55,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreas and spleen are unremarkable
+US_SYNTH_010_F08,US_SYNTH_010,55,Male,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality identified
+US_SYNTH_010_F09,US_SYNTH_010,55,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,the visualized pancreas and spleen are unremarkable
+US_SYNTH_010_F10,US_SYNTH_010,55,Male,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Both kidneys are normal in size and echogenicity
+US_SYNTH_010_F11,US_SYNTH_010,55,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,without calculi
+US_SYNTH_010_F12,US_SYNTH_010,55,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,without calculi or hydronephrosis
+US_SYNTH_010_F13,US_SYNTH_010,55,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free pelvic fluid is seen
+US_SYNTH_010_F14,US_SYNTH_010,55,Male,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,an unremarkable abdominal ultrasound study
+US_SYNTH_011_F01,US_SYNTH_011,24,Female,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"mildly increased diffuse parenchymal echogenicity and preserved visualization of the intrahepatic vessels, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_011_F02,US_SYNTH_011,24,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_011_F03,US_SYNTH_011,24,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_011_F04,US_SYNTH_011,24,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No gallstones
+US_SYNTH_011_F05,US_SYNTH_011,24,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_011_F06,US_SYNTH_011,24,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,pericholecystic fluid
+US_SYNTH_011_F07,US_SYNTH_011,24,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_011_F08,US_SYNTH_011,24,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_011_F09,US_SYNTH_011,24,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_011_F10,US_SYNTH_011,24,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no renal calculus or hydronephrosis
+US_SYNTH_011_F11,US_SYNTH_011,24,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_012_F01,US_SYNTH_012,51,Male,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,"Diffuse hepatic hyperechogenicity with mild posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty liver"
+US_SYNTH_012_F02,US_SYNTH_012,51,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion is identified
+US_SYNTH_012_F03,US_SYNTH_012,51,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary ductal dilatation
+US_SYNTH_012_F04,US_SYNTH_012,51,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No intraluminal calculi
+US_SYNTH_012_F05,US_SYNTH_012,51,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,The wall is not thickened
+US_SYNTH_012_F06,US_SYNTH_012,51,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,there is no pericholecystic fluid
+US_SYNTH_012_F07,US_SYNTH_012,51,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,shows no focal abnormality
+US_SYNTH_012_F08,US_SYNTH_012,51,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without focal lesion
+US_SYNTH_012_F09,US_SYNTH_012,51,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal stones
+US_SYNTH_012_F10,US_SYNTH_012,51,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal stones or hydronephrosis
+US_SYNTH_012_F11,US_SYNTH_012,51,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid within the visualized pelvis
+US_SYNTH_013_F01,US_SYNTH_013,46,Female,Structured,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,"diffusely marked increased echogenicity, pronounced posterior beam attenuation, and poor visualization of the deeper hepatic parenchyma, compatible with Grade 3 hepatic steatosis"
+US_SYNTH_013_F02,US_SYNTH_013,46,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No discrete focal lesion is seen in the visualized liver
+US_SYNTH_013_F03,US_SYNTH_013,46,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary dilatation
+US_SYNTH_013_F04,US_SYNTH_013,46,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,with no calculus
+US_SYNTH_013_F05,US_SYNTH_013,46,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_013_F06,US_SYNTH_013,46,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,surrounding fluid
+US_SYNTH_013_F07,US_SYNTH_013,46,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,shows no focal abnormality
+US_SYNTH_013_F08,US_SYNTH_013,46,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_013_F09,US_SYNTH_013,46,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus
+US_SYNTH_013_F10,US_SYNTH_013,46,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis
+US_SYNTH_013_F11,US_SYNTH_013,46,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is identified
+US_SYNTH_014_F01,US_SYNTH_014,60,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"diffuse increased parenchymal echogenicity and slight attenuation of the ultrasound beam, suggestive of Grade 1 fatty infiltration"
+US_SYNTH_014_F02,US_SYNTH_014,60,Male,Structured,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,Mildly enlarged liver
+US_SYNTH_014_F03,US_SYNTH_014,60,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_014_F04,US_SYNTH_014,60,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary ductal dilatation
+US_SYNTH_014_F05,US_SYNTH_014,60,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No gallstones are identified
+US_SYNTH_014_F06,US_SYNTH_014,60,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No gallbladder wall thickening
+US_SYNTH_014_F07,US_SYNTH_014,60,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_014_F08,US_SYNTH_014,60,Male,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,without focal lesion
+US_SYNTH_014_F09,US_SYNTH_014,60,Male,Structured,Spleen,Splenomegaly,N/A,,Negated,N/A,N/A,No splenomegaly
+US_SYNTH_014_F10,US_SYNTH_014,60,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal splenic lesion
+US_SYNTH_014_F11,US_SYNTH_014,60,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_014_F12,US_SYNTH_014,60,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_014_F13,US_SYNTH_014,60,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_015_F01,US_SYNTH_015,37,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_015_F02,US_SYNTH_015,37,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_015_F03,US_SYNTH_015,37,Female,Structured,Gallbladder,Calculus,N/A,4.1,Affirmed,RID5770,K80.20,"A small mobile echogenic focus measuring 4.1 mm is seen within the gallbladder lumen, with posterior acoustic shadowing, consistent with a calculus"
+US_SYNTH_015_F04,US_SYNTH_015,37,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No wall thickening
+US_SYNTH_015_F05,US_SYNTH_015,37,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_015_F06,US_SYNTH_015,37,Female,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_015_F07,US_SYNTH_015,37,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,with no focal abnormality
+US_SYNTH_015_F08,US_SYNTH_015,37,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_015_F09,US_SYNTH_015,37,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,without renal calculus
+US_SYNTH_015_F10,US_SYNTH_015,37,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,without renal calculus or hydronephrosis
+US_SYNTH_015_F11,US_SYNTH_015,37,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_016_F01,US_SYNTH_016,55,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_016_F02,US_SYNTH_016,55,Male,Structured,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal hepatic lesion or biliary dilatation
+US_SYNTH_016_F03,US_SYNTH_016,55,Male,Structured,Gallbladder,Calculus,N/A,9.6,Affirmed,RID5770,K80.20,"Two mobile intraluminal calculi are visualized, measuring up to 9.6 mm, with posterior acoustic shadowing"
+US_SYNTH_016_F04,US_SYNTH_016,55,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,The gallbladder wall is not thickened
+US_SYNTH_016_F05,US_SYNTH_016,55,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid is seen
+US_SYNTH_016_F06,US_SYNTH_016,55,Male,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,the sonographic Murphy sign is negative
+US_SYNTH_016_F07,US_SYNTH_016,55,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,shows no focal abnormality
+US_SYNTH_016_F08,US_SYNTH_016,55,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,with no focal lesion
+US_SYNTH_016_F09,US_SYNTH_016,55,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_016_F10,US_SYNTH_016,55,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_016_F11,US_SYNTH_016,55,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_017_F01,US_SYNTH_017,29,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_017_F02,US_SYNTH_017,29,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or IHBR dilatation
+US_SYNTH_017_F03,US_SYNTH_017,29,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus
+US_SYNTH_017_F04,US_SYNTH_017,29,Female,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_017_F05,US_SYNTH_017,29,Female,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,pericholecystic fluid
+US_SYNTH_017_F06,US_SYNTH_017,29,Female,Telegraphic,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_017_F07,US_SYNTH_017,29,Female,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_017_F08,US_SYNTH_017,29,Female,Telegraphic,Kidneys,Cortical Cyst - Right,N/A,12.4,Affirmed,RID3954,N28.1,"Simple cortical cyst at upper pole, 12.4 mm"
+US_SYNTH_017_F09,US_SYNTH_017,29,Female,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,No solid component
+US_SYNTH_017_F10,US_SYNTH_017,29,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydro
+US_SYNTH_017_F11,US_SYNTH_017,29,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No hydro or calculus
+US_SYNTH_017_F12,US_SYNTH_017,29,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no hydronephrosis
+US_SYNTH_017_F13,US_SYNTH_017,29,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_018_F01,US_SYNTH_018,62,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_018_F02,US_SYNTH_018,62,Male,Telegraphic,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal lesion or biliary dilatation
+US_SYNTH_018_F03,US_SYNTH_018,62,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No stones
+US_SYNTH_018_F04,US_SYNTH_018,62,Male,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,no wall thickening
+US_SYNTH_018_F05,US_SYNTH_018,62,Male,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_018_F06,US_SYNTH_018,62,Male,Telegraphic,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_018_F07,US_SYNTH_018,62,Male,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_018_F08,US_SYNTH_018,62,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus
+US_SYNTH_018_F09,US_SYNTH_018,62,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydro
+US_SYNTH_018_F10,US_SYNTH_018,62,Male,Telegraphic,Kidneys,Cortical Cyst - Left,N/A,18.7,Affirmed,RID3954,N28.1,"Simple cortical cyst, interpolar region, 18.7 mm"
+US_SYNTH_018_F11,US_SYNTH_018,62,Male,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,No septations
+US_SYNTH_018_F12,US_SYNTH_018,62,Male,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,no solid component
+US_SYNTH_018_F13,US_SYNTH_018,62,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_018_F14,US_SYNTH_018,62,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_019_F01,US_SYNTH_019,42,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_019_F02,US_SYNTH_019,42,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_019_F03,US_SYNTH_019,42,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,without calculus
+US_SYNTH_019_F04,US_SYNTH_019,42,Female,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_019_F05,US_SYNTH_019,42,Female,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,pericholecystic fluid
+US_SYNTH_019_F06,US_SYNTH_019,42,Female,Unstructured,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,"The pancreatic region is partially obscured by overlying bowel gas, limiting assessment of the pancreatic body and tail"
+US_SYNTH_019_F07,US_SYNTH_019,42,Female,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,the visualized portion shows no focal abnormality
+US_SYNTH_019_F08,US_SYNTH_019,42,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no hydronephrosis is evident
+US_SYNTH_019_F09,US_SYNTH_019,42,Female,Unstructured,Kidneys,Calculus - Left,N/A,,Possible,N/A,N/A,a tiny left renal calculus cannot be entirely excluded
+US_SYNTH_019_F10,US_SYNTH_019,42,Female,Unstructured,Kidneys,Definite Shadowing Calculus,N/A,,Negated,N/A,N/A,no definite shadowing calculus is demonstrated
+US_SYNTH_019_F11,US_SYNTH_019,42,Female,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_019_F12,US_SYNTH_019,42,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free pelvic fluid is seen
+US_SYNTH_020_F01,US_SYNTH_020,33,Male,Unstructured,Liver,Unremarkable,N/A,,Affirmed,RID28473,Z00.00,"The liver is normal in size, contour, and echotexture"
+US_SYNTH_020_F02,US_SYNTH_020,33,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal hepatic lesion
+US_SYNTH_020_F03,US_SYNTH_020,33,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_020_F04,US_SYNTH_020,33,Male,Unstructured,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,"The gallbladder is normally distended with a thin, smooth wall"
+US_SYNTH_020_F05,US_SYNTH_020,33,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no intraluminal calculi
+US_SYNTH_020_F06,US_SYNTH_020,33,Male,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no intraluminal calculi or pericholecystic fluid
+US_SYNTH_020_F07,US_SYNTH_020,33,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreas is normal in appearance
+US_SYNTH_020_F08,US_SYNTH_020,33,Male,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_020_F09,US_SYNTH_020,33,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,the spleen is normal in size and echotexture
+US_SYNTH_020_F10,US_SYNTH_020,33,Male,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,with no focal lesion
+US_SYNTH_020_F11,US_SYNTH_020,33,Male,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Both kidneys are normal in size and cortical echogenicity
+US_SYNTH_020_F12,US_SYNTH_020,33,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,with no renal calculus
+US_SYNTH_020_F13,US_SYNTH_020,33,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no renal calculus or hydronephrosis
+US_SYNTH_020_F14,US_SYNTH_020,33,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is identified in the visualized pelvis
+US_SYNTH_020_F15,US_SYNTH_020,33,Male,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,an unremarkable abdominal ultrasound study
+US_SYNTH_021_F01,US_SYNTH_021,34,Female,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"mildly increased diffuse parenchymal echogenicity and maintained visualization of the portal venous radicles, suggestive of Grade 1 hepatic steatosis"
+US_SYNTH_021_F02,US_SYNTH_021,34,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_021_F03,US_SYNTH_021,34,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary dilatation
+US_SYNTH_021_F04,US_SYNTH_021,34,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no intraluminal calculus
+US_SYNTH_021_F05,US_SYNTH_021,34,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_021_F06,US_SYNTH_021,34,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,pericholecystic fluid
+US_SYNTH_021_F07,US_SYNTH_021,34,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portions are unremarkable
+US_SYNTH_021_F08,US_SYNTH_021,34,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,No focal pancreatic abnormality
+US_SYNTH_021_F09,US_SYNTH_021,34,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_021_F10,US_SYNTH_021,34,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus
+US_SYNTH_021_F11,US_SYNTH_021,34,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis
+US_SYNTH_021_F12,US_SYNTH_021,34,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_022_F01,US_SYNTH_022,52,Male,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,"Diffusely increased hepatic echogenicity with moderate posterior beam attenuation and reduced conspicuity of the portal triads, in keeping with Grade 2 fatty infiltration"
+US_SYNTH_022_F02,US_SYNTH_022,52,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion is identified
+US_SYNTH_022_F03,US_SYNTH_022,52,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,The intrahepatic bile ducts are not dilated
+US_SYNTH_022_F04,US_SYNTH_022,52,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No gallstones
+US_SYNTH_022_F05,US_SYNTH_022,52,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No gallstones or wall thickening
+US_SYNTH_022_F06,US_SYNTH_022,52,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_022_F07,US_SYNTH_022,52,Male,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,The visualized pancreas shows no focal lesion
+US_SYNTH_022_F08,US_SYNTH_022,52,Male,Structured,Pancreas,Surrounding Collection,N/A,,Negated,N/A,N/A,no focal lesion or surrounding collection
+US_SYNTH_022_F09,US_SYNTH_022,52,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without focal lesion
+US_SYNTH_022_F10,US_SYNTH_022,52,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_022_F11,US_SYNTH_022,52,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_022_F12,US_SYNTH_022,52,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_023_F01,US_SYNTH_023,47,Female,Structured,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,"Diffusely increased hepatic echogenicity with marked posterior acoustic attenuation and diminished visualization of the deeper hepatic parenchyma, compatible with Grade 3 steatosis hepatis"
+US_SYNTH_023_F02,US_SYNTH_023,47,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No discrete focal lesion is identified within the visualized liver
+US_SYNTH_023_F03,US_SYNTH_023,47,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary dilatation
+US_SYNTH_023_F04,US_SYNTH_023,47,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No intraluminal calculus
+US_SYNTH_023_F05,US_SYNTH_023,47,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,The gallbladder wall is not thickened
+US_SYNTH_023_F06,US_SYNTH_023,47,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid is seen
+US_SYNTH_023_F07,US_SYNTH_023,47,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,Visualized pancreatic tissue shows no focal abnormality
+US_SYNTH_023_F08,US_SYNTH_023,47,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_023_F09,US_SYNTH_023,47,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_023_F10,US_SYNTH_023,47,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_023_F11,US_SYNTH_023,47,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_024_F01,US_SYNTH_024,28,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"mild diffuse parenchymal brightness relative to the renal cortex, in keeping with Grade 1 fatty infiltration"
+US_SYNTH_024_F02,US_SYNTH_024,28,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_024_F03,US_SYNTH_024,28,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal hepatic lesion or intrahepatic biliary ductal dilatation
+US_SYNTH_024_F04,US_SYNTH_024,28,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No gallstones
+US_SYNTH_024_F05,US_SYNTH_024,28,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_024_F06,US_SYNTH_024,28,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"No gallstones, wall thickening, or pericholecystic fluid"
+US_SYNTH_024_F07,US_SYNTH_024,28,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,No focal abnormality in the visualized portion
+US_SYNTH_024_F08,US_SYNTH_024,28,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_024_F09,US_SYNTH_024,28,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus
+US_SYNTH_024_F10,US_SYNTH_024,28,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis
+US_SYNTH_024_F11,US_SYNTH_024,28,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_025_F01,US_SYNTH_025,58,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_025_F02,US_SYNTH_025,58,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,without a focal lesion or intrahepatic biliary dilatation
+US_SYNTH_025_F03,US_SYNTH_025,58,Female,Structured,Gallbladder,Calculus,N/A,3.6,Affirmed,RID5770,K80.20,"A solitary mobile echogenic calculus measuring 3.6 mm is seen within the lumen, with faint posterior acoustic shadowing"
+US_SYNTH_025_F04,US_SYNTH_025,58,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No gallbladder wall thickening
+US_SYNTH_025_F05,US_SYNTH_025,58,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_025_F06,US_SYNTH_025,58,Female,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_025_F07,US_SYNTH_025,58,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,the visualized pancreas demonstrates no focal abnormality
+US_SYNTH_025_F08,US_SYNTH_025,58,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_025_F09,US_SYNTH_025,58,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_025_F10,US_SYNTH_025,58,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_025_F11,US_SYNTH_025,58,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_026_F01,US_SYNTH_026,43,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal hepatic lesion
+US_SYNTH_026_F02,US_SYNTH_026,43,Male,Structured,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal hepatic lesion or biliary dilatation
+US_SYNTH_026_F03,US_SYNTH_026,43,Male,Structured,Gallbladder,Calculus,N/A,10.7,Affirmed,RID5770,K80.20,"Multiple mobile echogenic calculi with posterior acoustic shadowing are present, the largest measuring 10.7 mm"
+US_SYNTH_026_F04,US_SYNTH_026,43,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No wall thickening
+US_SYNTH_026_F05,US_SYNTH_026,43,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No wall thickening or pericholecystic fluid
+US_SYNTH_026_F06,US_SYNTH_026,43,Male,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_026_F07,US_SYNTH_026,43,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreatic parenchyma is unremarkable
+US_SYNTH_026_F08,US_SYNTH_026,43,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_026_F09,US_SYNTH_026,43,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_026_F10,US_SYNTH_026,43,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculi
+US_SYNTH_026_F11,US_SYNTH_026,43,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculi or hydronephrosis
+US_SYNTH_026_F12,US_SYNTH_026,43,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_027_F01,US_SYNTH_027,25,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_027_F02,US_SYNTH_027,25,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal lesion or IHBR dilatation
+US_SYNTH_027_F03,US_SYNTH_027,25,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus
+US_SYNTH_027_F04,US_SYNTH_027,25,Female,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No wall thickening
+US_SYNTH_027_F05,US_SYNTH_027,25,Female,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No wall thickening or pericholecystic fluid
+US_SYNTH_027_F06,US_SYNTH_027,25,Female,Telegraphic,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_027_F07,US_SYNTH_027,25,Female,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_027_F08,US_SYNTH_027,25,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,9.2,Affirmed,RID3954,N28.1,"Simple cortical cyst at lower pole, 9.2 mm"
+US_SYNTH_027_F09,US_SYNTH_027,25,Female,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,No solid component
+US_SYNTH_027_F10,US_SYNTH_027,25,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydro
+US_SYNTH_027_F11,US_SYNTH_027,25,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No hydro or calculus
+US_SYNTH_027_F12,US_SYNTH_027,25,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus or hydronephrosis
+US_SYNTH_027_F13,US_SYNTH_027,25,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus or hydronephrosis
+US_SYNTH_027_F14,US_SYNTH_027,25,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_028_F01,US_SYNTH_028,61,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_028_F02,US_SYNTH_028,61,Male,Telegraphic,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or biliary dilatation
+US_SYNTH_028_F03,US_SYNTH_028,61,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No stones
+US_SYNTH_028_F04,US_SYNTH_028,61,Male,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_028_F05,US_SYNTH_028,61,Male,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_028_F06,US_SYNTH_028,61,Male,Telegraphic,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_028_F07,US_SYNTH_028,61,Male,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_028_F08,US_SYNTH_028,61,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus
+US_SYNTH_028_F09,US_SYNTH_028,61,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydro
+US_SYNTH_028_F10,US_SYNTH_028,61,Male,Telegraphic,Kidneys,Cortical Cyst,N/A,20.4,Affirmed,RID3954,N28.1,"Simple cortical cyst in interpolar region, 20.4 mm"
+US_SYNTH_028_F11,US_SYNTH_028,61,Male,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,No septations
+US_SYNTH_028_F12,US_SYNTH_028,61,Male,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,No septations or solid component
+US_SYNTH_028_F13,US_SYNTH_028,61,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_028_F14,US_SYNTH_028,61,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_029_F01,US_SYNTH_029,39,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_029_F02,US_SYNTH_029,39,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_029_F03,US_SYNTH_029,39,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,without calculi
+US_SYNTH_029_F04,US_SYNTH_029,39,Female,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"without calculi, wall thickening, or pericholecystic fluid"
+US_SYNTH_029_F05,US_SYNTH_029,39,Female,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"without calculi, wall thickening, or pericholecystic fluid"
+US_SYNTH_029_F06,US_SYNTH_029,39,Female,Unstructured,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,"The pancreas is partly obscured by bowel gas, limiting evaluation of its distal portion"
+US_SYNTH_029_F07,US_SYNTH_029,39,Female,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,the visualized tissue shows no focal abnormality
+US_SYNTH_029_F08,US_SYNTH_029,39,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,Both kidneys are normal in size without hydronephrosis
+US_SYNTH_029_F09,US_SYNTH_029,39,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,A definite renal calculus is not demonstrated
+US_SYNTH_029_F10,US_SYNTH_029,39,Female,Unstructured,Kidneys,Calculus,N/A,,Possible,N/A,N/A,a tiny right renal calculus cannot be entirely excluded
+US_SYNTH_029_F11,US_SYNTH_029,39,Female,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_029_F12,US_SYNTH_029,39,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free pelvic fluid is identified
+US_SYNTH_030_F01,US_SYNTH_030,33,Male,Unstructured,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,The liver is normal in size and contour with homogeneous parenchymal echotexture
+US_SYNTH_030_F02,US_SYNTH_030,33,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_030_F03,US_SYNTH_030,33,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,without a focal lesion or intrahepatic biliary dilatation
+US_SYNTH_030_F04,US_SYNTH_030,33,Male,Unstructured,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,The gallbladder is normally distended and thin-walled
+US_SYNTH_030_F05,US_SYNTH_030,33,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,with no intraluminal calculus
+US_SYNTH_030_F06,US_SYNTH_030,33,Male,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,with no intraluminal calculus or pericholecystic fluid
+US_SYNTH_030_F07,US_SYNTH_030,33,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreas is unremarkable
+US_SYNTH_030_F08,US_SYNTH_030,33,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,the spleen is normal in size
+US_SYNTH_030_F09,US_SYNTH_030,33,Male,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_030_F10,US_SYNTH_030,33,Male,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Both kidneys demonstrate preserved size and cortical echogenicity
+US_SYNTH_030_F11,US_SYNTH_030,33,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,with no renal calculus
+US_SYNTH_030_F12,US_SYNTH_030,33,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,with no renal calculus or hydronephrosis
+US_SYNTH_030_F13,US_SYNTH_030,33,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free fluid is seen in the pelvis
+US_SYNTH_030_F14,US_SYNTH_030,33,Male,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,"the examination is unremarkable, with no significant sonographic abnormality identified"
+US_SYNTH_031_F01,US_SYNTH_031,31,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"mildly increased diffuse hepatic echogenicity and preserved visualization of the diaphragm and intrahepatic vessels, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_031_F02,US_SYNTH_031,31,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_031_F03,US_SYNTH_031,31,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_031_F04,US_SYNTH_031,31,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,without calculus
+US_SYNTH_031_F05,US_SYNTH_031,31,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_031_F06,US_SYNTH_031,31,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,pericholecystic fluid
+US_SYNTH_031_F07,US_SYNTH_031,31,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portions are unremarkable
+US_SYNTH_031_F08,US_SYNTH_031,31,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_031_F09,US_SYNTH_031,31,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_031_F10,US_SYNTH_031,31,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_031_F11,US_SYNTH_031,31,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_031_F12,US_SYNTH_031,31,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_032_F01,US_SYNTH_032,49,Female,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,"Diffuse hepatic hyperechogenicity with moderate posterior acoustic attenuation and reduced definition of the portal triads is noted, in keeping with Grade 2 fatty infiltration"
+US_SYNTH_032_F02,US_SYNTH_032,49,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_032_F03,US_SYNTH_032,49,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary ductal dilatation
+US_SYNTH_032_F04,US_SYNTH_032,49,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No intraluminal calculi
+US_SYNTH_032_F05,US_SYNTH_032,49,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,The gallbladder wall is not thickened
+US_SYNTH_032_F06,US_SYNTH_032,49,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid is present
+US_SYNTH_032_F07,US_SYNTH_032,49,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,shows no focal abnormality
+US_SYNTH_032_F08,US_SYNTH_032,49,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without focal lesion
+US_SYNTH_032_F09,US_SYNTH_032,49,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_032_F10,US_SYNTH_032,49,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_032_F11,US_SYNTH_032,49,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid within the visualized pelvis
+US_SYNTH_033_F01,US_SYNTH_033,56,Male,Structured,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,"diffusely marked increased echogenicity, pronounced posterior beam attenuation, and reduced visualization of the deep hepatic parenchyma, consistent with Grade 3 hepatic steatosis"
+US_SYNTH_033_F02,US_SYNTH_033,56,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion is identified in the visualized liver
+US_SYNTH_033_F03,US_SYNTH_033,56,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary dilatation
+US_SYNTH_033_F04,US_SYNTH_033,56,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,with no calculus
+US_SYNTH_033_F05,US_SYNTH_033,56,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_033_F06,US_SYNTH_033,56,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,pericholecystic fluid
+US_SYNTH_033_F07,US_SYNTH_033,56,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,show no focal pancreatic abnormality
+US_SYNTH_033_F08,US_SYNTH_033,56,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_033_F09,US_SYNTH_033,56,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_033_F10,US_SYNTH_033,56,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_033_F11,US_SYNTH_033,56,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_034_F01,US_SYNTH_034,42,Female,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"Mild diffuse increase in hepatic parenchymal echogenicity relative to the right renal cortex, with minimal posterior attenuation, suggestive of Grade 1 steatosis"
+US_SYNTH_034_F02,US_SYNTH_034,42,Female,Structured,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,The liver is mildly enlarged
+US_SYNTH_034_F03,US_SYNTH_034,42,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_034_F04,US_SYNTH_034,42,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_034_F05,US_SYNTH_034,42,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No intraluminal calculus
+US_SYNTH_034_F06,US_SYNTH_034,42,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,The wall is not thickened
+US_SYNTH_034_F07,US_SYNTH_034,42,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid is present
+US_SYNTH_034_F08,US_SYNTH_034,42,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreas is unremarkable
+US_SYNTH_034_F09,US_SYNTH_034,42,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_034_F10,US_SYNTH_034,42,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without focal lesion
+US_SYNTH_034_F11,US_SYNTH_034,42,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_034_F12,US_SYNTH_034,42,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_034_F13,US_SYNTH_034,42,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_035_F01,US_SYNTH_035,36,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_035_F02,US_SYNTH_035,36,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_035_F03,US_SYNTH_035,36,Male,Structured,Gallbladder,Calculus,N/A,7.2,Affirmed,RID5770,K80.20,"A solitary mobile echogenic focus measuring 7.2 mm demonstrates posterior acoustic shadowing, consistent with a gallbladder calculus"
+US_SYNTH_035_F04,US_SYNTH_035,36,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No wall thickening
+US_SYNTH_035_F05,US_SYNTH_035,36,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no pericholecystic fluid
+US_SYNTH_035_F06,US_SYNTH_035,36,Male,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_035_F07,US_SYNTH_035,36,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portions are unremarkable
+US_SYNTH_035_F08,US_SYNTH_035,36,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,with no focal abnormality
+US_SYNTH_035_F09,US_SYNTH_035,36,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_035_F10,US_SYNTH_035,36,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_035_F11,US_SYNTH_035,36,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_035_F12,US_SYNTH_035,36,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_036_F01,US_SYNTH_036,53,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_036_F02,US_SYNTH_036,53,Female,Structured,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal hepatic lesion or biliary dilatation
+US_SYNTH_036_F03,US_SYNTH_036,53,Female,Structured,Gallbladder,Calculus,N/A,11.4,Affirmed,RID5770,K80.20,"Multiple mobile echogenic calculi are present within the gallbladder lumen, the largest measuring 11.4 mm"
+US_SYNTH_036_F04,US_SYNTH_036,53,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No gallbladder wall thickening
+US_SYNTH_036_F05,US_SYNTH_036,53,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_036_F06,US_SYNTH_036,53,Female,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_036_F07,US_SYNTH_036,53,Female,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,The visualized pancreas shows no focal lesion
+US_SYNTH_036_F08,US_SYNTH_036,53,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without focal lesion
+US_SYNTH_036_F09,US_SYNTH_036,53,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_036_F10,US_SYNTH_036,53,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_036_F11,US_SYNTH_036,53,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_037_F01,US_SYNTH_037,26,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_037_F02,US_SYNTH_037,26,Male,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal lesion or IHBR dilatation
+US_SYNTH_037_F03,US_SYNTH_037,26,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No stones
+US_SYNTH_037_F04,US_SYNTH_037,26,Male,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall thickening
+US_SYNTH_037_F05,US_SYNTH_037,26,Male,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,pericholecystic fluid
+US_SYNTH_037_F06,US_SYNTH_037,26,Male,Telegraphic,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_037_F07,US_SYNTH_037,26,Male,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_037_F08,US_SYNTH_037,26,Male,Telegraphic,Kidneys,Cortical Cyst,N/A,15.2,Affirmed,RID3954,N28.1,"Simple cortical cyst, upper pole, 15.2 mm"
+US_SYNTH_037_F09,US_SYNTH_037,26,Male,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,No septa
+US_SYNTH_037_F10,US_SYNTH_037,26,Male,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,no solid component
+US_SYNTH_037_F11,US_SYNTH_037,26,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydro
+US_SYNTH_037_F12,US_SYNTH_037,26,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No hydro/calculus
+US_SYNTH_037_F13,US_SYNTH_037,26,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus or hydro
+US_SYNTH_037_F14,US_SYNTH_037,26,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_037_F15,US_SYNTH_037,26,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_038_F01,US_SYNTH_038,62,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_038_F02,US_SYNTH_038,62,Female,Telegraphic,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or biliary dilatation
+US_SYNTH_038_F03,US_SYNTH_038,62,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus
+US_SYNTH_038_F04,US_SYNTH_038,62,Female,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No calculus or wall thickening
+US_SYNTH_038_F05,US_SYNTH_038,62,Female,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_038_F06,US_SYNTH_038,62,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portion unremarkable
+US_SYNTH_038_F07,US_SYNTH_038,62,Female,Telegraphic,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_038_F08,US_SYNTH_038,62,Female,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_038_F09,US_SYNTH_038,62,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus
+US_SYNTH_038_F10,US_SYNTH_038,62,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus or hydro
+US_SYNTH_038_F11,US_SYNTH_038,62,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,21.8,Affirmed,RID3954,N28.1,"Simple cortical cyst, lower pole, 21.8 mm"
+US_SYNTH_038_F12,US_SYNTH_038,62,Female,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,No septations
+US_SYNTH_038_F13,US_SYNTH_038,62,Female,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,No septations or solid component
+US_SYNTH_038_F14,US_SYNTH_038,62,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_038_F15,US_SYNTH_038,62,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_039_F01,US_SYNTH_039,39,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_039_F02,US_SYNTH_039,39,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,without a focal lesion or intrahepatic biliary dilatation
+US_SYNTH_039_F03,US_SYNTH_039,39,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,with no calculus
+US_SYNTH_039_F04,US_SYNTH_039,39,Male,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_039_F05,US_SYNTH_039,39,Male,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_039_F06,US_SYNTH_039,39,Male,Unstructured,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,"The pancreas is partially obscured by overlying bowel gas, limiting evaluation of its distal portion"
+US_SYNTH_039_F07,US_SYNTH_039,39,Male,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,the visualized pancreatic tissue shows no focal abnormality
+US_SYNTH_039_F08,US_SYNTH_039,39,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,"Both kidneys are normal in size, with no hydronephrosis"
+US_SYNTH_039_F09,US_SYNTH_039,39,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No definite right renal calculus is identified
+US_SYNTH_039_F10,US_SYNTH_039,39,Male,Unstructured,Kidneys,Calculus,N/A,,Possible,N/A,N/A,a small calculus cannot be entirely excluded
+US_SYNTH_039_F11,US_SYNTH_039,39,Male,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,shows no focal lesion
+US_SYNTH_039_F12,US_SYNTH_039,39,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free pelvic fluid is demonstrated
+US_SYNTH_040_F01,US_SYNTH_040,33,Female,Unstructured,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,The liver is normal in size and contour with homogeneous echotexture
+US_SYNTH_040_F02,US_SYNTH_040,33,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal hepatic lesion
+US_SYNTH_040_F03,US_SYNTH_040,33,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_040_F04,US_SYNTH_040,33,Female,Unstructured,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,the gallbladder is normally distended with a thin smooth wall
+US_SYNTH_040_F05,US_SYNTH_040,33,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no intraluminal calculi
+US_SYNTH_040_F06,US_SYNTH_040,33,Female,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no intraluminal calculi or pericholecystic fluid
+US_SYNTH_040_F07,US_SYNTH_040,33,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreas is unremarkable
+US_SYNTH_040_F08,US_SYNTH_040,33,Female,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_040_F09,US_SYNTH_040,33,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,the spleen is normal in size
+US_SYNTH_040_F10,US_SYNTH_040,33,Female,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_040_F11,US_SYNTH_040,33,Female,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Both kidneys show preserved size and cortical echogenicity
+US_SYNTH_040_F12,US_SYNTH_040,33,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,with no renal calculi
+US_SYNTH_040_F13,US_SYNTH_040,33,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,with no renal calculi or hydronephrosis
+US_SYNTH_040_F14,US_SYNTH_040,33,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is identified in the visualized pelvis
+US_SYNTH_040_F15,US_SYNTH_040,33,Female,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,an unremarkable abdominal ultrasound study
+US_SYNTH_041_F01,US_SYNTH_041,27,Female,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis"
+US_SYNTH_041_F02,US_SYNTH_041,27,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_041_F03,US_SYNTH_041,27,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_041_F04,US_SYNTH_041,27,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No intraluminal calculus
+US_SYNTH_041_F05,US_SYNTH_041,27,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"No intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_041_F06,US_SYNTH_041,27,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"No intraluminal calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_041_F07,US_SYNTH_041,27,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portions are unremarkable
+US_SYNTH_041_F08,US_SYNTH_041,27,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_041_F09,US_SYNTH_041,27,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_041_F10,US_SYNTH_041,27,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_041_F11,US_SYNTH_041,27,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_041_F12,US_SYNTH_041,27,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_042_F01,US_SYNTH_042,50,Male,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,"Diffuse increase in hepatic echogenicity with moderate posterior acoustic attenuation and partial obscuration of the portal triads, compatible with Grade 2 fatty infiltration"
+US_SYNTH_042_F02,US_SYNTH_042,50,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion is seen
+US_SYNTH_042_F03,US_SYNTH_042,50,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary ductal dilatation
+US_SYNTH_042_F04,US_SYNTH_042,50,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No gallstones
+US_SYNTH_042_F05,US_SYNTH_042,50,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No gallstones or wall thickening
+US_SYNTH_042_F06,US_SYNTH_042,50,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_042_F07,US_SYNTH_042,50,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,The visualized pancreatic parenchyma shows no focal abnormality
+US_SYNTH_042_F08,US_SYNTH_042,50,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without focal lesion
+US_SYNTH_042_F09,US_SYNTH_042,50,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_042_F10,US_SYNTH_042,50,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_042_F11,US_SYNTH_042,50,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is identified
+US_SYNTH_043_F01,US_SYNTH_043,45,Female,Structured,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,"The hepatic parenchyma is markedly hyperechoic, with pronounced posterior beam attenuation and reduced visualization of the deeper liver tissue, findings compatible with Grade 3 steatosis hepatis"
+US_SYNTH_043_F02,US_SYNTH_043,45,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No definite focal hepatic lesion is seen in the visualized parenchyma
+US_SYNTH_043_F03,US_SYNTH_043,45,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No intrahepatic biliary dilatation
+US_SYNTH_043_F04,US_SYNTH_043,45,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_043_F05,US_SYNTH_043,45,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_043_F06,US_SYNTH_043,45,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_043_F07,US_SYNTH_043,45,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portions are unremarkable
+US_SYNTH_043_F08,US_SYNTH_043,45,Female,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,with no focal lesion
+US_SYNTH_043_F09,US_SYNTH_043,45,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_043_F10,US_SYNTH_043,45,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_043_F11,US_SYNTH_043,45,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_043_F12,US_SYNTH_043,45,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_044_F01,US_SYNTH_044,58,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"Slight diffuse increase in hepatic echogenicity relative to the renal cortex, with minimal posterior acoustic attenuation, consistent with Grade 1 fatty change"
+US_SYNTH_044_F02,US_SYNTH_044,58,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_044_F03,US_SYNTH_044,58,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_044_F04,US_SYNTH_044,58,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No intraluminal calculus
+US_SYNTH_044_F05,US_SYNTH_044,58,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No intraluminal calculus or wall thickening
+US_SYNTH_044_F06,US_SYNTH_044,58,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_044_F07,US_SYNTH_044,58,Male,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,No focal abnormality in the visualized pancreas
+US_SYNTH_044_F08,US_SYNTH_044,58,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_044_F09,US_SYNTH_044,58,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculi
+US_SYNTH_044_F10,US_SYNTH_044,58,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculi or hydronephrosis
+US_SYNTH_044_F11,US_SYNTH_044,58,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_045_F01,US_SYNTH_045,36,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_045_F02,US_SYNTH_045,36,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_045_F03,US_SYNTH_045,36,Female,Structured,Gallbladder,Calculus,N/A,5.8,Affirmed,RID5770,K80.20,"A mobile echogenic calculus measuring 5.8 mm is identified within the gallbladder lumen, with posterior acoustic shadowing"
+US_SYNTH_045_F04,US_SYNTH_045,36,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No wall thickening
+US_SYNTH_045_F05,US_SYNTH_045,36,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No wall thickening or pericholecystic fluid
+US_SYNTH_045_F06,US_SYNTH_045,36,Female,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,The sonographic Murphy sign is negative
+US_SYNTH_045_F07,US_SYNTH_045,36,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreas is unremarkable
+US_SYNTH_045_F08,US_SYNTH_045,36,Female,Structured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_045_F09,US_SYNTH_045,36,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_045_F10,US_SYNTH_045,36,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_045_F11,US_SYNTH_045,36,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_045_F12,US_SYNTH_045,36,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid
+US_SYNTH_046_F01,US_SYNTH_046,54,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_046_F02,US_SYNTH_046,54,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No focal lesion or intrahepatic biliary dilatation
+US_SYNTH_046_F03,US_SYNTH_046,54,Male,Structured,Gallbladder,Calculus,N/A,12.0,Affirmed,RID5770,K80.20,Multiple mobile echogenic calculi with posterior acoustic shadowing are present; the largest measures 12.0 mm
+US_SYNTH_046_F04,US_SYNTH_046,54,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,No gallbladder wall thickening
+US_SYNTH_046_F05,US_SYNTH_046,54,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No gallbladder wall thickening or pericholecystic fluid
+US_SYNTH_046_F06,US_SYNTH_046,54,Male,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy sign is negative
+US_SYNTH_046_F07,US_SYNTH_046,54,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portions are unremarkable
+US_SYNTH_046_F08,US_SYNTH_046,54,Male,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,with no focal pancreatic lesion
+US_SYNTH_046_F09,US_SYNTH_046,54,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No focal splenic lesion
+US_SYNTH_046_F10,US_SYNTH_046,54,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_046_F11,US_SYNTH_046,54,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No renal calculus or hydronephrosis
+US_SYNTH_046_F12,US_SYNTH_046,54,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the visualized pelvis
+US_SYNTH_047_F01,US_SYNTH_047,24,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_047_F02,US_SYNTH_047,24,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or IHBR dilatation
+US_SYNTH_047_F03,US_SYNTH_047,24,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No stones
+US_SYNTH_047_F04,US_SYNTH_047,24,Female,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_047_F05,US_SYNTH_047,24,Female,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"No stones, wall thickening, or pericholecystic fluid"
+US_SYNTH_047_F06,US_SYNTH_047,24,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Visualized portion WNL
+US_SYNTH_047_F07,US_SYNTH_047,24,Female,Telegraphic,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,no focal abnormality
+US_SYNTH_047_F08,US_SYNTH_047,24,Female,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_047_F09,US_SYNTH_047,24,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,8.6,Affirmed,RID3954,N28.1,"Simple cortical cyst, interpolar region, 8.6 mm"
+US_SYNTH_047_F10,US_SYNTH_047,24,Female,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,No septa
+US_SYNTH_047_F11,US_SYNTH_047,24,Female,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,No septa or solid component
+US_SYNTH_047_F12,US_SYNTH_047,24,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydro
+US_SYNTH_047_F13,US_SYNTH_047,24,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No hydro/calculus
+US_SYNTH_047_F14,US_SYNTH_047,24,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus or hydro
+US_SYNTH_047_F15,US_SYNTH_047,24,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus or hydro
+US_SYNTH_047_F16,US_SYNTH_047,24,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_048_F01,US_SYNTH_048,60,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_048_F02,US_SYNTH_048,60,Male,Telegraphic,Liver,Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or biliary dilatation
+US_SYNTH_048_F03,US_SYNTH_048,60,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus
+US_SYNTH_048_F04,US_SYNTH_048,60,Male,Telegraphic,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_048_F05,US_SYNTH_048,60,Male,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"No calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_048_F06,US_SYNTH_048,60,Male,Telegraphic,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_048_F07,US_SYNTH_048,60,Male,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_048_F08,US_SYNTH_048,60,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus
+US_SYNTH_048_F09,US_SYNTH_048,60,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus or hydro
+US_SYNTH_048_F10,US_SYNTH_048,60,Male,Telegraphic,Kidneys,Cortical Cyst,N/A,19.6,Affirmed,RID3954,N28.1,"Simple cortical cyst, lower pole, 19.6 mm"
+US_SYNTH_048_F11,US_SYNTH_048,60,Male,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,No septations
+US_SYNTH_048_F12,US_SYNTH_048,60,Male,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,No septations or solid component
+US_SYNTH_048_F13,US_SYNTH_048,60,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_048_F14,US_SYNTH_048,60,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid
+US_SYNTH_049_F01,US_SYNTH_049,40,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal hepatic lesion
+US_SYNTH_049_F02,US_SYNTH_049,40,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,without a focal hepatic lesion or intrahepatic biliary dilatation
+US_SYNTH_049_F03,US_SYNTH_049,40,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,with no calculus
+US_SYNTH_049_F04,US_SYNTH_049,40,Female,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,"with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_049_F05,US_SYNTH_049,40,Female,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,"with no calculus, wall thickening, or pericholecystic fluid"
+US_SYNTH_049_F06,US_SYNTH_049,40,Female,Unstructured,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,"The pancreas is partially obscured by overlying bowel gas, limiting assessment of its distal portion"
+US_SYNTH_049_F07,US_SYNTH_049,40,Female,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,the visualized tissue shows no focal abnormality
+US_SYNTH_049_F08,US_SYNTH_049,40,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,demonstrate no hydronephrosis
+US_SYNTH_049_F09,US_SYNTH_049,40,Female,Unstructured,Kidneys,Calculus,N/A,,Possible,N/A,N/A,a tiny left renal calculus cannot be entirely excluded
+US_SYNTH_049_F10,US_SYNTH_049,40,Female,Unstructured,Kidneys,Definite Shadowing Calculus,N/A,,Negated,N/A,N/A,the absence of a definite shadowing focus
+US_SYNTH_049_F11,US_SYNTH_049,40,Female,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_049_F12,US_SYNTH_049,40,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free pelvic fluid is identified
+US_SYNTH_050_F01,US_SYNTH_050,32,Male,Unstructured,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,The liver is normal in size and contour with homogeneous echotexture
+US_SYNTH_050_F02,US_SYNTH_050,32,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion
+US_SYNTH_050_F03,US_SYNTH_050,32,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no focal lesion or intrahepatic biliary dilatation
+US_SYNTH_050_F04,US_SYNTH_050,32,Male,Unstructured,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,"the gallbladder is normally distended with a thin, smooth wall"
+US_SYNTH_050_F05,US_SYNTH_050,32,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no intraluminal calculi
+US_SYNTH_050_F06,US_SYNTH_050,32,Male,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,no intraluminal calculi or pericholecystic fluid
+US_SYNTH_050_F07,US_SYNTH_050,32,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The visualized pancreas has a normal sonographic appearance
+US_SYNTH_050_F08,US_SYNTH_050,32,Male,Unstructured,Pancreas,Focal Abnormality,N/A,,Negated,N/A,N/A,without focal abnormality
+US_SYNTH_050_F09,US_SYNTH_050,32,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,the spleen is normal in size
+US_SYNTH_050_F10,US_SYNTH_050,32,Male,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,without a focal lesion
+US_SYNTH_050_F11,US_SYNTH_050,32,Male,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Both kidneys demonstrate preserved size and cortical echogenicity
+US_SYNTH_050_F12,US_SYNTH_050,32,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,with no renal calculus
+US_SYNTH_050_F13,US_SYNTH_050,32,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,with no renal calculus or hydronephrosis
+US_SYNTH_050_F14,US_SYNTH_050,32,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free pelvic fluid is seen
+US_SYNTH_050_F15,US_SYNTH_050,32,Male,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,an unremarkable abdominal ultrasound study
+US_SYNTH_051_F01,US_SYNTH_051,45,Male,Structured,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,"The liver is enlarged, measuring 17.2 cm in craniocaudal span"
+US_SYNTH_051_F02,US_SYNTH_051,45,Male,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,features of Grade II fatty infiltration
+US_SYNTH_051_F03,US_SYNTH_051,45,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal space occupying lesion
+US_SYNTH_051_F04,US_SYNTH_051,45,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic biliary radicles are not dilated
+US_SYNTH_051_F05,US_SYNTH_051,45,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus or sludge within the lumen
+US_SYNTH_051_F06,US_SYNTH_051,45,Male,Structured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,No calculus or sludge within the lumen
+US_SYNTH_051_F07,US_SYNTH_051,45,Male,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_051_F08,US_SYNTH_051,45,Male,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,Measures 4 mm at the porta. Not dilated.
+US_SYNTH_051_F09,US_SYNTH_051,45,Male,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,Main pancreatic duct is not dilated
+US_SYNTH_051_F10,US_SYNTH_051,45,Male,Structured,Pancreas,Calcification,N/A,,Negated,N/A,N/A,No calcification or peripancreatic collection
+US_SYNTH_051_F11,US_SYNTH_051,45,Male,Structured,Pancreas,Surrounding Collection,N/A,,Negated,N/A,N/A,No calcification or peripancreatic collection
+US_SYNTH_051_F12,US_SYNTH_051,45,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,Normal in size and echotexture. No focal lesion.
+US_SYNTH_051_F13,US_SYNTH_051,45,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus. No hydronephrosis.
+US_SYNTH_051_F14,US_SYNTH_051,45,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus. No hydronephrosis.
+US_SYNTH_051_F15,US_SYNTH_051,45,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or back-pressure changes
+US_SYNTH_051_F16,US_SYNTH_051,45,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,pelvicalyceal system not dilated
+US_SYNTH_051_F17,US_SYNTH_051,45,Male,Structured,Pelvis,Bladder Wall Thickening,N/A,,Negated,N/A,N/A,Wall is smooth and not thickened
+US_SYNTH_051_F18,US_SYNTH_051,45,Male,Structured,Pelvis,Prostatomegaly,N/A,,Affirmed,N/A,N40.0,"Mildly enlarged, measuring 4.6 x 3.9 x 3.6 cm with an estimated volume of 33 cc"
+US_SYNTH_051_F19,US_SYNTH_051,45,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the abdomen or pelvis
+US_SYNTH_052_F01,US_SYNTH_052,31,Female,Telegraphic,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,Liver: NAD
+US_SYNTH_052_F02,US_SYNTH_052,31,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_052_F03,US_SYNTH_052,31,Female,Telegraphic,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,"GB: well distended, NAD"
+US_SYNTH_052_F04,US_SYNTH_052,31,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc: NAD
+US_SYNTH_052_F05,US_SYNTH_052,31,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Spl: 9.2 cm, NAD"
+US_SYNTH_052_F06,US_SYNTH_052,31,Female,Telegraphic,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,RK / LK: NAD
+US_SYNTH_052_F07,US_SYNTH_052,31,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no HDN / calculi
+US_SYNTH_052_F08,US_SYNTH_052,31,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no HDN / calculi
+US_SYNTH_052_F09,US_SYNTH_052,31,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,UB: NAD
+US_SYNTH_052_F10,US_SYNTH_052,31,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Ut: AV, 7.1 x 3.8 x 4.2 cm, ET 6 mm. NAD"
+US_SYNTH_052_F11,US_SYNTH_052,31,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,B/L Ov: normal.
+US_SYNTH_052_F12,US_SYNTH_052,31,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No FF.
+US_SYNTH_052_F13,US_SYNTH_052,31,Female,Telegraphic,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,Imp: Normal study.
+US_SYNTH_053_F01,US_SYNTH_053,58,Male,Unstructured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,suggesting mild fatty change of the liver
+US_SYNTH_053_F02,US_SYNTH_053,58,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,There is no focal lesion
+US_SYNTH_053_F03,US_SYNTH_053,58,Male,Unstructured,Gallbladder,Calculus,N/A,14.0,Affirmed,RID5770,K80.20,"contains multiple mobile echogenic calculi casting posterior acoustic shadows, the largest measuring approximately 1.4 cm"
+US_SYNTH_053_F04,US_SYNTH_053,58,Male,Unstructured,Gallbladder,Sludge,N/A,,Affirmed,N/A,N/A,a thin layer of dependent sludge
+US_SYNTH_053_F05,US_SYNTH_053,58,Male,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,Its wall is not thickened
+US_SYNTH_053_F06,US_SYNTH_053,58,Male,Unstructured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,there is no fluid around it
+US_SYNTH_053_F07,US_SYNTH_053,58,Male,Unstructured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,The common bile duct measures 4.2 mm and is not dilated
+US_SYNTH_053_F08,US_SYNTH_053,58,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculus is seen within its visualised portion
+US_SYNTH_053_F09,US_SYNTH_053,58,Male,Unstructured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,without any ductal dilatation
+US_SYNTH_053_F10,US_SYNTH_053,58,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,The spleen measures 9.8 cm and appears normal
+US_SYNTH_053_F11,US_SYNTH_053,58,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,neither shows a calculus or hydronephrosis
+US_SYNTH_053_F12,US_SYNTH_053,58,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,neither shows a calculus or hydronephrosis
+US_SYNTH_053_F13,US_SYNTH_053,58,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,There is no ascites
+US_SYNTH_054_F01,US_SYNTH_054,27,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion.
+US_SYNTH_054_F02,US_SYNTH_054,27,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR not dilated
+US_SYNTH_054_F03,US_SYNTH_054,27,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No stones.
+US_SYNTH_054_F04,US_SYNTH_054,27,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,PANCREAS - Normal.
+US_SYNTH_054_F05,US_SYNTH_054,27,Female,Structured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,SPLEEN - Normal (8.7 cm).
+US_SYNTH_054_F06,US_SYNTH_054,27,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"No calculi, no hydronephrosis on either side"
+US_SYNTH_054_F07,US_SYNTH_054,27,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,"No calculi, no hydronephrosis on either side"
+US_SYNTH_054_F08,US_SYNTH_054,27,Female,Structured,Pelvis,Uterine Fibroid,N/A,,Negated,N/A,N/A,No fibroid seen
+US_SYNTH_054_F09,US_SYNTH_054,27,Female,Structured,Pelvis,Ovarian Cyst,N/A,32.0,Affirmed,N/A,N83.20,Right ovary shows a thin-walled anechoic cyst measuring 3.2 x 2.8 cm
+US_SYNTH_054_F10,US_SYNTH_054,27,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,POD - no free fluid.
+US_SYNTH_055_F01,US_SYNTH_055,39,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion.
+US_SYNTH_055_F02,US_SYNTH_055,39,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculus/sludge
+US_SYNTH_055_F03,US_SYNTH_055,39,Male,Telegraphic,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,no calculus/sludge
+US_SYNTH_055_F04,US_SYNTH_055,39,Male,Telegraphic,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,MPD not dilated
+US_SYNTH_055_F05,US_SYNTH_055,39,Male,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Spl - 10.1 cm, N."
+US_SYNTH_055_F06,US_SYNTH_055,39,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus. PCS not dilated.
+US_SYNTH_055_F07,US_SYNTH_055,39,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,PCS not dilated
+US_SYNTH_055_F08,US_SYNTH_055,39,Male,Telegraphic,Kidneys,Calculus,N/A,6.0,Affirmed,N/A,N20.0,6 mm calculus in lower calyx
+US_SYNTH_055_F09,US_SYNTH_055,39,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no HDN
+US_SYNTH_055_F10,US_SYNTH_055,39,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites.
+US_SYNTH_056_F01,US_SYNTH_056,49,Female,Unstructured,Liver,Hemangioma,N/A,14.0,Affirmed,N/A,D18.03,"a well-defined, homogeneously hyperechoic lesion measuring about 14 mm in segment VI of the right lobe, which shows no internal vascularity on colour Doppler and is consistent with a haemangioma"
+US_SYNTH_056_F02,US_SYNTH_056,49,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no other focal lesion is identified
+US_SYNTH_056_F03,US_SYNTH_056,49,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,the intrahepatic biliary radicles are not dilated
+US_SYNTH_056_F04,US_SYNTH_056,49,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculi
+US_SYNTH_056_F05,US_SYNTH_056,49,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear unremarkable
+US_SYNTH_056_F06,US_SYNTH_056,49,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear unremarkable
+US_SYNTH_056_F07,US_SYNTH_056,49,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"there is no evidence of calculus, hydronephrosis or cortical cyst"
+US_SYNTH_056_F08,US_SYNTH_056,49,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,"there is no evidence of calculus, hydronephrosis or cortical cyst"
+US_SYNTH_056_F09,US_SYNTH_056,49,Female,Unstructured,Kidneys,Cortical Cyst,N/A,,Negated,RID3954,N/A,"there is no evidence of calculus, hydronephrosis or cortical cyst"
+US_SYNTH_056_F10,US_SYNTH_056,49,Female,Unstructured,Pelvis,Uterine Fibroid,N/A,21.0,Affirmed,N/A,D25.9,a well-circumscribed hypoechoic intramural fibroid in the posterior wall measuring 2.1 x 1.9 cm
+US_SYNTH_056_F11,US_SYNTH_056,49,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,there is no free fluid in the pouch of Douglas
+US_SYNTH_057_F01,US_SYNTH_057,61,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No mass or cyst seen
+US_SYNTH_057_F02,US_SYNTH_057,61,Male,Structured,Liver,Hepatic Cyst,N/A,,Negated,N/A,N/A,No mass or cyst seen
+US_SYNTH_057_F03,US_SYNTH_057,61,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic biliary radicals are not dilated
+US_SYNTH_057_F04,US_SYNTH_057,61,Male,Structured,Gallbladder,Cholecystectomy Status,N/A,,Affirmed,N/A,Z90.49,Gall bladder is not visualised - surgically removed (post cholecystectomy status)
+US_SYNTH_057_F05,US_SYNTH_057,61,Male,Structured,Gallbladder,CBD Dilatation,N/A,,Affirmed,N/A,K83.8,"CBD is mildly prominent, measuring 7 mm, tapering smoothly to the ampulla with no obstructing calculus seen - post-cholecystectomy dilatation"
+US_SYNTH_057_F06,US_SYNTH_057,61,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no obstructing calculus seen
+US_SYNTH_057_F07,US_SYNTH_057,61,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Normal sonographic appearance.
+US_SYNTH_057_F08,US_SYNTH_057,61,Male,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,MPD is not dilated
+US_SYNTH_057_F09,US_SYNTH_057,61,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,Homogeneous. No focal lesion.
+US_SYNTH_057_F10,US_SYNTH_057,61,Male,Structured,Kidneys,Cortical Cyst,N/A,11.0,Affirmed,RID3954,N28.1,A simple anechoic cortical cyst measuring 11 mm is seen at the upper pole
+US_SYNTH_057_F11,US_SYNTH_057,61,Male,Structured,Kidneys,Septation,N/A,,Negated,N/A,N/A,without septation or solid component
+US_SYNTH_057_F12,US_SYNTH_057,61,Male,Structured,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,without septation or solid component
+US_SYNTH_057_F13,US_SYNTH_057,61,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus / hydronephrosis.
+US_SYNTH_057_F14,US_SYNTH_057,61,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus / hydronephrosis.
+US_SYNTH_057_F15,US_SYNTH_057,61,Male,Structured,Kidneys,Cortical Cyst,N/A,16.0,Affirmed,RID3954,N28.1,Lower pole shows a thin-walled simple cortical cyst of 1.6 cm diameter
+US_SYNTH_057_F16,US_SYNTH_057,61,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,Calculus - nil.
+US_SYNTH_057_F17,US_SYNTH_057,61,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,Pelvicalyceal system is not dilated
+US_SYNTH_057_F18,US_SYNTH_057,61,Male,Structured,Pelvis,Prostatomegaly,N/A,,Affirmed,N/A,N40.0,"Enlarged, measuring 4.9 x 4.3 x 3.9 cm (volume approx. 42 cc)"
+US_SYNTH_057_F19,US_SYNTH_057,61,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites.
+US_SYNTH_058_F01,US_SYNTH_058,24,Female,Telegraphic,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, GB, Spl - NAD."
+US_SYNTH_058_F02,US_SYNTH_058,24,Female,Telegraphic,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, GB, Spl - NAD."
+US_SYNTH_058_F03,US_SYNTH_058,24,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, GB, Spl - NAD."
+US_SYNTH_058_F04,US_SYNTH_058,24,Female,Telegraphic,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,"Panc - not seen, obscured by bowel gas."
+US_SYNTH_058_F05,US_SYNTH_058,24,Female,Telegraphic,Kidneys,Calculus,N/A,,Possible,N/A,N/A,? tiny calculus mid pole
+US_SYNTH_058_F06,US_SYNTH_058,24,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no HDN
+US_SYNTH_058_F07,US_SYNTH_058,24,Female,Telegraphic,Kidneys,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,LK - partly obscured by gas
+US_SYNTH_058_F08,US_SYNTH_058,24,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"UB, Ut, B/L Ov - WNL."
+US_SYNTH_058_F09,US_SYNTH_058,24,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No FF.
+US_SYNTH_059_F01,US_SYNTH_059,35,Male,Unstructured,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,The liver is enlarged with a span of approximately 18 cm
+US_SYNTH_059_F02,US_SYNTH_059,35,Male,Unstructured,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,Appearances are those of severe (grade III) hepatic steatosis
+US_SYNTH_059_F03,US_SYNTH_059,35,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No discrete focal lesion is demonstrable
+US_SYNTH_059_F04,US_SYNTH_059,35,Male,Unstructured,Spleen,Splenomegaly,N/A,,Affirmed,N/A,R16.1,"The spleen is mildly enlarged, measuring 13.5 cm in its long axis"
+US_SYNTH_059_F05,US_SYNTH_059,35,Male,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,uniform echotexture and no focal lesion
+US_SYNTH_059_F06,US_SYNTH_059,35,Male,Unstructured,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,The galbladder is normal
+US_SYNTH_059_F07,US_SYNTH_059,35,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,with no stones
+US_SYNTH_059_F08,US_SYNTH_059,35,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The pancreas appears normal
+US_SYNTH_059_F09,US_SYNTH_059,35,Male,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Both kidneys measure within normal limits and look normal
+US_SYNTH_059_F10,US_SYNTH_059,35,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculi or hydronephrosis
+US_SYNTH_059_F11,US_SYNTH_059,35,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculi or hydronephrosis
+US_SYNTH_059_F12,US_SYNTH_059,35,Male,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,The bladder and prostate are unremarkable
+US_SYNTH_059_F13,US_SYNTH_059,35,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is seen in the abdomen
+US_SYNTH_060_F01,US_SYNTH_060,52,Female,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,Mildly increased echogenicity - Grade I fatty liver
+US_SYNTH_060_F02,US_SYNTH_060,52,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal SOL
+US_SYNTH_060_F03,US_SYNTH_060,52,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic ducts not dilated
+US_SYNTH_060_F04,US_SYNTH_060,52,Female,Structured,Gallbladder,Polyp,N/A,4.0,Affirmed,N/A,K82.8,A 4 mm echogenic non-shadowing polyp arising from the fundal wall
+US_SYNTH_060_F05,US_SYNTH_060,52,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculi
+US_SYNTH_060_F06,US_SYNTH_060,52,Female,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,"cbd 3.8 mm, not dilated"
+US_SYNTH_060_F07,US_SYNTH_060,52,Female,Structured,Pancreas,Calcification,N/A,,Negated,N/A,N/A,"No calcification, no ductal dilatation"
+US_SYNTH_060_F08,US_SYNTH_060,52,Female,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,"No calcification, no ductal dilatation"
+US_SYNTH_060_F09,US_SYNTH_060,52,Female,Structured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"9.4 cm, appears normal"
+US_SYNTH_060_F10,US_SYNTH_060,52,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"No calculus, no hydronephrosis bilaterally"
+US_SYNTH_060_F11,US_SYNTH_060,52,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,"No calculus, no hydronephrosis bilaterally"
+US_SYNTH_060_F12,US_SYNTH_060,52,Female,Structured,Pelvis,Uterine Fibroid,N/A,34.0,Affirmed,N/A,D25.9,A well defined hypoechoic subserosal fibroid of 3.4 x 3.0 cm
+US_SYNTH_060_F13,US_SYNTH_060,52,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,Pouch of Douglas: No free fluid.
+US_SYNTH_061_F01,US_SYNTH_061,44,Male,Telegraphic,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,mildly bright echotexture s/o Gr I fatty liver
+US_SYNTH_061_F02,US_SYNTH_061,44,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_061_F03,US_SYNTH_061,44,Male,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR not dilated
+US_SYNTH_061_F04,US_SYNTH_061,44,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculus / sludge
+US_SYNTH_061_F05,US_SYNTH_061,44,Male,Telegraphic,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,no calculus / sludge
+US_SYNTH_061_F06,US_SYNTH_061,44,Male,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc - NAD
+US_SYNTH_061_F07,US_SYNTH_061,44,Male,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Spl - 9.6 cm, normal"
+US_SYNTH_061_F08,US_SYNTH_061,44,Male,Telegraphic,Kidneys,Calculus,N/A,4.0,Affirmed,N/A,N20.0,4 mm calculus upper pole calyx
+US_SYNTH_061_F09,US_SYNTH_061,44,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No HDN
+US_SYNTH_061_F10,US_SYNTH_061,44,Male,Telegraphic,Kidneys,Calculus,N/A,9.0,Affirmed,N/A,N20.0,9 mm calculus at PUJ / renal pelvis
+US_SYNTH_061_F11,US_SYNTH_061,44,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Affirmed,N/A,N13.30,with mild HDN
+US_SYNTH_061_F12,US_SYNTH_061,44,Male,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Prostate - ~18 cc, NAD"
+US_SYNTH_061_F13,US_SYNTH_061,44,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_062_F01,US_SYNTH_062,29,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion is seen
+US_SYNTH_062_F02,US_SYNTH_062,29,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,the biliary radicles are not dilated
+US_SYNTH_062_F03,US_SYNTH_062,29,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculi
+US_SYNTH_062_F04,US_SYNTH_062,29,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Pancreas, spleen and both kidneys appear normal"
+US_SYNTH_062_F05,US_SYNTH_062,29,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Pancreas, spleen and both kidneys appear normal"
+US_SYNTH_062_F06,US_SYNTH_062,29,Female,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Pancreas, spleen and both kidneys appear normal"
+US_SYNTH_062_F07,US_SYNTH_062,29,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus or hydronephrosis
+US_SYNTH_062_F08,US_SYNTH_062,29,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus or hydronephrosis
+US_SYNTH_062_F09,US_SYNTH_062,29,Female,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"The urinary bladder, uterus (7.4 x 3.6 x 4.1 cm, endometrium 6 mm) and both ovaries are unremarkable"
+US_SYNTH_062_F10,US_SYNTH_062,29,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,there is no free fluid in the pelvis
+US_SYNTH_062_F11,US_SYNTH_062,29,Female,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,No sonographic abnormality detected.
+US_SYNTH_063_F01,US_SYNTH_063,50,Male,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,"fatty infiltration, grade II"
+US_SYNTH_063_F02,US_SYNTH_063,50,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion.
+US_SYNTH_063_F03,US_SYNTH_063,50,Male,Structured,Gallbladder,Wall Thickening,N/A,,Possible,N/A,N/A,"Wall appears thickened, measuring 4.5 mm, likely physiological due to contraction"
+US_SYNTH_063_F04,US_SYNTH_063,50,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus within.
+US_SYNTH_063_F05,US_SYNTH_063,50,Male,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,"CBD: 4 mm, not dilated"
+US_SYNTH_063_F06,US_SYNTH_063,50,Male,Structured,Pancreas,Surrounding Collection,N/A,,Negated,N/A,N/A,No peripancreatic collection.
+US_SYNTH_063_F07,US_SYNTH_063,50,Male,Structured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Spleen: 10.2 cm. Unremarkable.
+US_SYNTH_063_F08,US_SYNTH_063,50,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on either side.
+US_SYNTH_063_F09,US_SYNTH_063,50,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on either side.
+US_SYNTH_063_F10,US_SYNTH_063,50,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites.
+US_SYNTH_064_F01,US_SYNTH_064,56,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion.
+US_SYNTH_064_F02,US_SYNTH_064,56,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR nt dilated
+US_SYNTH_064_F03,US_SYNTH_064,56,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculi
+US_SYNTH_064_F04,US_SYNTH_064,56,Female,Telegraphic,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,"GB: well distended, no calculi, NAD"
+US_SYNTH_064_F05,US_SYNTH_064,56,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas : NAD
+US_SYNTH_064_F06,US_SYNTH_064,56,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Spleen 8.9 cm, NAD"
+US_SYNTH_064_F07,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,8.0,Affirmed,RID3954,N28.1,8 mm simple cortical cyst at mid pole
+US_SYNTH_064_F08,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus/HDN
+US_SYNTH_064_F09,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus/HDN
+US_SYNTH_064_F10,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,25.0,Affirmed,RID3954,N28.1,Anechoic cortical cyst at upper pole 2.5 x 2.2 cm
+US_SYNTH_064_F11,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,no septations or solid component
+US_SYNTH_064_F12,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,no septations or solid component
+US_SYNTH_064_F13,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus/HDN
+US_SYNTH_064_F14,US_SYNTH_064,56,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus/HDN
+US_SYNTH_064_F15,US_SYNTH_064,56,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"UB: partially filled, NAD."
+US_SYNTH_064_F16,US_SYNTH_064,56,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_065_F01,US_SYNTH_065,26,Male,Unstructured,Liver,Steatosis,N/A,,Possible,RID39103,N/A,"borderline increase in parenchymal echogenicity, ? early fatty change"
+US_SYNTH_065_F02,US_SYNTH_065,26,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,there is no focal lesion within it
+US_SYNTH_065_F03,US_SYNTH_065,26,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,without stones
+US_SYNTH_065_F04,US_SYNTH_065,26,Male,Unstructured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,the CBD is not dilated
+US_SYNTH_065_F05,US_SYNTH_065,26,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,The pancreas and spleen are normal
+US_SYNTH_065_F06,US_SYNTH_065,26,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,The pancreas and spleen are normal
+US_SYNTH_065_F07,US_SYNTH_065,26,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculi or pelvicalyceal dilatation
+US_SYNTH_065_F08,US_SYNTH_065,26,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculi or pelvicalyceal dilatation
+US_SYNTH_065_F09,US_SYNTH_065,26,Male,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,Bladder and prostate are normal
+US_SYNTH_065_F10,US_SYNTH_065,26,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is seen.
+US_SYNTH_066_F01,US_SYNTH_066,41,Female,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,consistent with grade I fatty infiltration
+US_SYNTH_066_F02,US_SYNTH_066,41,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal space-occupying lesion.
+US_SYNTH_066_F03,US_SYNTH_066,41,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic biliary radicles are not dilated.
+US_SYNTH_066_F04,US_SYNTH_066,41,Female,Structured,Gallbladder,Calculus,N/A,18.0,Affirmed,RID5770,K80.20,"Multiple mobile echogenic calculi with posterior acoustic shadowing are noted in the lumen, the largest measuring approximately 18 mm"
+US_SYNTH_066_F05,US_SYNTH_066,41,Female,Structured,Gallbladder,Wall Thickening,N/A,,Affirmed,N/A,R93.2,"Gall bladder wall shows diffuse thickening, measuring 4 mm"
+US_SYNTH_066_F06,US_SYNTH_066,41,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid collection.
+US_SYNTH_066_F07,US_SYNTH_066,41,Female,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy's sign is negative.
+US_SYNTH_066_F08,US_SYNTH_066,41,Female,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,Measures 4.2 mm at the porta; not dilated.
+US_SYNTH_066_F09,US_SYNTH_066,41,Female,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,Main pancreatic duct is not dilated.
+US_SYNTH_066_F10,US_SYNTH_066,41,Female,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion or calcification.
+US_SYNTH_066_F11,US_SYNTH_066,41,Female,Structured,Pancreas,Calcification,N/A,,Negated,N/A,N/A,No focal lesion or calcification.
+US_SYNTH_066_F12,US_SYNTH_066,41,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,Homogeneous echotexture. No focal lesion.
+US_SYNTH_066_F13,US_SYNTH_066,41,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis.
+US_SYNTH_066_F14,US_SYNTH_066,41,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis.
+US_SYNTH_066_F15,US_SYNTH_066,41,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,Pelvicalyceal system is not dilated.
+US_SYNTH_066_F16,US_SYNTH_066,41,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus.
+US_SYNTH_066_F17,US_SYNTH_066,41,Female,Structured,Pelvis,Uterine Fibroid,N/A,,Negated,N/A,N/A,No fibroid seen.
+US_SYNTH_066_F18,US_SYNTH_066,41,Female,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,Both ovaries appear normal.
+US_SYNTH_066_F19,US_SYNTH_066,41,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the abdomen or pelvis.
+US_SYNTH_067_F01,US_SYNTH_067,33,Male,Telegraphic,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"mildly echogenic, Gr-I fatty liver"
+US_SYNTH_067_F02,US_SYNTH_067,33,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_068_F01,US_SYNTH_068,47,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,shows no focal lesion
+US_SYNTH_068_F02,US_SYNTH_068,47,Female,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,its wall is not thickened
+US_SYNTH_068_F03,US_SYNTH_068,47,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,there is no calculus or sludge
+US_SYNTH_068_F04,US_SYNTH_068,47,Female,Unstructured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,there is no calculus or sludge
+US_SYNTH_068_F05,US_SYNTH_068,47,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Pancreas, as far as seen, is unremarkable."
+US_SYNTH_068_F06,US_SYNTH_068,47,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Spleen measures 9.1 cm and is normal.
+US_SYNTH_068_F07,US_SYNTH_068,47,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,have no calculi
+US_SYNTH_068_F08,US_SYNTH_068,47,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,with no dilatation of the collecting systems
+US_SYNTH_068_F09,US_SYNTH_068,47,Female,Unstructured,Pelvis,Uterine Fibroid,N/A,18.0,Affirmed,N/A,D25.9,a well-defined hypoechoic intramural fibroid of 1.8 x 1.5 cm
+US_SYNTH_068_F10,US_SYNTH_068,47,Female,Unstructured,Pelvis,Ovarian Cyst,N/A,41.0,Affirmed,N/A,N83.20,Arising from the left ovary there is a complex cystic lesion measuring 4.1 x 3.3 cm
+US_SYNTH_068_F11,US_SYNTH_068,47,Female,Unstructured,Pelvis,Free Fluid,N/A,,Affirmed,N/A,N/A,"A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological"
+US_SYNTH_069_F01,US_SYNTH_069,62,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,Mild diffuse increase in echogenicity - Grade 1 hepatic steatosis
+US_SYNTH_069_F02,US_SYNTH_069,62,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL seen.
+US_SYNTH_069_F03,US_SYNTH_069,62,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,Lumen anechoic. No calculus.
+US_SYNTH_069_F04,US_SYNTH_069,62,Male,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,CBD -  Not dilated (3.6 mm)
+US_SYNTH_069_F05,US_SYNTH_069,62,Male,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,duct not dilated
+US_SYNTH_069_F06,US_SYNTH_069,62,Male,Structured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"10.0 cm, unremarkable"
+US_SYNTH_069_F07,US_SYNTH_069,62,Male,Structured,Kidneys,Calculus,N/A,5.0,Affirmed,N/A,N20.0,"A 5 mm echogenic focus with distal shadowing is seen in the lower calyx, s/o renal calculus"
+US_SYNTH_069_F08,US_SYNTH_069,62,Male,Structured,Kidneys,Hydronephrosis,N/A,,Affirmed,N/A,N13.30,Mild dilatation of the pelvicalyceal system (mild hydronephrosis)
+US_SYNTH_069_F09,US_SYNTH_069,62,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,Normal parenchyma. No calculus.
+US_SYNTH_069_F10,US_SYNTH_069,62,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis.
+US_SYNTH_069_F11,US_SYNTH_069,62,Male,Structured,Pelvis,Bladder Wall Thickening,N/A,,Affirmed,N/A,N32.89,Wall is mildly thickened (5.5 mm) and trabeculated
+US_SYNTH_069_F12,US_SYNTH_069,62,Male,Structured,Pelvis,Pelvic Mass,N/A,,Negated,N/A,N/A,No intravesical mass.
+US_SYNTH_069_F13,US_SYNTH_069,62,Male,Structured,Pelvis,Prostatomegaly,N/A,,Affirmed,N/A,N40.0,"Enlarged, measuring 5.1 x 4.6 x 4.4 cm, volume approx. 55 cc"
+US_SYNTH_069_F14,US_SYNTH_069,62,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites or free fluid.
+US_SYNTH_070_F01,US_SYNTH_070,37,Female,Telegraphic,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,Liver: WNL.
+US_SYNTH_070_F02,US_SYNTH_070,37,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL.
+US_SYNTH_070_F03,US_SYNTH_070,37,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR not dil.
+US_SYNTH_070_F04,US_SYNTH_070,37,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculi/sludge
+US_SYNTH_070_F05,US_SYNTH_070,37,Female,Telegraphic,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,no calculi/sludge
+US_SYNTH_070_F06,US_SYNTH_070,37,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc: WNL.
+US_SYNTH_070_F07,US_SYNTH_070,37,Female,Telegraphic,Spleen,Accessory Spleen,N/A,9.0,Affirmed,N/A,Q89.09,9 mm splenule at hilum
+US_SYNTH_070_F08,US_SYNTH_070,37,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus/HDN
+US_SYNTH_070_F09,US_SYNTH_070,37,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus/HDN
+US_SYNTH_070_F10,US_SYNTH_070,37,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"UB, Ut (AV, 7.6 x 3.9 x 4.2 cm, ET 8 mm), B/L Ov: NAD."
+US_SYNTH_071_F01,US_SYNTH_071,54,Male,Unstructured,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,"The liver is enlarged, measuring approximately 17.2 cm"
+US_SYNTH_071_F02,US_SYNTH_071,54,Male,Unstructured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,appearances are in keeping with grade II fatty infiltration
+US_SYNTH_071_F03,US_SYNTH_071,54,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal space-occupying lesion is made out within the liver
+US_SYNTH_071_F04,US_SYNTH_071,54,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,The intrahepatic biliary radicles are not dilated
+US_SYNTH_071_F05,US_SYNTH_071,54,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,there is no calculus or sludge within its lumen
+US_SYNTH_071_F06,US_SYNTH_071,54,Male,Unstructured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,there is no calculus or sludge within its lumen
+US_SYNTH_071_F07,US_SYNTH_071,54,Male,Unstructured,Pancreas,Surrounding Collection,N/A,,Negated,N/A,N/A,with no peripancreatic collection
+US_SYNTH_071_F08,US_SYNTH_071,54,Male,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,homogeneous echotexture without focal lesion
+US_SYNTH_071_F09,US_SYNTH_071,54,Male,Unstructured,Kidneys,Cortical Cyst,N/A,7.0,Affirmed,RID3954,N28.1,A small anechoic simple cortical cyst measuring about 7 mm is noted in the mid pole of the left kidney
+US_SYNTH_071_F10,US_SYNTH_071,54,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,There is no evidence of calculus or hydronephrosis on either side
+US_SYNTH_071_F11,US_SYNTH_071,54,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,There is no evidence of calculus or hydronephrosis on either side
+US_SYNTH_071_F12,US_SYNTH_071,54,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is seen in the peritoneal cavity
+US_SYNTH_072_F01,US_SYNTH_072,23,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion is seen
+US_SYNTH_072_F02,US_SYNTH_072,23,Female,Structured,Liver,Steatosis,N/A,,Negated,RID39103,N/A,No fatty infiltration
+US_SYNTH_072_F03,US_SYNTH_072,23,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,INTRAHEPATIC BILIARY RADICLES: Not dilated
+US_SYNTH_072_F04,US_SYNTH_072,23,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,"No calculus, sludge or polyp"
+US_SYNTH_072_F05,US_SYNTH_072,23,Female,Structured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,"No calculus, sludge or polyp"
+US_SYNTH_072_F06,US_SYNTH_072,23,Female,Structured,Gallbladder,Polyp,N/A,,Negated,N/A,N/A,"No calculus, sludge or polyp"
+US_SYNTH_072_F07,US_SYNTH_072,23,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_072_F08,US_SYNTH_072,23,Female,Structured,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sonographic Murphy's sign is negative
+US_SYNTH_072_F09,US_SYNTH_072,23,Female,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,COMMON BILE DUCT: Measures 3 mm; not dilated
+US_SYNTH_072_F10,US_SYNTH_072,23,Female,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion or calcification
+US_SYNTH_072_F11,US_SYNTH_072,23,Female,Structured,Pancreas,Calcification,N/A,,Negated,N/A,N/A,No focal lesion or calcification
+US_SYNTH_072_F12,US_SYNTH_072,23,Female,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,Main pancreatic duct is not dilated
+US_SYNTH_072_F13,US_SYNTH_072,23,Female,Structured,Pancreas,Surrounding Collection,N/A,,Negated,N/A,N/A,No peripancreatic collection
+US_SYNTH_072_F14,US_SYNTH_072,23,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,Normal in size (9.2 cm) and echotexture. No focal lesion.
+US_SYNTH_072_F15,US_SYNTH_072,23,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus. No hydronephrosis
+US_SYNTH_072_F16,US_SYNTH_072,23,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus. No hydronephrosis
+US_SYNTH_072_F17,US_SYNTH_072,23,Female,Structured,Kidneys,Cortical Cyst,N/A,,Negated,RID3954,N/A,No cortical cyst
+US_SYNTH_072_F18,US_SYNTH_072,23,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis
+US_SYNTH_072_F19,US_SYNTH_072,23,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis
+US_SYNTH_072_F20,US_SYNTH_072,23,Female,Structured,Kidneys,Focal Lesion,N/A,,Negated,N/A,N/A,No focal renal lesion
+US_SYNTH_072_F21,US_SYNTH_072,23,Female,Structured,Pelvis,Bladder Wall Thickening,N/A,,Negated,N/A,N/A,Wall is smooth and not thickened
+US_SYNTH_072_F22,US_SYNTH_072,23,Female,Structured,Pelvis,Uterine Fibroid,N/A,,Negated,N/A,N/A,no fibroid
+US_SYNTH_072_F23,US_SYNTH_072,23,Female,Structured,Pelvis,Ovarian Cyst,N/A,,Negated,N/A,N/A,No ovarian cyst or adnexal mass
+US_SYNTH_072_F24,US_SYNTH_072,23,Female,Structured,Pelvis,Pelvic Mass,N/A,,Negated,N/A,N/A,No ovarian cyst or adnexal mass
+US_SYNTH_072_F25,US_SYNTH_072,23,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the abdomen or pelvis
+US_SYNTH_072_F26,US_SYNTH_072,23,Female,Structured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,Normal ultrasound study of the abdomen and pelvis
+US_SYNTH_073_F01,US_SYNTH_073,48,Male,Telegraphic,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,gr I fatty change
+US_SYNTH_073_F02,US_SYNTH_073,48,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_073_F03,US_SYNTH_073,48,Male,Telegraphic,Gallbladder,Sludge,N/A,,Affirmed,N/A,N/A,echogenic sludge in dependent part
+US_SYNTH_073_F04,US_SYNTH_073,48,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculi
+US_SYNTH_073_F05,US_SYNTH_073,48,Male,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Panc, Spl - NAD"
+US_SYNTH_073_F06,US_SYNTH_073,48,Male,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Panc, Spl - NAD"
+US_SYNTH_073_F07,US_SYNTH_073,48,Male,Telegraphic,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,B/L kidneys - NAD
+US_SYNTH_073_F08,US_SYNTH_073,48,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus/HDN
+US_SYNTH_073_F09,US_SYNTH_073,48,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus/HDN
+US_SYNTH_073_F10,US_SYNTH_073,48,Male,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,UB - N.
+US_SYNTH_074_F01,US_SYNTH_074,60,Female,Unstructured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,consistent with grade 2 hepatic steatosis
+US_SYNTH_074_F02,US_SYNTH_074,60,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion is identified
+US_SYNTH_074_F03,US_SYNTH_074,60,Female,Unstructured,Gallbladder,Cholecystectomy Status,N/A,,Affirmed,N/A,Z90.49,surgically absent (post-cholecystectomy status)
+US_SYNTH_074_F04,US_SYNTH_074,60,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen are unremarkable
+US_SYNTH_074_F05,US_SYNTH_074,60,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen are unremarkable
+US_SYNTH_074_F06,US_SYNTH_074,60,Female,Unstructured,Kidneys,Cortical Cyst,N/A,9.0,Affirmed,RID3954,N28.1,a simple cortical cyst of 9 mm is seen at the upper pole of the right kidney
+US_SYNTH_074_F07,US_SYNTH_074,60,Female,Unstructured,Kidneys,Cortical Cyst,N/A,12.0,Affirmed,RID3954,N28.1,another of 1.2 cm at the lower pole of the left kidney
+US_SYNTH_074_F08,US_SYNTH_074,60,Female,Unstructured,Kidneys,Septation,N/A,,Negated,N/A,N/A,neither showing septations or solid components
+US_SYNTH_074_F09,US_SYNTH_074,60,Female,Unstructured,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,neither showing septations or solid components
+US_SYNTH_074_F10,US_SYNTH_074,60,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No renal calculus
+US_SYNTH_074_F11,US_SYNTH_074,60,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no dilatation of the pelvicalyceal systems bilaterally
+US_SYNTH_074_F12,US_SYNTH_074,60,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites.
+US_SYNTH_075_F01,US_SYNTH_075,30,Male,Structured,Liver,Hepatic Cyst,N/A,12.0,Affirmed,N/A,K76.89,A well-defined anechoic cyst measuring 12 x 10 mm is noted in segment VI
+US_SYNTH_075_F02,US_SYNTH_075,30,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No IHBR dilatation
+US_SYNTH_075_F03,US_SYNTH_075,30,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,"Distended, normal wall. No calculus."
+US_SYNTH_075_F04,US_SYNTH_075,30,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas -  Normal.
+US_SYNTH_075_F05,US_SYNTH_075,30,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus / hydronephrosis
+US_SYNTH_075_F06,US_SYNTH_075,30,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus / hydronephrosis
+US_SYNTH_075_F07,US_SYNTH_075,30,Male,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Urinary bladder -  Well distended, normal."
+US_SYNTH_075_F08,US_SYNTH_075,30,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_076_F01,US_SYNTH_076,42,Female,Telegraphic,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,mildly incr. echogenicity - Gr-1 fatty liver
+US_SYNTH_076_F02,US_SYNTH_076,42,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion.
+US_SYNTH_076_F03,US_SYNTH_076,42,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR not dilated
+US_SYNTH_076_F04,US_SYNTH_076,42,Female,Telegraphic,Gallbladder,Calculus,N/A,8.0,Affirmed,RID5770,K80.20,Single calculus ~8 mm impacted at neck
+US_SYNTH_076_F05,US_SYNTH_076,42,Female,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_076_F06,US_SYNTH_076,42,Female,Telegraphic,Gallbladder,Sonographic Murphy Sign,N/A,,Negated,N/A,N/A,Sono Murphy -ve
+US_SYNTH_076_F07,US_SYNTH_076,42,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc - WNL.
+US_SYNTH_076_F08,US_SYNTH_076,42,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Spl - 10.1 cm, WNL."
+US_SYNTH_076_F09,US_SYNTH_076,42,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"B/L normal CMD, no calculus"
+US_SYNTH_076_F10,US_SYNTH_076,42,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no HDN
+US_SYNTH_076_F11,US_SYNTH_076,42,Female,Telegraphic,Pelvis,Uterine Fibroid,N/A,,Negated,N/A,N/A,no discrete fibroid
+US_SYNTH_076_F12,US_SYNTH_076,42,Female,Telegraphic,Pelvis,Adenomyosis,N/A,,Possible,N/A,N/A,? Adenomyosis.
+US_SYNTH_076_F13,US_SYNTH_076,42,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in POD
+US_SYNTH_077_F01,US_SYNTH_077,41,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,with no focal lesion
+US_SYNTH_077_F02,US_SYNTH_077,41,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,no intrahepatic biliary dilatation
+US_SYNTH_077_F03,US_SYNTH_077,41,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,with no stones within
+US_SYNTH_077_F04,US_SYNTH_077,41,Male,Unstructured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,the CBD is not dilated
+US_SYNTH_077_F05,US_SYNTH_077,41,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear normal
+US_SYNTH_077_F06,US_SYNTH_077,41,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear normal
+US_SYNTH_077_F07,US_SYNTH_077,41,Male,Unstructured,Kidneys,Calculus,N/A,5.0,Affirmed,N/A,N20.0,"two small echogenic foci with distal acoustic shadowing, the larger measuring 5 mm and the smaller 3 mm, are seen in the lower and mid calyces, consistent with non-obstructing renal calculi"
+US_SYNTH_077_F08,US_SYNTH_077,41,Male,Unstructured,Kidneys,Calculus,N/A,7.0,Affirmed,N/A,N20.0,The left kidney shows a single shadowing calculus of 7 mm
+US_SYNTH_077_F09,US_SYNTH_077,41,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,Neither kidney shows hydronephrosis
+US_SYNTH_077_F10,US_SYNTH_077,41,Male,Unstructured,Pelvis,Bladder Wall Thickening,N/A,,Negated,N/A,N/A,with no wall thickening
+US_SYNTH_077_F11,US_SYNTH_077,41,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,There is no free fluid.
+US_SYNTH_078_F01,US_SYNTH_078,34,Female,Structured,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,"Liver is mildly enlarged, span 16.5 cm"
+US_SYNTH_078_F02,US_SYNTH_078,34,Female,Structured,Liver,Steatosis,N/A,,Negated,RID39103,N/A,no evidence of fatty infiltration
+US_SYNTH_078_F03,US_SYNTH_078,34,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion.
+US_SYNTH_078_F04,US_SYNTH_078,34,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic biliary radicles: not dilated
+US_SYNTH_078_F05,US_SYNTH_078,34,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculi
+US_SYNTH_078_F06,US_SYNTH_078,34,Female,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,wall not thickened
+US_SYNTH_078_F07,US_SYNTH_078,34,Female,Structured,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,Tail could not be assessed due to overlying bowel gas
+US_SYNTH_078_F08,US_SYNTH_078,34,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,"normal echotexture, no focal lesion"
+US_SYNTH_078_F09,US_SYNTH_078,34,Female,Structured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Right kidney: 10.2 x 4.4 cm. Normal.
+US_SYNTH_078_F10,US_SYNTH_078,34,Female,Structured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Left kidney: 10.6 x 4.7 cm. Normal.
+US_SYNTH_078_F11,US_SYNTH_078,34,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on either side
+US_SYNTH_078_F12,US_SYNTH_078,34,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on either side
+US_SYNTH_078_F13,US_SYNTH_078,34,Female,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,Urinary bladder: Normal.
+US_SYNTH_078_F14,US_SYNTH_078,34,Female,Structured,Pelvis,Ovarian Cyst,N/A,,Negated,N/A,N/A,no cyst
+US_SYNTH_078_F15,US_SYNTH_078,34,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the pouch of Douglas
+US_SYNTH_079_F01,US_SYNTH_079,57,Male,Telegraphic,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,Gr III fatty liver
+US_SYNTH_079_F02,US_SYNTH_079,57,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_079_F03,US_SYNTH_079,57,Male,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR nt dilated
+US_SYNTH_079_F04,US_SYNTH_079,57,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculi
+US_SYNTH_079_F05,US_SYNTH_079,57,Male,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pan: N.
+US_SYNTH_079_F06,US_SYNTH_079,57,Male,Telegraphic,Spleen,Splenomegaly,N/A,,Affirmed,N/A,R16.1,"Spl: enlarged, 14.2 cm"
+US_SYNTH_079_F07,US_SYNTH_079,57,Male,Telegraphic,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,no SOL
+US_SYNTH_079_F08,US_SYNTH_079,57,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Affirmed,N/A,N/A,Trace free fluid in morisons pouch
+US_SYNTH_079_F09,US_SYNTH_079,57,Male,Telegraphic,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,"RK: 10.8 cm, WNL."
+US_SYNTH_079_F10,US_SYNTH_079,57,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus / HDN
+US_SYNTH_079_F11,US_SYNTH_079,57,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus / HDN
+US_SYNTH_079_F12,US_SYNTH_079,57,Male,Telegraphic,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,"LK: 11.0 cm, WNL."
+US_SYNTH_079_F13,US_SYNTH_079,57,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"no calculus, no HDN"
+US_SYNTH_079_F14,US_SYNTH_079,57,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no HDN
+US_SYNTH_080_F01,US_SYNTH_080,28,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,"Liver, pancreas and spleen are normal in size and echotexture with no focal lesion"
+US_SYNTH_080_F02,US_SYNTH_080,28,Female,Unstructured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,"Liver, pancreas and spleen are normal in size and echotexture with no focal lesion"
+US_SYNTH_080_F03,US_SYNTH_080,28,Female,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,"Liver, pancreas and spleen are normal in size and echotexture with no focal lesion"
+US_SYNTH_080_F04,US_SYNTH_080,28,Female,Unstructured,Gallbladder,Polyp,N/A,3.0,Possible,N/A,N/A,"A tiny 3 mm non-shadowing, non-mobile echogenic focus is seen arising from the anterior wall of the gallbladder, likely a small polyp"
+US_SYNTH_080_F05,US_SYNTH_080,28,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculus
+US_SYNTH_080_F06,US_SYNTH_080,28,Female,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Both kidneys, urinary bladder, uterus and ovaries show normal sonographic appearance"
+US_SYNTH_080_F07,US_SYNTH_080,28,Female,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Both kidneys, urinary bladder, uterus and ovaries show normal sonographic appearance"
+US_SYNTH_080_F08,US_SYNTH_080,28,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_081_F01,US_SYNTH_081,46,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,Diffusely bright liver parenchyma with mild posterior attenuation
+US_SYNTH_081_F02,US_SYNTH_081,46,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion is seen.
+US_SYNTH_081_F03,US_SYNTH_081,46,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic biliary radicles are not dilated
+US_SYNTH_081_F04,US_SYNTH_081,46,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,Wall is not thickened
+US_SYNTH_081_F05,US_SYNTH_081,46,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus or sludge within the lumen
+US_SYNTH_081_F06,US_SYNTH_081,46,Male,Structured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,No calculus or sludge within the lumen
+US_SYNTH_081_F07,US_SYNTH_081,46,Male,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,normal in size and echopattern. No focal lesion.
+US_SYNTH_081_F08,US_SYNTH_081,46,Male,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_081_F09,US_SYNTH_081,46,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on either side
+US_SYNTH_081_F10,US_SYNTH_081,46,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on either side
+US_SYNTH_081_F11,US_SYNTH_081,46,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the abdomen or pelvis
+US_SYNTH_082_F01,US_SYNTH_082,50,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_082_F02,US_SYNTH_082,50,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR not dil
+US_SYNTH_082_F03,US_SYNTH_082,50,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculi
+US_SYNTH_082_F04,US_SYNTH_082,50,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc - NAD
+US_SYNTH_082_F05,US_SYNTH_082,50,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Spl - 9.6 cm, NAD"
+US_SYNTH_082_F06,US_SYNTH_082,50,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus / HDN
+US_SYNTH_082_F07,US_SYNTH_082,50,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus / HDN
+US_SYNTH_082_F08,US_SYNTH_082,50,Female,Telegraphic,Pelvis,Uterine Fibroid,N/A,38.0,Affirmed,N/A,D25.9,"Multiple intramural & subserosal fibroids, largest ~3.8 x 3.1 cm"
+US_SYNTH_082_F09,US_SYNTH_082,50,Female,Telegraphic,Pelvis,Ovarian Cyst,N/A,26.0,Possible,N/A,N/A,2.6 x 2.1 cm well defined echogenic lesion with post acoustic shadowing ? dermoid cyst
+US_SYNTH_082_F10,US_SYNTH_082,50,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in POD
+US_SYNTH_083_F01,US_SYNTH_083,38,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,there is no focal lesion
+US_SYNTH_083_F02,US_SYNTH_083,38,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,the intrahepatic biliary radicles are not dilated
+US_SYNTH_083_F03,US_SYNTH_083,38,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,"without any calculus, sludge or polyp"
+US_SYNTH_083_F04,US_SYNTH_083,38,Male,Unstructured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,"without any calculus, sludge or polyp"
+US_SYNTH_083_F05,US_SYNTH_083,38,Male,Unstructured,Gallbladder,Polyp,N/A,,Negated,N/A,N/A,"without any calculus, sludge or polyp"
+US_SYNTH_083_F06,US_SYNTH_083,38,Male,Unstructured,Pancreas,Surrounding Collection,N/A,,Negated,N/A,N/A,no peripancreatic collection
+US_SYNTH_083_F07,US_SYNTH_083,38,Male,Unstructured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,a non-dilated main pancreatic duct
+US_SYNTH_083_F08,US_SYNTH_083,38,Male,Unstructured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,homogeneous with no focal lesion
+US_SYNTH_083_F09,US_SYNTH_083,38,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"neither kidney shows calculus, hydronephrosis or a cortical cyst"
+US_SYNTH_083_F10,US_SYNTH_083,38,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,"neither kidney shows calculus, hydronephrosis or a cortical cyst"
+US_SYNTH_083_F11,US_SYNTH_083,38,Male,Unstructured,Kidneys,Cortical Cyst,N/A,,Negated,RID3954,N/A,"neither kidney shows calculus, hydronephrosis or a cortical cyst"
+US_SYNTH_083_F12,US_SYNTH_083,38,Male,Unstructured,Pelvis,Bladder Wall Thickening,N/A,,Negated,N/A,N/A,"smooth, non-thickened wall"
+US_SYNTH_083_F13,US_SYNTH_083,38,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,There is no ascites
+US_SYNTH_083_F14,US_SYNTH_083,38,Male,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,no sonographic abnormality is detected in the abdomen and pelvis
+US_SYNTH_084_F01,US_SYNTH_084,59,Female,Structured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,Parenchymal echogenicity is moderately increased with partial obscuration of the portal venous walls - Grade II fatty infiltration
+US_SYNTH_084_F02,US_SYNTH_084,59,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal mass lesion
+US_SYNTH_084_F03,US_SYNTH_084,59,Female,Structured,Gallbladder,Calculus,N/A,6.0,Affirmed,RID5770,K80.20,"multiple small mobile calculi, the largest measuring 6 mm"
+US_SYNTH_084_F04,US_SYNTH_084,59,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_084_F05,US_SYNTH_084,59,Female,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,CBD measures 4.5 mm; not dilated
+US_SYNTH_084_F06,US_SYNTH_084,59,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas appears normal.
+US_SYNTH_084_F07,US_SYNTH_084,59,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,"Normal echotexture, no focal lesion"
+US_SYNTH_084_F08,US_SYNTH_084,59,Female,Structured,Kidneys,Cortical Cyst,N/A,14.0,Affirmed,RID3954,N28.1,A simple anechoic cortical cyst measuring 14 x 12 mm
+US_SYNTH_084_F09,US_SYNTH_084,59,Female,Structured,Kidneys,Septation,N/A,,Negated,N/A,N/A,with no septations or solid component
+US_SYNTH_084_F10,US_SYNTH_084,59,Female,Structured,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,with no septations or solid component
+US_SYNTH_084_F11,US_SYNTH_084,59,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on this side
+US_SYNTH_084_F12,US_SYNTH_084,59,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis on this side
+US_SYNTH_084_F13,US_SYNTH_084,59,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,Normal size and cortical thickness. No calculus.
+US_SYNTH_084_F14,US_SYNTH_084,59,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis.
+US_SYNTH_084_F15,US_SYNTH_084,59,Female,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,appears normal for postmenopausal age
+US_SYNTH_084_F16,US_SYNTH_084,59,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_085_F01,US_SYNTH_085,25,Male,Telegraphic,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,Liver: WNL
+US_SYNTH_085_F02,US_SYNTH_085,25,Male,Telegraphic,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,GB: WNL
+US_SYNTH_085_F03,US_SYNTH_085,25,Male,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc: WNL
+US_SYNTH_085_F04,US_SYNTH_085,25,Male,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Spl :WNL
+US_SYNTH_085_F05,US_SYNTH_085,25,Male,Telegraphic,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,B/L K: WNL
+US_SYNTH_085_F06,US_SYNTH_085,25,Male,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,UB: WNL
+US_SYNTH_085_F07,US_SYNTH_085,25,Male,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,Prost: WNL
+US_SYNTH_085_F08,US_SYNTH_085,25,Male,Telegraphic,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,Imp: NAD
+US_SYNTH_086_F01,US_SYNTH_086,44,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,with no focal lesion
+US_SYNTH_086_F02,US_SYNTH_086,44,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,well distended with no stones
+US_SYNTH_086_F03,US_SYNTH_086,44,Female,Unstructured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,its wall is not thickned
+US_SYNTH_086_F04,US_SYNTH_086,44,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear normal
+US_SYNTH_086_F05,US_SYNTH_086,44,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear normal
+US_SYNTH_086_F06,US_SYNTH_086,44,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus or back pressure changes
+US_SYNTH_086_F07,US_SYNTH_086,44,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus or back pressure changes
+US_SYNTH_086_F08,US_SYNTH_086,44,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Affirmed,N/A,N13.30,shows mild dilatation of the pelvicalyceal system
+US_SYNTH_086_F09,US_SYNTH_086,44,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus is seen along the visualised course of the left urinary tract
+US_SYNTH_086_F10,US_SYNTH_086,44,Female,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,The uterus is anteverted and appears normal
+US_SYNTH_086_F11,US_SYNTH_086,44,Female,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,both ovaries are normal
+US_SYNTH_086_F12,US_SYNTH_086,44,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid is noted in the pelvis
+US_SYNTH_087_F01,US_SYNTH_087,53,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,"Mildly increased parenchymal echogenicity with preserved visualisation of diaphragm and intrahepatic vessels, s/o grade 1 hepatic steatosis"
+US_SYNTH_087_F02,US_SYNTH_087,53,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_087_F03,US_SYNTH_087,53,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus/sludge
+US_SYNTH_087_F04,US_SYNTH_087,53,Male,Structured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,No calculus/sludge
+US_SYNTH_087_F05,US_SYNTH_087,53,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,PANCREAS: Unremarkable.
+US_SYNTH_087_F06,US_SYNTH_087,53,Male,Structured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,SPLEEN: 10.4 cm. Appears normal.
+US_SYNTH_087_F07,US_SYNTH_087,53,Male,Structured,Kidneys,Calculus,N/A,2.0,Possible,N/A,N/A,"A tiny 2 mm non-shadowing echogenic focus in the mid-pole sinus, which could represent a tiny calculus or vascular calcification"
+US_SYNTH_087_F08,US_SYNTH_087,53,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,vascular calcification. No hydronephrosis.
+US_SYNTH_087_F09,US_SYNTH_087,53,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,Normal. No calculus or hydronephrosis.
+US_SYNTH_087_F10,US_SYNTH_087,53,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,Normal. No calculus or hydronephrosis.
+US_SYNTH_087_F11,US_SYNTH_087,53,Male,Structured,Pelvis,Prostatomegaly,N/A,,Affirmed,N/A,N40.0,"PROSTATE: Enlarged, measuring 4.6 x 4.1 x 3.8 cm (volume ~38 cc)"
+US_SYNTH_087_F12,US_SYNTH_087,53,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites.
+US_SYNTH_088_F01,US_SYNTH_088,32,Female,Telegraphic,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,Gr I fatty changes
+US_SYNTH_088_F02,US_SYNTH_088,32,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion.
+US_SYNTH_088_F03,US_SYNTH_088,32,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no stones
+US_SYNTH_088_F04,US_SYNTH_088,32,Female,Telegraphic,Pancreas,Bowel Gas Obscuration,N/A,,Affirmed,N/A,N/A,obscured by overlying bowel gas - not well seen
+US_SYNTH_088_F05,US_SYNTH_088,32,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Spleen: N (9.2cm)
+US_SYNTH_088_F06,US_SYNTH_088,32,Female,Telegraphic,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Rt K 10.1cm / Lt K 10.4cm - normal
+US_SYNTH_088_F07,US_SYNTH_088,32,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus
+US_SYNTH_088_F08,US_SYNTH_088,32,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no HDN
+US_SYNTH_088_F09,US_SYNTH_088,32,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,UB: N.
+US_SYNTH_088_F10,US_SYNTH_088,32,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,B/L ovaries N
+US_SYNTH_088_F11,US_SYNTH_088,32,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No FF
+US_SYNTH_089_F01,US_SYNTH_089,49,Male,Unstructured,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,"moderate diffuse increase in echogenicity with blurring of the portal vein radicle walls, in keeping with grade II hepatic steatosis"
+US_SYNTH_089_F02,US_SYNTH_089,49,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no space-occupying lesion is identified
+US_SYNTH_089_F03,US_SYNTH_089,49,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,biliary radicles are not dilated
+US_SYNTH_089_F04,US_SYNTH_089,49,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,contains no calculus
+US_SYNTH_089_F05,US_SYNTH_089,49,Male,Unstructured,Pancreas,Calcification,N/A,,Affirmed,N/A,K86.89,"Multiple punctate echogenic foci are noted scattered within the pancreatic parenchyma, mainly in the head and body, consistent with parenchymal calcifications"
+US_SYNTH_089_F06,US_SYNTH_089,49,Male,Unstructured,Pancreas,Ductal Dilatation,N/A,,Affirmed,N/A,K86.89,"the main pancreatic duct is mildly dilated, measuring 4 mm in the body"
+US_SYNTH_089_F07,US_SYNTH_089,49,Male,Unstructured,Pancreas,Surrounding Collection,N/A,,Negated,N/A,N/A,no peripancreatic fluid is seen
+US_SYNTH_089_F08,US_SYNTH_089,49,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,there is no evidence of calculus or hydronephrosis on either side
+US_SYNTH_089_F09,US_SYNTH_089,49,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,there is no evidence of calculus or hydronephrosis on either side
+US_SYNTH_089_F10,US_SYNTH_089,49,Male,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,The urinary bladder is unremarkable
+US_SYNTH_089_F11,US_SYNTH_089,49,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_090_F01,US_SYNTH_090,36,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,no focal lesion seen
+US_SYNTH_090_F02,US_SYNTH_090,36,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,"thin walled, no calculus"
+US_SYNTH_090_F03,US_SYNTH_090,36,Female,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas - Normal.
+US_SYNTH_090_F04,US_SYNTH_090,36,Female,Structured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Right Kidney - 10.2 x 4.1 cm. Normal.
+US_SYNTH_090_F05,US_SYNTH_090,36,Female,Structured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,Left Kidney - 10.5 x 4.3 cm. Normal.
+US_SYNTH_090_F06,US_SYNTH_090,36,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis/calculus on either side
+US_SYNTH_090_F07,US_SYNTH_090,36,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No hydronephrosis/calculus on either side
+US_SYNTH_090_F08,US_SYNTH_090,36,Female,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Urinary Bladder - Well distended, normal."
+US_SYNTH_090_F09,US_SYNTH_090,36,Female,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Uterus - Anteverted, 7.4 x 4.0 x 3.6 cm, normal."
+US_SYNTH_090_F10,US_SYNTH_090,36,Female,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,both normal with follicles
+US_SYNTH_090_F11,US_SYNTH_090,36,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in pelvis
+US_SYNTH_090_F12,US_SYNTH_090,36,Female,Structured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,IMPRESSION: Normal study.
+US_SYNTH_091_F01,US_SYNTH_091,60,Male,Telegraphic,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,"Liver - enlarged, 17.2 cm"
+US_SYNTH_091_F02,US_SYNTH_091,60,Male,Telegraphic,Liver,Steatosis,Grade 2,,Affirmed,RID39103,K76.0,Gr II fatty liver
+US_SYNTH_091_F03,US_SYNTH_091,60,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal SOL
+US_SYNTH_091_F04,US_SYNTH_091,60,Male,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR not dilated
+US_SYNTH_091_F05,US_SYNTH_091,60,Male,Telegraphic,Gallbladder,Calculus,N/A,22.0,Affirmed,RID5770,K80.20,Single mobile calculus 2.2 cm in lumen
+US_SYNTH_091_F06,US_SYNTH_091,60,Male,Telegraphic,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic fluid
+US_SYNTH_091_F07,US_SYNTH_091,60,Male,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc - NAD
+US_SYNTH_091_F08,US_SYNTH_091,60,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus / HDN
+US_SYNTH_091_F09,US_SYNTH_091,60,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus / HDN
+US_SYNTH_091_F10,US_SYNTH_091,60,Male,Telegraphic,Kidneys,Cortical Cyst,N/A,19.0,Affirmed,RID3954,N28.1,Simple cortical cyst 1.9 x 1.7 cm upper pole
+US_SYNTH_091_F11,US_SYNTH_091,60,Male,Telegraphic,Kidneys,Septation,N/A,,Negated,N/A,N/A,no septa/solid comp
+US_SYNTH_091_F12,US_SYNTH_091,60,Male,Telegraphic,Kidneys,Solid Component,N/A,,Negated,N/A,N/A,no septa/solid comp
+US_SYNTH_091_F13,US_SYNTH_091,60,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No HDN
+US_SYNTH_091_F14,US_SYNTH_091,60,Male,Telegraphic,Pelvis,Prostatomegaly,N/A,,Affirmed,N/A,N40.0,Prostate - enlarged
+US_SYNTH_091_F15,US_SYNTH_091,60,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites
+US_SYNTH_092_F01,US_SYNTH_092,26,Female,Unstructured,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, gall bladder, pancreas, spleen and both kidneys appear normal"
+US_SYNTH_092_F02,US_SYNTH_092,26,Female,Unstructured,Gallbladder,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, gall bladder, pancreas, spleen and both kidneys appear normal"
+US_SYNTH_092_F03,US_SYNTH_092,26,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, gall bladder, pancreas, spleen and both kidneys appear normal"
+US_SYNTH_092_F04,US_SYNTH_092,26,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, gall bladder, pancreas, spleen and both kidneys appear normal"
+US_SYNTH_092_F05,US_SYNTH_092,26,Female,Unstructured,Kidneys,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Liver, gall bladder, pancreas, spleen and both kidneys appear normal"
+US_SYNTH_092_F06,US_SYNTH_092,26,Female,Unstructured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"urinary bladder, uterus and both ovaries are unremarkable"
+US_SYNTH_092_F07,US_SYNTH_092,26,Female,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,no free fluid in the pelvis
+US_SYNTH_092_F08,US_SYNTH_092,26,Female,Unstructured,Pelvis,Unremarkable Study,N/A,,Affirmed,RID28473,Z00.00,Normal ultrasound abdomen and pelvis
+US_SYNTH_093_F01,US_SYNTH_093,42,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,consistent with grade I fatty infiltration
+US_SYNTH_093_F02,US_SYNTH_093,42,Male,Structured,Liver,Focal Lesion,N/A,18.0,Affirmed,N/A,R93.2,An ill-defined hypoechoic lesion measuring approx. 18 x 15 mm is noted in segment VIII
+US_SYNTH_093_F03,US_SYNTH_093,42,Male,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic biliary radicles are not dilated
+US_SYNTH_093_F04,US_SYNTH_093,42,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculi or sludge
+US_SYNTH_093_F05,US_SYNTH_093,42,Male,Structured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,No calculi or sludge
+US_SYNTH_093_F06,US_SYNTH_093,42,Male,Structured,Gallbladder,Wall Thickening,N/A,,Negated,N/A,N/A,Wall is not thickened
+US_SYNTH_093_F07,US_SYNTH_093,42,Male,Structured,Pancreas,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_093_F08,US_SYNTH_093,42,Male,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,MPD not dilated
+US_SYNTH_093_F09,US_SYNTH_093,42,Male,Structured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Spleen: 9.8 cm. Unremarkable.
+US_SYNTH_093_F10,US_SYNTH_093,42,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"No calculus, hydronephrosis or mass on either side"
+US_SYNTH_093_F11,US_SYNTH_093,42,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,"No calculus, hydronephrosis or mass on either side"
+US_SYNTH_093_F12,US_SYNTH_093,42,Male,Structured,Kidneys,Focal Lesion,N/A,,Negated,N/A,N/A,"No calculus, hydronephrosis or mass on either side"
+US_SYNTH_093_F13,US_SYNTH_093,42,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid in the abdomen or pelvis
+US_SYNTH_094_F01,US_SYNTH_094,55,Female,Telegraphic,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,mildly bright - Gr 1 fatty
+US_SYNTH_094_F02,US_SYNTH_094,55,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL
+US_SYNTH_094_F03,US_SYNTH_094,55,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,IHBR - not dil.
+US_SYNTH_094_F04,US_SYNTH_094,55,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Pan, Spl: NAD"
+US_SYNTH_094_F05,US_SYNTH_094,55,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Pan, Spl: NAD"
+US_SYNTH_094_F06,US_SYNTH_094,55,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,no calculus/HDN b/l
+US_SYNTH_094_F07,US_SYNTH_094,55,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no calculus/HDN b/l
+US_SYNTH_094_F08,US_SYNTH_094,55,Female,Telegraphic,Pelvis,Ovarian Cyst,N/A,20.0,Affirmed,N/A,N83.20,anechoic thin walled cyst 2.0 x 1.8 cm - simple cyst
+US_SYNTH_094_F09,US_SYNTH_094,55,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No FF.
+US_SYNTH_095_F01,US_SYNTH_095,31,Male,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,with no focal lesion
+US_SYNTH_095_F02,US_SYNTH_095,31,Male,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,intrahepatic biliary radicals are not dilated
+US_SYNTH_095_F03,US_SYNTH_095,31,Male,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,no calculus within it
+US_SYNTH_095_F04,US_SYNTH_095,31,Male,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear normal
+US_SYNTH_095_F05,US_SYNTH_095,31,Male,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Pancreas and spleen appear normal
+US_SYNTH_095_F06,US_SYNTH_095,31,Male,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,with no calculus or hydronephrosis
+US_SYNTH_095_F07,US_SYNTH_095,31,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,with no calculus or hydronephrosis
+US_SYNTH_095_F08,US_SYNTH_095,31,Male,Unstructured,Kidneys,Hydronephrosis,N/A,,Affirmed,N/A,N13.30,shows moderate hydronephrosis with dilated pelvis and calyces
+US_SYNTH_095_F09,US_SYNTH_095,31,Male,Unstructured,Kidneys,Calculus,N/A,11.0,Affirmed,N/A,N20.0,an echogenic calculus of 11 mm with posterior acoustic shadowing impacted at the pelviureteric junction
+US_SYNTH_095_F10,US_SYNTH_095,31,Male,Unstructured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,There is no ascites
+US_SYNTH_096_F01,US_SYNTH_096,47,Female,Structured,Liver,Hepatomegaly,N/A,,Affirmed,N/A,R16.0,"Liver is enlarged, measuring 18.4 cm"
+US_SYNTH_096_F02,US_SYNTH_096,47,Female,Structured,Liver,Steatosis,Grade 3,,Affirmed,RID39103,K76.0,consistent with grade III fatty liver
+US_SYNTH_096_F03,US_SYNTH_096,47,Female,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No discrete focal lesion is made out
+US_SYNTH_096_F04,US_SYNTH_096,47,Female,Structured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,Intrahepatic biliary radicles are not dilated
+US_SYNTH_096_F05,US_SYNTH_096,47,Female,Structured,Gallbladder,Polyp,N/A,5.0,Affirmed,N/A,K82.8,"Multiple small non-shadowing, non-mobile echogenic foci are seen arising from the wall, the largest measuring 5 mm along the anterior wall of the body — features suggestive of cholesterol polyps"
+US_SYNTH_096_F06,US_SYNTH_096,47,Female,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus. No pericholecystic collection.
+US_SYNTH_096_F07,US_SYNTH_096,47,Female,Structured,Gallbladder,Pericholecystic Fluid,N/A,,Negated,N/A,N/A,No pericholecystic collection
+US_SYNTH_096_F08,US_SYNTH_096,47,Female,Structured,Pancreas,Ductal Dilatation,N/A,,Negated,N/A,N/A,Main pancreatic duct is not dilated
+US_SYNTH_096_F09,US_SYNTH_096,47,Female,Structured,Pancreas,Calcification,N/A,,Negated,N/A,N/A,No calcification
+US_SYNTH_096_F10,US_SYNTH_096,47,Female,Structured,Spleen,Focal Lesion,N/A,,Negated,N/A,N/A,Normal echotexture. No focal lesion.
+US_SYNTH_096_F11,US_SYNTH_096,47,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus. No hydronephrosis.
+US_SYNTH_096_F12,US_SYNTH_096,47,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No hydronephrosis
+US_SYNTH_096_F13,US_SYNTH_096,47,Female,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus seen
+US_SYNTH_096_F14,US_SYNTH_096,47,Female,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,Pelvicalyceal system not dilated
+US_SYNTH_096_F15,US_SYNTH_096,47,Female,Structured,Pelvis,Bladder Wall Thickening,N/A,,Negated,N/A,N/A,Wall is smooth and not thickened
+US_SYNTH_096_F16,US_SYNTH_096,47,Female,Structured,Pelvis,Uterine Fibroid,N/A,,Negated,N/A,N/A,no fibroid seen
+US_SYNTH_096_F17,US_SYNTH_096,47,Female,Structured,Pelvis,Ovarian Cyst,N/A,,Negated,N/A,N/A,No cyst or mass
+US_SYNTH_096_F18,US_SYNTH_096,47,Female,Structured,Pelvis,Pelvic Mass,N/A,,Negated,N/A,N/A,No cyst or mass
+US_SYNTH_096_F19,US_SYNTH_096,47,Female,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites or pelvic free fluid
+US_SYNTH_097_F01,US_SYNTH_097,36,Male,Telegraphic,Liver,Unremarkable,N/A,,Affirmed,RID28473,N/A,Liver: WNL.
+US_SYNTH_097_F02,US_SYNTH_097,36,Male,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No SOL.
+US_SYNTH_097_F03,US_SYNTH_097,36,Male,Telegraphic,Gallbladder,Adenomyomatosis,N/A,,Affirmed,N/A,K82.8,comet-tail artefacts - s/o adenomyomatosis
+US_SYNTH_097_F04,US_SYNTH_097,36,Male,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculi.
+US_SYNTH_097_F05,US_SYNTH_097,36,Male,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc/Spl: normal
+US_SYNTH_097_F06,US_SYNTH_097,36,Male,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc/Spl: normal
+US_SYNTH_097_F07,US_SYNTH_097,36,Male,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"No calculus, no HDN"
+US_SYNTH_097_F08,US_SYNTH_097,36,Male,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no HDN
+US_SYNTH_097_F09,US_SYNTH_097,36,Male,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,UB: normal.
+US_SYNTH_097_F10,US_SYNTH_097,36,Male,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,Prostate: normal (14 cc)
+US_SYNTH_097_F11,US_SYNTH_097,36,Male,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_098_F01,US_SYNTH_098,39,Female,Unstructured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,without any focal lesion
+US_SYNTH_098_F02,US_SYNTH_098,39,Female,Unstructured,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,there is no intra hepatic biliary dilatation
+US_SYNTH_098_F03,US_SYNTH_098,39,Female,Unstructured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,there are no stones or sludge in it
+US_SYNTH_098_F04,US_SYNTH_098,39,Female,Unstructured,Gallbladder,Sludge,N/A,,Negated,N/A,N/A,there are no stones or sludge in it
+US_SYNTH_098_F05,US_SYNTH_098,39,Female,Unstructured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,the common bile duct is not dilated
+US_SYNTH_098_F06,US_SYNTH_098,39,Female,Unstructured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,pancreas appears normal
+US_SYNTH_098_F07,US_SYNTH_098,39,Female,Unstructured,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,the spleen (9.4 cm) is also normal
+US_SYNTH_098_F08,US_SYNTH_098,39,Female,Unstructured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,there is no calculus
+US_SYNTH_098_F09,US_SYNTH_098,39,Female,Unstructured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,no backpressure changes on either side
+US_SYNTH_098_F10,US_SYNTH_098,39,Female,Unstructured,Pelvis,Bladder Wall Thickening,N/A,,Negated,N/A,N/A,shows no wall thickening
+US_SYNTH_098_F11,US_SYNTH_098,39,Female,Unstructured,Pelvis,Free Fluid,N/A,,Affirmed,N/A,N/A,"A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological"
+US_SYNTH_099_F01,US_SYNTH_099,28,Male,Structured,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,Grade I hepatic steatosis
+US_SYNTH_099_F02,US_SYNTH_099,28,Male,Structured,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal hepatic lesion
+US_SYNTH_099_F03,US_SYNTH_099,28,Male,Structured,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,"no calculus, no polyp"
+US_SYNTH_099_F04,US_SYNTH_099,28,Male,Structured,Gallbladder,Polyp,N/A,,Negated,N/A,N/A,"no calculus, no polyp"
+US_SYNTH_099_F05,US_SYNTH_099,28,Male,Structured,Gallbladder,CBD Dilatation,N/A,,Negated,N/A,N/A,CBD – Not dilated
+US_SYNTH_099_F06,US_SYNTH_099,28,Male,Structured,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,PANCREAS – Unremarkable.
+US_SYNTH_099_F07,US_SYNTH_099,28,Male,Structured,Kidneys,Angiomyolipoma,N/A,8.0,Possible,N/A,N/A,"A well-defined hyperechoic cortical lesion of 8 x 6 mm is seen in the mid pole, without posterior shadowing or internal vascularity; likely angiomyolipoma"
+US_SYNTH_099_F08,US_SYNTH_099,28,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis
+US_SYNTH_099_F09,US_SYNTH_099,28,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus or hydronephrosis
+US_SYNTH_099_F10,US_SYNTH_099,28,Male,Structured,Kidneys,Calculus,N/A,,Negated,N/A,N/A,"No calculus, no hydronephrosis"
+US_SYNTH_099_F11,US_SYNTH_099,28,Male,Structured,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,"No calculus, no hydronephrosis"
+US_SYNTH_099_F12,US_SYNTH_099,28,Male,Structured,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,(vol ~15 cc). Normal.
+US_SYNTH_099_F13,US_SYNTH_099,28,Male,Structured,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No ascites.
+US_SYNTH_100_F01,US_SYNTH_100,61,Female,Telegraphic,Liver,Steatosis,Grade 1,,Affirmed,RID39103,K76.0,fatty liver gr I
+US_SYNTH_100_F02,US_SYNTH_100,61,Female,Telegraphic,Liver,Focal Lesion,N/A,,Negated,N/A,N/A,No focal lesion
+US_SYNTH_100_F03,US_SYNTH_100,61,Female,Telegraphic,Liver,Intrahepatic Biliary Dilatation,N/A,,Negated,N/A,N/A,No IHBRD
+US_SYNTH_100_F04,US_SYNTH_100,61,Female,Telegraphic,Gallbladder,Cholecystectomy Status,N/A,,Affirmed,N/A,Z90.49,post cholecystectomy status
+US_SYNTH_100_F05,US_SYNTH_100,61,Female,Telegraphic,Gallbladder,Calculus,N/A,,Negated,RID5770,N/A,No calculus in visualised CBD
+US_SYNTH_100_F06,US_SYNTH_100,61,Female,Telegraphic,Pancreas,Unremarkable,N/A,,Affirmed,RID28473,N/A,Panc: NAD.
+US_SYNTH_100_F07,US_SYNTH_100,61,Female,Telegraphic,Spleen,Unremarkable,N/A,,Affirmed,RID28473,N/A,"Spl : 9.1cm, NAD"
+US_SYNTH_100_F08,US_SYNTH_100,61,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,31.0,Affirmed,RID3954,N28.1,"Multiple anechoic cortical cysts, largest 3.1 x 2.8 cm"
+US_SYNTH_100_F09,US_SYNTH_100,61,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus. No HDN.
+US_SYNTH_100_F10,US_SYNTH_100,61,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No HDN
+US_SYNTH_100_F11,US_SYNTH_100,61,Female,Telegraphic,Kidneys,Cortical Cyst,N/A,15.0,Affirmed,RID3954,N28.1,"2-3 small simple cortical cysts, largest 1.5 cm"
+US_SYNTH_100_F12,US_SYNTH_100,61,Female,Telegraphic,Kidneys,Calculus,N/A,,Negated,N/A,N/A,No calculus / hydro
+US_SYNTH_100_F13,US_SYNTH_100,61,Female,Telegraphic,Kidneys,Hydronephrosis,N/A,,Negated,N/A,N/A,No calculus / hydro
+US_SYNTH_100_F14,US_SYNTH_100,61,Female,Telegraphic,Pelvis,Free Fluid,N/A,,Negated,N/A,N/A,No free fluid.
+US_SYNTH_100_F15,US_SYNTH_100,61,Female,Telegraphic,Pelvis,Unremarkable,N/A,,Affirmed,RID28473,N/A,"UB: partially filled, NAD."

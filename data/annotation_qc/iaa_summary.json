@@ -1,0 +1,10 @@
+{
+  "entity_level_f1": 0.9927007299270073,
+  "shared": 612,
+  "writer_only": 6,
+  "blind_only": 3,
+  "status_pairs": 613,
+  "status_observed_agreement": 0.99836867862969,
+  "status_cohen_kappa": 0.9965665380285319,
+  "note": "Both annotators are Claude model instances; agreement between two LLM annotators is expected to be higher than between two human annotators and should not be reported as human IAA."
+}

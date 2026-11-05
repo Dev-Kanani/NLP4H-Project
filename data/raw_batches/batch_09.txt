@@ -1,0 +1,1441 @@
+=== REPORT START: US_SYNTH_081 ===
+METADATA:
+Age: 46 | Sex: Male | Style: Structured
+
+RAW REPORT TEXT
+
+USG WHOLE ABDOMEN
+
+Indication: Annual health check-up.
+
+LIVER: Normal in size, measuring 14.2 cm in the midclavicular line. Diffusely bright liver parenchyma with mild posterior attenuation; diaphragm and portal vein walls are still well seen. No focal lesion is seen. Intrahepatic biliary radicles are not dilated. Portal vein normal in calibre.
+
+GALL BLADDER: Well distended. Wall is not thickened. No calculus or sludge within the lumen.
+
+CBD: 3.8 mm in calibre.
+
+PANCREAS: Head, body and tail visualised; normal in size and echopattern. No focal lesion.
+
+SPLEEN: 10.1 cm, normal size and echotexture. No SOL.
+
+KIDNEYS: Right kidney measures 10.3 x 4.6 cm, left kidney 10.6 x 4.9 cm. Both kidneys are normal in size, shape and position with maintained corticomedullary differentiation. No calculus or hydronephrosis on either side.
+
+URINARY BLADDER: Adequately filled, wall smooth. No intraluminal echoes.
+
+PROSTATE: Normal in size (volume approx. 17 cc), homogeneous echotexture.
+
+No free fluid in the abdomen or pelvis.
+
+IMPRESSION:
+Fatty liver, Grade I.
+No other significant abnormality.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Steatosis",
+    "grade": "Grade 1",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID39103",
+    "icd10_code": "K76.0",
+    "evidence_text": "Diffusely bright liver parenchyma with mild posterior attenuation"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No focal lesion is seen."
+  },
+  {
+    "organ": "Liver",
+    "finding": "Intrahepatic Biliary Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "Intrahepatic biliary radicles are not dilated"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Wall Thickening",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "Wall is not thickened"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or sludge within the lumen"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Sludge",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or sludge within the lumen"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "normal in size and echopattern. No focal lesion."
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No SOL"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or hydronephrosis on either side"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or hydronephrosis on either side"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No free fluid in the abdomen or pelvis"
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_082 ===
+METADATA:
+Age: 50 | Sex: Female | Style: Telegraphic
+
+RAW REPORT TEXT
+
+USG ABD + PELVIS  (MHC)
+
+Liver - N size (13.8 cm), echotexture N. No SOL. IHBR not dil.
+GB - distended, no calculi. Wall N.
+CBD - 4 mm.
+PV - 10 mm.
+Panc - NAD.
+Spl - 9.6 cm, NAD.
+RK - 9.9 x 4.2 cm. LK - 10.2 x 4.5 cm. CMD maintained B/L. No calculus / HDN.
+UB - well distended, NAD.
+Ut - bulky, 11.2 x 6.4 x 5.8 cm. Multiple intramural & subserosal fibroids, largest ~3.8 x 3.1 cm in post wall (fundus). ET 5mm.
+Rt Ov - NAD.
+Lt Ov - 2.6 x 2.1 cm well defined echogenic lesion with post acoustic shadowing ? dermoid cyst.
+No free fluid in POD.
+
+Imp:
+- Bulky uterus with multiple fibroids.
+- Lt ovarian echogenic lesion - ? dermoid. Adv: correlation / MRI pelvis.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No SOL"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Intrahepatic Biliary Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "IHBR not dil"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculi"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Panc - NAD"
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Spl - 9.6 cm, NAD"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus / HDN"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus / HDN"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Uterine Fibroid",
+    "grade": "N/A",
+    "size_mm": 38.0,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "D25.9",
+    "evidence_text": "Multiple intramural & subserosal fibroids, largest ~3.8 x 3.1 cm"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Ovarian Cyst",
+    "grade": "N/A",
+    "size_mm": 26.0,
+    "status": "Possible",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "2.6 x 2.1 cm well defined echogenic lesion with post acoustic shadowing ? dermoid cyst"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No free fluid in POD"
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_083 ===
+METADATA:
+Age: 38 | Sex: Male | Style: Unstructured
+
+RAW REPORT TEXT
+
+Ultrasound examination of the abdomen and pelvis was performed as part of the annual executive health check using a curvilinear 3.5 MHz transducer. The liver is normal in size, with a span of about 13.5 cm, and shows a uniform echotexture with smooth margins; there is no focal lesion and the intrahepatic biliary radicles are not dilated. The portal vein and hepatic veins appear normal in calibre. The gall bladder is physiologically distended with a thin wall and an echo-free lumen, without any calculus, sludge or polyp, and the common bile duct measures 3 mm. The pancreas is well visualised in its entirety and is normal in size and echotexture, with no peripancreatic collection and a non-dilated main pancreatic duct. The spleen measures 9.8 cm and is homogeneous with no focal lesion. Both kidneys are normal in size and position, the right measuring 10.4 cm and the left 10.8 cm, with well preserved corticomedullary differentiation; neither kidney shows calculus, hydronephrosis or a cortical cyst. The urinary bladder is well distended with a smooth, non-thickened wall and clear contents, and the prostate is normal in size with a volume of approximately 15 cc and homogeneous echotexture. The aorta and IVC are normal in calibre and no para-aortic lymphadenopathy is seen. There is no ascites or pleural effusion. On the whole, no sonographic abnormality is detected in the abdomen and pelvis.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "there is no focal lesion"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Intrahepatic Biliary Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "the intrahepatic biliary radicles are not dilated"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "without any calculus, sludge or polyp"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Sludge",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "without any calculus, sludge or polyp"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Polyp",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "without any calculus, sludge or polyp"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Surrounding Collection",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no peripancreatic collection"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Ductal Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "a non-dilated main pancreatic duct"
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "homogeneous with no focal lesion"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "neither kidney shows calculus, hydronephrosis or a cortical cyst"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "neither kidney shows calculus, hydronephrosis or a cortical cyst"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Cortical Cyst",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID3954",
+    "icd10_code": "N/A",
+    "evidence_text": "neither kidney shows calculus, hydronephrosis or a cortical cyst"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Bladder Wall Thickening",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "smooth, non-thickened wall"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "There is no ascites"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable Study",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "Z00.00",
+    "evidence_text": "no sonographic abnormality is detected in the abdomen and pelvis"
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_084 ===
+METADATA:
+Age: 59 | Sex: Female | Style: Structured
+
+RAW REPORT TEXT
+
+ULTRASONOGRAPHY OF ABDOMEN & PELVIS
+
+Clinical details: Preventive health check-up. Asymptomatic.
+
+HEPATOBILIARY SYSTEM
+1. Liver measures 15.0 cm, normal in size. Parenchymal echogenicity is moderately increased with partial obscuration of the portal venous walls - Grade II fatty infiltration. No focal mass lesion.
+2. Gall bladder is well distended and shows multiple small mobile calculi, the largest measuring 6 mm, with posterior acoustic shadowing. Wall thickness 2 mm. No pericholecystic fluid.
+3. CBD measures 4.5 mm; not dilated.
+
+PANCREAS
+Pancreas appears normal.
+
+SPLEEN
+Measures 8.9 cm. Normal echotexture, no focal lesion.
+
+KIDNEYS
+Right kidney: 9.8 x 4.4 cm. A simple anechoic cortical cyst measuring 14 x 12 mm is seen at the upper pole, with no septations or solid component. No calculus or hydronephrosis on this side.
+Left kidney: 10.1 x 4.7 cm. Normal size and cortical thickness. No calculus. No hydronephrosis.
+
+URINARY BLADDER
+Well distended with normal wall.
+
+UTERUS & OVARIES
+Uterus is small and atrophic, measuring 5.6 x 3.1 x 2.8 cm, with a thin endometrial line (3 mm); appears normal for postmenopausal age. Ovaries not separately visualised.
+
+No free fluid.
+
+IMPRESSION:
+• Grade II fatty liver.
+• Cholelithiasis (multiple small calculi, largest 6 mm).
+• Simple right renal cortical cyst (14 mm).
+
+Dr. Meenakshi Raghavan, MD (Radiodiagnosis)
+Consultant Radiologist
+Reg. No. KMC 54871
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Steatosis",
+    "grade": "Grade 2",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID39103",
+    "icd10_code": "K76.0",
+    "evidence_text": "Parenchymal echogenicity is moderately increased with partial obscuration of the portal venous walls - Grade II fatty infiltration"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No focal mass lesion"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": 6.0,
+    "status": "Affirmed",
+    "radlex_id": "RID5770",
+    "icd10_code": "K80.20",
+    "evidence_text": "multiple small mobile calculi, the largest measuring 6 mm"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Pericholecystic Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No pericholecystic fluid"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "CBD Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "CBD measures 4.5 mm; not dilated"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Pancreas appears normal."
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "Normal echotexture, no focal lesion"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Cortical Cyst",
+    "grade": "N/A",
+    "size_mm": 14.0,
+    "status": "Affirmed",
+    "radlex_id": "RID3954",
+    "icd10_code": "N28.1",
+    "evidence_text": "A simple anechoic cortical cyst measuring 14 x 12 mm"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Septation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "with no septations or solid component"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Solid Component",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "with no septations or solid component"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or hydronephrosis on this side"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus or hydronephrosis on this side"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "Normal size and cortical thickness. No calculus."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No hydronephrosis."
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "appears normal for postmenopausal age"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No free fluid."
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_085 ===
+METADATA:
+Age: 25 | Sex: Male | Style: Telegraphic
+
+RAW REPORT TEXT
+
+USG Abd - MHC
+Liver: WNL
+GB: WNL
+Panc: WNL
+Spl :WNL
+B/L K: WNL
+UB: WNL
+Prost: WNL
+Imp: NAD
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Liver: WNL"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "GB: WNL"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Panc: WNL"
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Spl :WNL"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "B/L K: WNL"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "UB: WNL"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Prost: WNL"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable Study",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "Z00.00",
+    "evidence_text": "Imp: NAD"
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_086 ===
+METADATA:
+Age: 44 | Sex: Female | Style: Unstructured
+
+RAW REPORT TEXT
+
+Indication: routine health checkup.
+The liver is of normal size and echogenicity with no focal lesion; the hepatic and portal veins are of normal calibre. Gallbladder is well distended with no stones and its wall is not thickned, CBD being of normal calibre. Pancreas and spleen appear normal. The right kidney is normal in size and echopattern with no calculus or back pressure changes. The left kidney measures 10.9 cm and shows mild dilatation of the pelvicalyceal system with an AP pelvic diameter of 14 mm; the left ureter is not dilated and no calculus is seen along the visualised course of the left urinary tract. Urinary bladder is distended with a normal wall. The uterus is anteverted and appears normal, measuring 7.8 x 4.5 x 3.9 cm with an endometrial thickness of 8 mm, and both ovaries are normal. No free fluid is noted in the pelvis.
+Impression: Mild left hydronephrosis without obvious calculus — ? PUJ obstruction. Suggest DTPA renogram for correlation.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "with no focal lesion"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "well distended with no stones"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Wall Thickening",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "its wall is not thickned"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Pancreas and spleen appear normal"
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Pancreas and spleen appear normal"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculus or back pressure changes"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculus or back pressure changes"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "N13.30",
+    "evidence_text": "shows mild dilatation of the pelvicalyceal system"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculus is seen along the visualised course of the left urinary tract"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "The uterus is anteverted and appears normal"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "both ovaries are normal"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No free fluid is noted in the pelvis"
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_087 ===
+METADATA:
+Age: 53 | Sex: Male | Style: Structured
+
+RAW REPORT TEXT
+
+Ref: Annual Health Check (Corporate)
+Study: USG Abdomen and Pelvis
+
+FINDINGS:
+1) LIVER: Normal size (14.6 cm). Mildly increased parenchymal echogenicity with preserved visualisation of diaphragm and intrahepatic vessels, s/o grade 1 hepatic steatosis. No SOL. IHBRs normal.
+2) GALLBLADDER: Normally distended, anechoic lumen. No calculus/sludge. Wall 2.4 mm.
+3) CBD: 3.5 mm.
+4) PANCREAS: Unremarkable.
+5) SPLEEN: 10.4 cm. Appears normal.
+6) RIGHT KIDNEY: 10.5 x 4.8 cm. A tiny 2 mm non-shadowing echogenic focus in the mid-pole sinus, which could represent a tiny calculus or vascular calcification. No hydronephrosis.
+7) LEFT KIDNEY: 10.7 x 5.0 cm. Normal. No calculus or hydronephrosis.
+8) URINARY BLADDER: Well distended, wall regular. Post-void residue 18 ml (insignificant).
+9) PROSTATE: Enlarged, measuring 4.6 x 4.1 x 3.8 cm (volume ~38 cc), with homogeneous echotexture.
+10) No ascites.
+
+OPINION:
+- Grade I fatty liver.
+- Prostatomegaly (approx. 38 cc).
+- Tiny echogenic focus in right kidney - ? non-obstructing microcalculus vs vascular calcification. Suggest follow-up.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Steatosis",
+    "grade": "Grade 1",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID39103",
+    "icd10_code": "K76.0",
+    "evidence_text": "Mildly increased parenchymal echogenicity with preserved visualisation of diaphragm and intrahepatic vessels, s/o grade 1 hepatic steatosis"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No SOL"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus/sludge"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Sludge",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No calculus/sludge"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "PANCREAS: Unremarkable."
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "SPLEEN: 10.4 cm. Appears normal."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": 2.0,
+    "status": "Possible",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "A tiny 2 mm non-shadowing echogenic focus in the mid-pole sinus, which could represent a tiny calculus or vascular calcification"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "vascular calcification. No hydronephrosis."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "Normal. No calculus or hydronephrosis."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "Normal. No calculus or hydronephrosis."
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Prostatomegaly",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "N40.0",
+    "evidence_text": "PROSTATE: Enlarged, measuring 4.6 x 4.1 x 3.8 cm (volume ~38 cc)"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No ascites."
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_088 ===
+METADATA:
+Age: 32 | Sex: Female | Style: Telegraphic
+
+RAW REPORT TEXT
+
+MHC - USG abdomen/pelvis
+Liver: N size. Gr I fatty changes. No focal lesion.
+GB: well distended, no stones, wall N.
+CBD 3mm.
+Pan: obscured by overlying bowel gas - not well seen.
+Spleen: N (9.2cm).
+Rt K 10.1cm / Lt K 10.4cm - normal, no calculus, no HDN.
+UB: N.
+Ut: AV, N size, ET 7mm. B/L ovaries N.
+No FF.
+Imp: Grade I fatty liver. Rest NAD.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Steatosis",
+    "grade": "Grade 1",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID39103",
+    "icd10_code": "K76.0",
+    "evidence_text": "Gr I fatty changes"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No focal lesion."
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "no stones"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Bowel Gas Obscuration",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "obscured by overlying bowel gas - not well seen"
+  },
+  {
+    "organ": "Spleen",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Spleen: N (9.2cm)"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Rt K 10.1cm / Lt K 10.4cm - normal"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no calculus"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no HDN"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "UB: N."
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "B/L ovaries N"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No FF"
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_089 ===
+METADATA:
+Age: 49 | Sex: Male | Style: Unstructured
+
+RAW REPORT TEXT
+
+Clinical indication: Executive health screening; asymptomatic.
+
+The liver is normal in size but shows a moderate diffuse increase in echogenicity with blurring of the portal vein radicle walls, in keeping with grade II hepatic steatosis; no space-occupying lesion is identified and biliary radicles are not dilated. The gall bladder, examined in the fasting state, contains no calculus and has a normal wall, and the CBD measures 4 mm. Multiple punctate echogenic foci are noted scattered within the pancreatic parenchyma, mainly in the head and body, consistent with parenchymal calcifications; the main pancreatic duct is mildly dilated, measuring 4 mm in the body, and no peripancreatic fluid is seen. In this setting chronic pancreatitis cannot be excluded and correlation with serum amylase/lipase and MRCP is recommended. The spleen is normal in size (10.6 cm) with homogeneous echotexture. Both kidneys are normal in size with good corticomedullary differentiation, and there is no evidence of calculus or hydronephrosis on either side. The urinary bladder is unremarkable and the prostate is of normal size (16 cc). No free fluid.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Steatosis",
+    "grade": "Grade 2",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID39103",
+    "icd10_code": "K76.0",
+    "evidence_text": "moderate diffuse increase in echogenicity with blurring of the portal vein radicle walls, in keeping with grade II hepatic steatosis"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no space-occupying lesion is identified"
+  },
+  {
+    "organ": "Liver",
+    "finding": "Intrahepatic Biliary Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "biliary radicles are not dilated"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "contains no calculus"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Calcification",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "K86.89",
+    "evidence_text": "Multiple punctate echogenic foci are noted scattered within the pancreatic parenchyma, mainly in the head and body, consistent with parenchymal calcifications"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Ductal Dilatation",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "N/A",
+    "icd10_code": "K86.89",
+    "evidence_text": "the main pancreatic duct is mildly dilated, measuring 4 mm in the body"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Surrounding Collection",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no peripancreatic fluid is seen"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "there is no evidence of calculus or hydronephrosis on either side"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "there is no evidence of calculus or hydronephrosis on either side"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "The urinary bladder is unremarkable"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No free fluid."
+  }
+]
+
+
+
+=== REPORT START: US_SYNTH_090 ===
+METADATA:
+Age: 36 | Sex: Female | Style: Structured
+
+RAW REPORT TEXT
+
+Patient Name: Mrs. Pooja Malhotra        MRN: SHC/24/0087312
+DOB: 14/03/1990     Age/Sex: 36 Y / F
+Date of Scan: 27-10-2026      Ref. by: Corporate Wellness Program
+
+ULTRASOUND ABDOMEN AND PELVIS
+
+Liver - Normal in size (13.1 cm) and echotexture. no focal lesion seen. Portal vein 9 mm.
+Gall bladder - Distended, thin walled, no calculus.
+CBD - Normal calibre (3 mm).
+Pancreas - Normal.
+Spleen - normal size (8.7 cm) and echotexture.
+Right Kidney - 10.2 x 4.1 cm. Normal.
+Left Kidney - 10.5 x 4.3 cm. Normal.
+No hydronephrosis/calculus on either side.
+Urinary Bladder - Well distended, normal.
+Uterus - Anteverted, 7.4 x 4.0 x 3.6 cm, normal. Endometrium 6 mm.
+Ovaries - Right 2.8 x 1.9 cm, Left 3.0 x 2.0 cm; both normal with follicles.
+No free fluid in pelvis.
+
+IMPRESSION: Normal study.
+
+[GROUND TRUTH JSON]
+[
+  {
+    "organ": "Liver",
+    "finding": "Focal Lesion",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "no focal lesion seen"
+  },
+  {
+    "organ": "Gallbladder",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "RID5770",
+    "icd10_code": "N/A",
+    "evidence_text": "thin walled, no calculus"
+  },
+  {
+    "organ": "Pancreas",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Pancreas - Normal."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Right Kidney - 10.2 x 4.1 cm. Normal."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Left Kidney - 10.5 x 4.3 cm. Normal."
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Hydronephrosis",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No hydronephrosis/calculus on either side"
+  },
+  {
+    "organ": "Kidneys",
+    "finding": "Calculus",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No hydronephrosis/calculus on either side"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Urinary Bladder - Well distended, normal."
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "Uterus - Anteverted, 7.4 x 4.0 x 3.6 cm, normal."
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "N/A",
+    "evidence_text": "both normal with follicles"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Free Fluid",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Negated",
+    "radlex_id": "N/A",
+    "icd10_code": "N/A",
+    "evidence_text": "No free fluid in pelvis"
+  },
+  {
+    "organ": "Pelvis",
+    "finding": "Unremarkable Study",
+    "grade": "N/A",
+    "size_mm": null,
+    "status": "Affirmed",
+    "radlex_id": "RID28473",
+    "icd10_code": "Z00.00",
+    "evidence_text": "IMPRESSION: Normal study."
+  }
+]

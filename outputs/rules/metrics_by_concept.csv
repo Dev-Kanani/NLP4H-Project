@@ -1,0 +1,43 @@
+organ,concept,gold,pred,tp,fp,fn,precision,recall,f1
+Gallbladder,Calculus,72,71,71,0,1,1.0,0.9861111111111112,0.993006993006993
+Gallbladder,Pericholecystic Fluid,54,53,53,0,1,1.0,0.9814814814814815,0.9906542056074767
+Gallbladder,Wall Thickening,49,47,47,0,2,1.0,0.9591836734693877,0.9791666666666666
+Gallbladder,Sonographic Murphy Sign,12,12,12,0,0,1.0,1.0,1.0
+Gallbladder,Unremarkable,9,6,6,0,3,1.0,0.6666666666666666,0.8
+Gallbladder,Sludge,9,9,9,0,0,1.0,1.0,1.0
+Gallbladder,CBD Dilatation,9,0,0,0,9,0.0,0.0,0.0
+Gallbladder,Cholecystectomy Status,2,0,0,0,2,0.0,0.0,0.0
+Gallbladder,Polyp,2,2,2,0,0,1.0,1.0,1.0
+Global,Unremarkable Study,8,6,6,0,2,1.0,0.75,0.8571428571428571
+Kidneys,Hydronephrosis,90,74,72,2,18,0.972972972972973,0.8,0.8780487804878049
+Kidneys,Calculus,89,82,78,4,11,0.9512195121951219,0.8764044943820225,0.912280701754386
+Kidneys,Cortical Cyst,19,16,16,0,3,1.0,0.8421052631578947,0.9142857142857143
+Kidneys,Solid Component,13,12,11,1,2,0.9166666666666666,0.8461538461538461,0.8799999999999999
+Kidneys,Septation,10,9,8,1,2,0.8888888888888888,0.8,0.8421052631578948
+Kidneys,Unremarkable,9,7,6,1,3,0.8571428571428571,0.6666666666666666,0.75
+Kidneys,Bowel Gas Obscuration,1,0,0,0,1,0.0,0.0,0.0
+Kidneys,Focal Lesion,1,0,0,0,1,0.0,0.0,0.0
+Liver,Focal Lesion,73,71,71,0,2,1.0,0.9726027397260274,0.9861111111111112
+Liver,Biliary Dilatation,61,49,49,0,12,1.0,0.8032786885245902,0.8909090909090909
+Liver,Steatosis,34,35,34,1,0,0.9714285714285714,1.0,0.9855072463768115
+Liver,Unremarkable,8,7,7,0,1,1.0,0.875,0.9333333333333333
+Liver,Hepatomegaly,5,5,5,0,0,1.0,1.0,1.0
+Liver,Hepatic Cyst,2,0,0,0,2,0.0,0.0,0.0
+Liver,Hemangioma,1,0,0,0,1,0.0,0.0,0.0
+Pancreas,Focal Lesion,50,50,50,0,0,1.0,1.0,1.0
+Pancreas,Unremarkable,31,28,23,5,8,0.8214285714285714,0.7419354838709677,0.7796610169491526
+Pancreas,Ductal Dilatation,8,0,0,0,8,0.0,0.0,0.0
+Pancreas,Bowel Gas Obscuration,6,6,5,1,1,0.8333333333333334,0.8333333333333334,0.8333333333333334
+Pancreas,Surrounding Collection,5,5,5,0,0,1.0,1.0,1.0
+Pancreas,Calcification,4,4,4,0,0,1.0,1.0,1.0
+Pelvis,Free Fluid,72,70,70,0,2,1.0,0.9722222222222222,0.9859154929577464
+Pelvis,Unremarkable,13,0,0,0,13,0.0,0.0,0.0
+Pelvis,Uterine Fibroid,6,6,6,0,0,1.0,1.0,1.0
+Pelvis,Pelvic Mass,3,3,3,0,0,1.0,1.0,1.0
+Pelvis,Bladder Wall Thickening,3,0,0,0,3,0.0,0.0,0.0
+Pelvis,Prostatomegaly,3,1,1,0,2,1.0,0.3333333333333333,0.5
+Pelvis,Ovarian Cyst,3,1,1,0,2,1.0,0.3333333333333333,0.5
+Spleen,Focal Lesion,54,54,54,0,0,1.0,1.0,1.0
+Spleen,Unremarkable,22,12,11,1,11,0.9166666666666666,0.5,0.6470588235294118
+Spleen,Splenomegaly,2,2,2,0,0,1.0,1.0,1.0
+Spleen,Accessory Spleen,1,0,0,0,1,0.0,0.0,0.0

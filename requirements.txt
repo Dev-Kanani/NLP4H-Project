@@ -1,0 +1,16 @@
+# Core pipeline (CPU only, no GPU or model downloads)
+pydantic>=2.6
+pandas>=2.1
+numpy>=1.26
+
+# Dashboard
+streamlit>=1.45
+plotly>=5.20
+
+# Tests
+pytest>=8.0
+
+# Optional - only for the in-process LLM backend (--backend transformers); Ollama/vLLM need nothing extra here
+# transformers>=4.44
+# torch>=2.3
+# accelerate>=0.33

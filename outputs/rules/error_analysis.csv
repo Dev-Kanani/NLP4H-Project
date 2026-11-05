@@ -1,0 +1,148 @@
+report_id,error,key,style,source
+US_SYNTH_001,FP,Pancreas | Unremarkable | Affirmed,Structured,original
+US_SYNTH_006,FP,Pancreas | Unremarkable | Affirmed,Structured,original
+US_SYNTH_008,FP,Kidneys | Hydronephrosis | Negated,Telegraphic,original
+US_SYNTH_011,FP,Pancreas | Unremarkable | Affirmed,Structured,original
+US_SYNTH_014,FP,Pancreas | Unremarkable | Affirmed,Structured,original
+US_SYNTH_015,FP,Pancreas | Unremarkable | Affirmed,Structured,original
+US_SYNTH_047,FN,Pancreas | Unremarkable | Affirmed,Telegraphic,original
+US_SYNTH_051,FN,Liver | Biliary Dilatation | Negated,Structured,v2_generated
+US_SYNTH_051,FN,Gallbladder | CBD Dilatation | Negated,Structured,v2_generated
+US_SYNTH_051,FN,Pancreas | Ductal Dilatation | Negated,Structured,v2_generated
+US_SYNTH_051,FN,Kidneys | Hydronephrosis | Negated,Structured,v2_generated
+US_SYNTH_051,FN,Pelvis | Bladder Wall Thickening | Negated,Structured,v2_generated
+US_SYNTH_051,FN,Pelvis | Prostatomegaly | Affirmed,Structured,v2_generated
+US_SYNTH_052,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_052,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_052,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_052,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_052,FN,Pelvis | Free Fluid | Negated,Telegraphic,v2_generated
+US_SYNTH_053,FP,Kidneys | Calculus | Affirmed,Unstructured,v2_generated
+US_SYNTH_053,FP,Kidneys | Hydronephrosis | Affirmed,Unstructured,v2_generated
+US_SYNTH_053,FN,Gallbladder | Pericholecystic Fluid | Negated,Unstructured,v2_generated
+US_SYNTH_053,FN,Gallbladder | CBD Dilatation | Negated,Unstructured,v2_generated
+US_SYNTH_053,FN,Pancreas | Ductal Dilatation | Negated,Unstructured,v2_generated
+US_SYNTH_053,FN,Spleen | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_053,FN,Kidneys | Calculus | Negated,Unstructured,v2_generated
+US_SYNTH_053,FN,Kidneys | Hydronephrosis | Negated,Unstructured,v2_generated
+US_SYNTH_054,FN,Liver | Biliary Dilatation | Negated,Structured,v2_generated
+US_SYNTH_054,FN,Pancreas | Unremarkable | Affirmed,Structured,v2_generated
+US_SYNTH_054,FN,Spleen | Unremarkable | Affirmed,Structured,v2_generated
+US_SYNTH_054,FN,Pelvis | Ovarian Cyst | Affirmed,Structured,v2_generated
+US_SYNTH_055,FN,Pancreas | Ductal Dilatation | Negated,Telegraphic,v2_generated
+US_SYNTH_055,FN,Spleen | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_055,FN,Kidneys | Calculus | Negated,Telegraphic,v2_generated
+US_SYNTH_055,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_055,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_055,FN,Kidneys | Calculus | Affirmed,Telegraphic,v2_generated
+US_SYNTH_056,FN,Liver | Hemangioma | Affirmed,Unstructured,v2_generated
+US_SYNTH_056,FN,Liver | Focal Lesion | Negated,Unstructured,v2_generated
+US_SYNTH_056,FN,Liver | Biliary Dilatation | Negated,Unstructured,v2_generated
+US_SYNTH_057,FP,Kidneys | Calculus | Affirmed,Structured,v2_generated
+US_SYNTH_057,FN,Liver | Focal Lesion | Negated,Structured,v2_generated
+US_SYNTH_057,FN,Liver | Hepatic Cyst | Negated,Structured,v2_generated
+US_SYNTH_057,FN,Liver | Biliary Dilatation | Negated,Structured,v2_generated
+US_SYNTH_057,FN,Gallbladder | Cholecystectomy Status | Affirmed,Structured,v2_generated
+US_SYNTH_057,FN,Gallbladder | CBD Dilatation | Affirmed,Structured,v2_generated
+US_SYNTH_057,FN,Pancreas | Unremarkable | Affirmed,Structured,v2_generated
+US_SYNTH_057,FN,Pancreas | Ductal Dilatation | Negated,Structured,v2_generated
+US_SYNTH_057,FN,Kidneys | Calculus | Negated,Structured,v2_generated
+US_SYNTH_057,FN,Kidneys | Hydronephrosis | Negated,Structured,v2_generated
+US_SYNTH_057,FN,Pelvis | Prostatomegaly | Affirmed,Structured,v2_generated
+US_SYNTH_058,FP,Pancreas | Bowel Gas Obscuration | Negated,Telegraphic,v2_generated
+US_SYNTH_058,FP,Kidneys | Calculus | Affirmed,Telegraphic,v2_generated
+US_SYNTH_058,FP,Kidneys | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_058,FN,Gallbladder | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_058,FN,Spleen | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_058,FN,Pancreas | Bowel Gas Obscuration | Affirmed,Telegraphic,v2_generated
+US_SYNTH_058,FN,Kidneys | Calculus | Possible,Telegraphic,v2_generated
+US_SYNTH_058,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_058,FN,Kidneys | Bowel Gas Obscuration | Affirmed,Telegraphic,v2_generated
+US_SYNTH_058,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_058,FN,Pelvis | Free Fluid | Negated,Telegraphic,v2_generated
+US_SYNTH_059,FN,Gallbladder | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_059,FN,Gallbladder | Calculus | Negated,Unstructured,v2_generated
+US_SYNTH_059,FN,Pancreas | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_059,FN,Kidneys | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_059,FN,Pelvis | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_060,FN,Liver | Biliary Dilatation | Negated,Structured,v2_generated
+US_SYNTH_060,FN,Gallbladder | CBD Dilatation | Negated,Structured,v2_generated
+US_SYNTH_060,FN,Pancreas | Ductal Dilatation | Negated,Structured,v2_generated
+US_SYNTH_060,FN,Spleen | Unremarkable | Affirmed,Structured,v2_generated
+US_SYNTH_061,FN,Liver | Biliary Dilatation | Negated,Telegraphic,v2_generated
+US_SYNTH_061,FN,Spleen | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_061,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_061,FN,Kidneys | Hydronephrosis | Affirmed,Telegraphic,v2_generated
+US_SYNTH_061,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_062,FN,Liver | Biliary Dilatation | Negated,Unstructured,v2_generated
+US_SYNTH_062,FN,Pancreas | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_062,FN,Spleen | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_062,FN,Kidneys | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_062,FN,Kidneys | Calculus | Negated,Unstructured,v2_generated
+US_SYNTH_062,FN,Kidneys | Hydronephrosis | Negated,Unstructured,v2_generated
+US_SYNTH_062,FN,Pelvis | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_062,FN,Global | Unremarkable Study | Affirmed,Unstructured,v2_generated
+US_SYNTH_063,FN,Gallbladder | Wall Thickening | Possible,Structured,v2_generated
+US_SYNTH_063,FN,Gallbladder | CBD Dilatation | Negated,Structured,v2_generated
+US_SYNTH_064,FN,Liver | Biliary Dilatation | Negated,Telegraphic,v2_generated
+US_SYNTH_064,FN,Gallbladder | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_064,FN,Spleen | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Cortical Cyst | Affirmed,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Cortical Cyst | Affirmed,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Calculus | Negated,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Calculus | Negated,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Septation | Negated,Telegraphic,v2_generated
+US_SYNTH_064,FN,Kidneys | Solid Component | Negated,Telegraphic,v2_generated
+US_SYNTH_064,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_065,FP,Liver | Steatosis | Affirmed,Unstructured,v2_generated
+US_SYNTH_065,FN,Gallbladder | CBD Dilatation | Negated,Unstructured,v2_generated
+US_SYNTH_065,FN,Pancreas | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_065,FN,Spleen | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_065,FN,Pelvis | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_066,FN,Liver | Biliary Dilatation | Negated,Structured,v2_generated
+US_SYNTH_066,FN,Gallbladder | Wall Thickening | Affirmed,Structured,v2_generated
+US_SYNTH_066,FN,Gallbladder | CBD Dilatation | Negated,Structured,v2_generated
+US_SYNTH_066,FN,Pancreas | Ductal Dilatation | Negated,Structured,v2_generated
+US_SYNTH_066,FN,Kidneys | Hydronephrosis | Negated,Structured,v2_generated
+US_SYNTH_066,FN,Pelvis | Unremarkable | Affirmed,Structured,v2_generated
+US_SYNTH_068,FN,Spleen | Unremarkable | Affirmed,Unstructured,v2_generated
+US_SYNTH_068,FN,Kidneys | Hydronephrosis | Negated,Unstructured,v2_generated
+US_SYNTH_068,FN,Pelvis | Ovarian Cyst | Affirmed,Unstructured,v2_generated
+US_SYNTH_069,FP,Kidneys | Calculus | Affirmed,Structured,v2_generated
+US_SYNTH_069,FN,Gallbladder | CBD Dilatation | Negated,Structured,v2_generated
+US_SYNTH_069,FN,Pancreas | Ductal Dilatation | Negated,Structured,v2_generated
+US_SYNTH_069,FN,Pelvis | Bladder Wall Thickening | Affirmed,Structured,v2_generated
+US_SYNTH_070,FP,Spleen | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_070,FN,Liver | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_070,FN,Liver | Biliary Dilatation | Negated,Telegraphic,v2_generated
+US_SYNTH_070,FN,Pancreas | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_070,FN,Spleen | Accessory Spleen | Affirmed,Telegraphic,v2_generated
+US_SYNTH_070,FN,Kidneys | Calculus | Negated,Telegraphic,v2_generated
+US_SYNTH_070,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_070,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_071,FN,Liver | Biliary Dilatation | Negated,Unstructured,v2_generated
+US_SYNTH_072,FN,Liver | Biliary Dilatation | Negated,Structured,v2_generated
+US_SYNTH_072,FN,Gallbladder | CBD Dilatation | Negated,Structured,v2_generated
+US_SYNTH_072,FN,Pancreas | Ductal Dilatation | Negated,Structured,v2_generated
+US_SYNTH_072,FN,Kidneys | Calculus | Negated,Structured,v2_generated
+US_SYNTH_072,FN,Kidneys | Hydronephrosis | Negated,Structured,v2_generated
+US_SYNTH_072,FN,Kidneys | Focal Lesion | Negated,Structured,v2_generated
+US_SYNTH_072,FN,Pelvis | Bladder Wall Thickening | Negated,Structured,v2_generated
+US_SYNTH_072,FN,Global | Unremarkable Study | Affirmed,Structured,v2_generated
+US_SYNTH_073,FN,Spleen | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_073,FN,Kidneys | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_073,FN,Kidneys | Calculus | Negated,Telegraphic,v2_generated
+US_SYNTH_073,FN,Kidneys | Hydronephrosis | Negated,Telegraphic,v2_generated
+US_SYNTH_073,FN,Pelvis | Unremarkable | Affirmed,Telegraphic,v2_generated
+US_SYNTH_074,FP,Kidneys | Septation | Affirmed,Unstructured,v2_generated
+US_SYNTH_074,FP,Kidneys | Solid Component | Affirmed,Unstructured,v2_generated
+US_SYNTH_074,FN,Gallbladder | Cholecystectomy Status | Affirmed,Unstructured,v2_generated
+US_SYNTH_074,FN,Kidneys | Cortical Cyst | Affirmed,Unstructured,v2_generated
+US_SYNTH_074,FN,Kidneys | Septation | Negated,Unstructured,v2_generated
+US_SYNTH_074,FN,Kidneys | Solid Component | Negated,Unstructured,v2_generated
+US_SYNTH_074,FN,Kidneys | Hydronephrosis | Negated,Unstructured,v2_generated
+US_SYNTH_075,FN,Liver | Hepatic Cyst | Affirmed,Structured,v2_generated
+US_SYNTH_075,FN,Pancreas | Unremarkable | Affirmed,Structured,v2_generated
+US_SYNTH_075,FN,Pelvis | Unremarkable | Affirmed,Structured,v2_generated

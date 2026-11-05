@@ -1,0 +1,5022 @@
+{
+ "US_SYNTH_051": [
+  {
+   "organ": "Liver",
+   "finding": "Hepatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The liver is enlarged, measuring 17.2 cm"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 2",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "features of Grade II fatty infiltration"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal space occupying lesion"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic biliary radicles are not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or sludge within the lumen"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or sludge within the lumen"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No pericholecystic fluid"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Measures 4 mm at the porta. Not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Main pancreatic duct is not dilated"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Calcification",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calcification or peripancreatic collection"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Surrounding Collection",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calcification or peripancreatic collection"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Corticomedullary differentiation is preserved. No calculus."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or back-pressure changes"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "back-pressure changes; pelvicalyceal system not dilated"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Bladder Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Wall is smooth and not thickened"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Prostatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Mildly enlarged, measuring 4.6 x 3.9 x 3.6 cm"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in the abdomen or pelvis."
+  }
+ ],
+ "US_SYNTH_052": [
+  {
+   "organ": "Liver",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver: NAD"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "GB: well distended, NAD"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc: NAD"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl: 9.2 cm, NAD"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "RK / LK: NAD"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no HDN / calculi"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no HDN / calculi"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB: NAD"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Ut: AV, 7.1 x 3.8 x 4.2 cm, ET 6 mm. NAD"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "B/L Ov: normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No FF."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable Study",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Imp: Normal study."
+  }
+ ],
+ "US_SYNTH_053": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "suggesting mild fatty change of the liver"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "There is no focal lesion"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 14,
+   "status": "Affirmed",
+   "evidence_text": "contains multiple mobile echogenic calculi casting posterior acoustic shadows, the largest measuring approximately 1.4 cm"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "a thin layer of dependent sludge"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Its wall is not thickened at 2.5 mm"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no fluid around it"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "The common bile duct measures 4.2 mm and is not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus is seen within its visualised portion"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "without any ductal dilatation"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The spleen measures 9.8 cm and appears normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "neither shows a calculus or hydronephrosis"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "neither shows a calculus or hydronephrosis"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "There is no ascites."
+  }
+ ],
+ "US_SYNTH_054": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No stones."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "PANCREAS - Normal."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "SPLEEN - Normal (8.7 cm)."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculi, no hydronephrosis on either side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculi, no hydronephrosis on either side."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No fibroid seen."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Ovarian Cyst",
+   "grade": "N/A",
+   "size_mm": 32,
+   "status": "Affirmed",
+   "evidence_text": "Right ovary shows a thin-walled anechoic cyst measuring 3.2 x 2.8 cm"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "POD - no free fluid."
+  }
+ ],
+ "US_SYNTH_055": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus/sludge"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus/sludge"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "MPD not dilated."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl - 10.1 cm, N."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Rt K - 10.3 x 4.6 cm. No calculus."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "PCS not dilated."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 6,
+   "status": "Affirmed",
+   "evidence_text": "6 mm calculus in lower calyx"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no HDN."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites."
+  }
+ ],
+ "US_SYNTH_056": [
+  {
+   "organ": "Liver",
+   "finding": "Hemangioma",
+   "grade": "N/A",
+   "size_mm": 14,
+   "status": "Affirmed",
+   "evidence_text": "homogeneously hyperechoic lesion measuring about 14 mm in segment VI of the right lobe, which shows no internal vascularity on colour Doppler and is consistent with a haemangioma"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no other focal lesion is identified"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "the intrahepatic biliary radicles are not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with a thin wall and no calculi"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear unremarkable"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear unremarkable"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no evidence of calculus, hydronephrosis or cortical cyst"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no evidence of calculus, hydronephrosis or cortical cyst"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no evidence of calculus, hydronephrosis or cortical cyst"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": 21,
+   "status": "Affirmed",
+   "evidence_text": "hypoechoic intramural fibroid in the posterior wall measuring 2.1 x 1.9 cm"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no free fluid in the pouch of Douglas"
+  }
+ ],
+ "US_SYNTH_057": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No mass or cyst seen."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Hepatic Cyst",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No mass or cyst seen."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic biliary radicals are not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Cholecystectomy Status",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Gall bladder is not visualised - surgically removed (post cholecystectomy status)"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "CBD is mildly prominent, measuring 7 mm"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no obstructing calculus seen"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Normal sonographic appearance."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "MPD is not dilated."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 11,
+   "status": "Affirmed",
+   "evidence_text": "A simple anechoic cortical cyst measuring 11 mm"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Septation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "without septation or solid component"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Solid Component",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "without septation or solid component"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 16,
+   "status": "Affirmed",
+   "evidence_text": "thin-walled simple cortical cyst of 1.6 cm diameter"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Calculus - nil."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Pelvicalyceal system is not dilated."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Prostatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Enlarged, measuring 4.9 x 4.3 x 3.9 cm (volume approx. 42 cc)"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites."
+  }
+ ],
+ "US_SYNTH_058": [
+  {
+   "organ": "Liver",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, GB, Spl - NAD."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, GB, Spl - NAD."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, GB, Spl - NAD."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Bowel Gas Obscuration",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc - not seen, obscured by bowel gas."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Possible",
+   "evidence_text": "RK - ? tiny calculus mid pole"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Bowel Gas Obscuration",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "LK - partly obscured by gas"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB, Ut, B/L Ov - WNL."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No FF."
+  }
+ ],
+ "US_SYNTH_059": [
+  {
+   "organ": "Liver",
+   "finding": "Hepatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The liver is enlarged with a span of approximately 18 cm"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 3",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Appearances are those of severe (grade III) hepatic steatosis."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No discrete focal lesion is demonstrable"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Splenomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The spleen is mildly enlarged, measuring 13.5 cm in its long axis"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with uniform echotexture and no focal lesion"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The galbladder is normal"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no stones."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The pancreas appears normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Both kidneys measure within normal limits and look normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculi or hydronephrosis"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculi or hydronephrosis"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The bladder and prostate are unremarkable."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid is seen in the abdomen."
+  }
+ ],
+ "US_SYNTH_060": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Mildly increased echogenicity - Grade I fatty liver."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal SOL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic ducts not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Polyp",
+   "grade": "N/A",
+   "size_mm": 4,
+   "status": "Affirmed",
+   "evidence_text": "A 4 mm echogenic non-shadowing polyp arising from the fundal wall"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculi."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "cbd 3.8 mm, not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Calcification",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calcification, no ductal dilatation."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calcification, no ductal dilatation."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "9.4 cm, appears normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, no hydronephrosis bilaterally."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, no hydronephrosis bilaterally."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": 34,
+   "status": "Affirmed",
+   "evidence_text": "A well defined hypoechoic subserosal fibroid of 3.4 x 3.0 cm"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Pouch of Douglas: No free fluid."
+  }
+ ],
+ "US_SYNTH_061": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "mildly bright echotexture s/o Gr I fatty liver"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus / sludge"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus / sludge"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc - NAD"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl - 9.6 cm, normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 4,
+   "status": "Affirmed",
+   "evidence_text": "4 mm calculus upper pole calyx"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "upper pole calyx. No HDN"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 9,
+   "status": "Affirmed",
+   "evidence_text": "9 mm calculus at PUJ / renal pelvis"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "with mild HDN"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Prostate - ~18 cc, NAD"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid"
+  }
+ ],
+ "US_SYNTH_062": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no focal lesion is seen"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "the biliary radicles are not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with a thin wall and no calculi"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas, spleen and both kidneys appear normal"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas, spleen and both kidneys appear normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas, spleen and both kidneys appear normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculus or hydronephrosis"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculus or hydronephrosis"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The urinary bladder, uterus (7.4 x 3.6 x 4.1 cm, endometrium 6 mm) and both ovaries are unremarkable"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no free fluid in the pelvis"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable Study",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "No sonographic abnormality detected."
+  }
+ ],
+ "US_SYNTH_063": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 2",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Diffusely raised parenchymal echogenicity with partial obscuration of the diaphragm and portal venous walls - fatty infiltration, grade II"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Wall appears thickened, measuring 4.5 mm, likely physiological due to contraction"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus within."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "CBD: 4 mm, not dilated"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Surrounding Collection",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No peripancreatic collection."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spleen: 10.2 cm. Unremarkable."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on either side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on either side."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites."
+  }
+ ],
+ "US_SYNTH_064": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR nt dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "GB: well distended, no calculi"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "no calculi, NAD."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas : NAD"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spleen 8.9 cm, NAD."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 8,
+   "status": "Affirmed",
+   "evidence_text": "8 mm simple cortical cyst at mid pole"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "8 mm simple cortical cyst at mid pole. No calculus/HDN"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "8 mm simple cortical cyst at mid pole. No calculus/HDN"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 25,
+   "status": "Affirmed",
+   "evidence_text": "Anechoic cortical cyst at upper pole 2.5 x 2.2 cm"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Septation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no septations or solid component"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Solid Component",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no septations or solid component"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no septations or solid component. No calculus/HDN"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no septations or solid component. No calculus/HDN"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB: partially filled, NAD."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid."
+  }
+ ],
+ "US_SYNTH_065": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Possible",
+   "evidence_text": "borderline increase in parenchymal echogenicity, ? early fatty change"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no focal lesion within it"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Gall bladder is distended and anechoic without stones"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "the CBD is not dilated"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The pancreas and spleen are normal."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The pancreas and spleen are normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculi or pelvicalyceal dilatation"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculi or pelvicalyceal dilatation"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Bladder and prostate are normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid is seen."
+  }
+ ],
+ "US_SYNTH_066": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Parenchymal echogenicity is mildly increased with preserved visualisation of the portal vein walls and diaphragm, consistent with grade I fatty infiltration"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal space-occupying lesion."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic biliary radicles are not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 18,
+   "status": "Affirmed",
+   "evidence_text": "Multiple mobile echogenic calculi with posterior acoustic shadowing are noted in the lumen, the largest measuring approximately 18 mm"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Gall bladder wall shows diffuse thickening, measuring 4 mm."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No pericholecystic fluid collection."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sonographic Murphy Sign",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Sonographic Murphy's sign is negative."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Measures 4.2 mm at the porta; not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Main pancreatic duct is not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion or calcification."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Calcification",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion or calcification."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Homogeneous echotexture. No focal lesion."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Pelvicalyceal system is not dilated."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No renal calculus."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No fibroid seen."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Both ovaries appear normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in the abdomen or pelvis."
+  }
+ ],
+ "US_SYNTH_067": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "mildly echogenic, Gr-I fatty liver"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  }
+ ],
+ "US_SYNTH_068": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "shows no focal lesion"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "its wall is not thickened"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no calculus or sludge"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no calculus or sludge"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas, as far as seen, is unremarkable."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spleen measures 9.1 cm and is normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "have no calculi"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no dilatation of the collecting systems"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": 18,
+   "status": "Affirmed",
+   "evidence_text": "a well-defined hypoechoic intramural fibroid of 1.8 x 1.5 cm in the posterior wall"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Ovarian Cyst",
+   "grade": "N/A",
+   "size_mm": 41,
+   "status": "Affirmed",
+   "evidence_text": "Arising from the left ovary there is a complex cystic lesion measuring 4.1 x 3.3 cm"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological."
+  }
+ ],
+ "US_SYNTH_069": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Mild diffuse increase in echogenicity - Grade 1 hepatic steatosis"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL seen."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Lumen anechoic. No calculus."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "CBD -  Not dilated (3.6 mm)"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "duct not dilated"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spleen - 10.0 cm, unremarkable."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 5,
+   "status": "Affirmed",
+   "evidence_text": "A 5 mm echogenic focus with distal shadowing is seen in the lower calyx, s/o renal calculus"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Mild dilatation of the pelvicalyceal system (mild hydronephrosis)"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Normal parenchyma. No calculus."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No hydronephrosis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Bladder Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Wall is mildly thickened (5.5 mm) and trabeculated."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Pelvic Mass",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No intravesical mass."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Prostatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Prostate - Enlarged, measuring 5.1 x 4.6 x 4.4 cm, volume approx. 55 cc"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites or free fluid."
+  }
+ ],
+ "US_SYNTH_070": [
+  {
+   "organ": "Liver",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver: WNL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR not dil."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculi/sludge"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculi/sludge"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc: WNL."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Accessory Spleen",
+   "grade": "N/A",
+   "size_mm": 9,
+   "status": "Affirmed",
+   "evidence_text": "9 mm splenule at hilum."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus/HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus/HDN."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB, Ut (AV, 7.6 x 3.9 x 4.2 cm, ET 8 mm), B/L Ov: NAD."
+  }
+ ],
+ "US_SYNTH_071": [
+  {
+   "organ": "Liver",
+   "finding": "Hepatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The liver is enlarged"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 2",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "appearances are in keeping with grade II fatty infiltration"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal space-occupying lesion is made out within the liver"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "The intrahepatic biliary radicles are not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no calculus or sludge within its lumen"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no calculus or sludge within its lumen"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Surrounding Collection",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no peripancreatic collection"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "homogeneous echotexture without focal lesion"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 7,
+   "status": "Affirmed",
+   "evidence_text": "A small anechoic simple cortical cyst measuring about 7 mm is noted in the mid pole of the left kidney"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "There is no evidence of calculus or hydronephrosis on either side"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "There is no evidence of calculus or hydronephrosis on either side"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid is seen in the peritoneal cavity"
+  }
+ ],
+ "US_SYNTH_072": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion is seen."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No fatty infiltration."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "INTRAHEPATIC BILIARY RADICLES: Not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, sludge or polyp."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, sludge or polyp."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Polyp",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, sludge or polyp."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No pericholecystic fluid."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sonographic Murphy Sign",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Sonographic Murphy's sign is negative."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "COMMON BILE DUCT: Measures 3 mm; not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion or calcification."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Calcification",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion or calcification."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Main pancreatic duct is not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Surrounding Collection",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No peripancreatic collection."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "SPLEEN: Normal in size (9.2 cm) and echotexture. No focal lesion."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus. No hydronephrosis. No cortical cyst."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus. No hydronephrosis. No cortical cyst."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus. No hydronephrosis. No cortical cyst."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "CMD maintained. No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "CMD maintained. No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal renal lesion."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Bladder Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Wall is smooth and not thickened."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Myometrial echotexture homogeneous; no fibroid."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Ovarian Cyst",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ovarian cyst or adnexal mass."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Pelvic Mass",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ovarian cyst or adnexal mass."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in the abdomen or pelvis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable Study",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Normal ultrasound study of the abdomen and pelvis."
+  }
+ ],
+ "US_SYNTH_073": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver: N size, gr I fatty change."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "echogenic sludge in dependent part"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculi."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc, Spl - NAD."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc, Spl - NAD."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "B/L kidneys - NAD"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "B/L kidneys - NAD, no calculus/HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "B/L kidneys - NAD, no calculus/HDN."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB - N."
+  }
+ ],
+ "US_SYNTH_074": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 2",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "consistent with grade 2 hepatic steatosis"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no focal lesion is identified"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Cholecystectomy Status",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Gall bladder is not visualised - surgically absent (post-cholecystectomy status)"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen are unremarkable."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen are unremarkable."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 9,
+   "status": "Affirmed",
+   "evidence_text": "a simple cortical cyst of 9 mm is seen at the upper pole of the right kidney"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 12,
+   "status": "Affirmed",
+   "evidence_text": "another of 1.2 cm at the lower pole of the left kidney"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Septation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "neither showing septations or solid components"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Solid Component",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "neither showing septations or solid components"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No renal calculus"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no dilatation of the pelvicalyceal systems bilaterally"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites."
+  }
+ ],
+ "US_SYNTH_075": [
+  {
+   "organ": "Liver",
+   "finding": "Hepatic Cyst",
+   "grade": "N/A",
+   "size_mm": 12,
+   "status": "Affirmed",
+   "evidence_text": "A well-defined anechoic cyst measuring 12 x 10 mm is noted in segment VI, thin walled, with posterior acoustic enhancement and no internal echoes - s/o simple hepatic cyst"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No IHBR dilatation."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Gall bladder -  Distended, normal wall. No calculus."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas -  Normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / hydronephrosis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Urinary bladder -  Well distended, normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid."
+  }
+ ],
+ "US_SYNTH_076": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "mildly incr. echogenicity - Gr-1 fatty liver"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 8,
+   "status": "Affirmed",
+   "evidence_text": "Single calculus ~8 mm impacted at neck, non-mobile on change of posture."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No pericholecystic fluid."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sonographic Murphy Sign",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Sono Murphy -ve."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc - WNL."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl - 10.1 cm, WNL."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "B/L normal CMD, no calculus, no HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "B/L normal CMD, no calculus, no HDN."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no discrete fibroid"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Adenomyosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Possible",
+   "evidence_text": "? Adenomyosis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in POD."
+  }
+ ],
+ "US_SYNTH_077": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no focal lesion"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no intrahepatic biliary dilatation"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no stones within"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "the CBD is not dilated"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear normal."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 5,
+   "status": "Affirmed",
+   "evidence_text": "In the right kidney, two small echogenic foci with distal acoustic shadowing, the larger measuring 5 mm and the smaller 3 mm, are seen in the lower and mid calyces, consistent with non-obstructing renal calculi"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 7,
+   "status": "Affirmed",
+   "evidence_text": "The left kidney shows a single shadowing calculus of 7 mm in the lower pole calyx."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Neither kidney shows hydronephrosis"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Bladder Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Urinary bladder is well distended with no wall thickening."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "There is no free fluid."
+  }
+ ],
+ "US_SYNTH_078": [
+  {
+   "organ": "Liver",
+   "finding": "Hepatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver is mildly enlarged"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no evidence of fatty infiltration"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no evidence of fatty infiltration. No focal lesion."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic biliary radicles: not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Gall bladder: physiologically distended, no calculi"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "wall not thickened"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Bowel Gas Obscuration",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Tail could not be assessed due to overlying bowel gas."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "9.6 cm, normal echotexture, no focal lesion."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Right kidney: 10.2 x 4.4 cm. Normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Left kidney: 10.6 x 4.7 cm. Normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on either side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on either side."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Urinary bladder: Normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Ovarian Cyst",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Ovaries: Both normal in size; no cyst."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in the pouch of Douglas."
+  }
+ ],
+ "US_SYNTH_079": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 3",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Markedly incr echogenicity, poor visualisation of diaphragm & PV walls -> Gr III fatty liver."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Gr III fatty liver. No SOL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR nt dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "GB: well distended, no calculi."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pan: N."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Splenomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl: enlarged, 14.2 cm"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "homogenous. no SOL."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Trace free fluid in morisons pouch."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "RK: 10.8 cm, WNL."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "LK: 11.0 cm, WNL."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "LK: 11.0 cm, WNL. no calculus, no HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus, no HDN."
+  }
+ ],
+ "US_SYNTH_080": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Liver, pancreas and spleen are normal in size and echotexture with no focal lesion."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Liver, pancreas and spleen are normal in size and echotexture with no focal lesion."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Liver, pancreas and spleen are normal in size and echotexture with no focal lesion."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Polyp",
+   "grade": "N/A",
+   "size_mm": 3,
+   "status": "Possible",
+   "evidence_text": "A tiny 3 mm non-shadowing, non-mobile echogenic focus is seen arising from the anterior wall of the gallbladder, likely a small polyp"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "likely a small polyp; no calculus."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Both kidneys, urinary bladder, uterus and ovaries show normal sonographic appearance."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Both kidneys, urinary bladder, uterus and ovaries show normal sonographic appearance."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid."
+  }
+ ],
+ "US_SYNTH_081": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Diffusely bright liver parenchyma with mild posterior attenuation"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion is seen."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic biliary radicles are not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Wall is not thickened."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or sludge within the lumen."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or sludge within the lumen."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "normal in size and echopattern. No focal lesion."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on either side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on either side."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in the abdomen or pelvis."
+  }
+ ],
+ "US_SYNTH_082": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR not dil."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculi"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc - NAD."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl - 9.6 cm, NAD."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / HDN."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": 38,
+   "status": "Affirmed",
+   "evidence_text": "Multiple intramural & subserosal fibroids, largest ~3.8 x 3.1 cm in post wall (fundus)."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Ovarian Cyst",
+   "grade": "N/A",
+   "size_mm": 26,
+   "status": "Possible",
+   "evidence_text": "Lt Ov - 2.6 x 2.1 cm well defined echogenic lesion with post acoustic shadowing ? dermoid cyst."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in POD."
+  }
+ ],
+ "US_SYNTH_083": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no focal lesion"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "the intrahepatic biliary radicles are not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "without any calculus, sludge or polyp"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "without any calculus, sludge or polyp"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Polyp",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "without any calculus, sludge or polyp"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Surrounding Collection",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no peripancreatic collection"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "a non-dilated main pancreatic duct"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "is homogeneous with no focal lesion"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "neither kidney shows calculus, hydronephrosis or a cortical cyst"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "neither kidney shows calculus, hydronephrosis or a cortical cyst"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "neither kidney shows calculus, hydronephrosis or a cortical cyst"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Bladder Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with a smooth, non-thickened wall"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "There is no ascites"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable Study",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "no sonographic abnormality is detected in the abdomen and pelvis"
+  }
+ ],
+ "US_SYNTH_084": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 2",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Parenchymal echogenicity is moderately increased with partial obscuration of the portal venous walls - Grade II fatty infiltration."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal mass lesion."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 6,
+   "status": "Affirmed",
+   "evidence_text": "multiple small mobile calculi, the largest measuring 6 mm"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No pericholecystic fluid."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "CBD measures 4.5 mm; not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas appears normal."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Normal echotexture, no focal lesion."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 14,
+   "status": "Affirmed",
+   "evidence_text": "A simple anechoic cortical cyst measuring 14 x 12 mm is seen at the upper pole"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Septation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no septations or solid component"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Solid Component",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no septations or solid component"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on this side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis on this side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Normal size and cortical thickness. No calculus."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No hydronephrosis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid."
+  }
+ ],
+ "US_SYNTH_085": [
+  {
+   "organ": "Liver",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver: WNL"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "GB: WNL"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc: WNL"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl :WNL"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "B/L K: WNL"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB: WNL"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Prost: WNL"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable Study",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Imp: NAD"
+  }
+ ],
+ "US_SYNTH_086": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no focal lesion"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no stones"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "its wall is not thickned"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear normal."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculus or back pressure changes"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculus or back pressure changes"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "shows mild dilatation of the pelvicalyceal system with an AP pelvic diameter of 14 mm"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus is seen along the visualised course of the left urinary tract"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The uterus is anteverted and appears normal"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "both ovaries are normal"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid is noted in the pelvis."
+  }
+ ],
+ "US_SYNTH_087": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "s/o grade 1 hepatic steatosis"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus/sludge."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus/sludge."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "PANCREAS: Unremarkable."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Appears normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 2,
+   "status": "Possible",
+   "evidence_text": "A tiny 2 mm non-shadowing echogenic focus in the mid-pole sinus, which could represent a tiny calculus or vascular calcification."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "vascular calcification. No hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Normal. No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Normal. No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Prostatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "PROSTATE: Enlarged, measuring 4.6 x 4.1 x 3.8 cm (volume ~38 cc)"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites."
+  }
+ ],
+ "US_SYNTH_088": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Gr I fatty changes."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no stones"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Bowel Gas Obscuration",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pan: obscured by overlying bowel gas - not well seen."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spleen: N (9.2cm)."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Rt K 10.1cm / Lt K 10.4cm - normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no HDN"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB: N."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "B/L ovaries N."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No FF."
+  }
+ ],
+ "US_SYNTH_089": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 2",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "shows a moderate diffuse increase in echogenicity with blurring of the portal vein radicle walls, in keeping with grade II hepatic steatosis"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no space-occupying lesion is identified"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "biliary radicles are not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "contains no calculus"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Calcification",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Multiple punctate echogenic foci are noted scattered within the pancreatic parenchyma, mainly in the head and body, consistent with parenchymal calcifications"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "the main pancreatic duct is mildly dilated, measuring 4 mm in the body"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Surrounding Collection",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no peripancreatic fluid is seen"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no evidence of calculus or hydronephrosis on either side"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no evidence of calculus or hydronephrosis on either side"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "The urinary bladder is unremarkable"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid."
+  }
+ ],
+ "US_SYNTH_090": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no focal lesion seen."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Distended, thin walled, no calculus."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas - Normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Right Kidney - 10.2 x 4.1 cm. Normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Left Kidney - 10.5 x 4.3 cm. Normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No hydronephrosis/calculus on either side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No hydronephrosis/calculus on either side."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Urinary Bladder - Well distended, normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Uterus - Anteverted, 7.4 x 4.0 x 3.6 cm, normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "both normal with follicles."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in pelvis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable Study",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "IMPRESSION: Normal study."
+  }
+ ],
+ "US_SYNTH_091": [
+  {
+   "organ": "Liver",
+   "finding": "Hepatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver - enlarged, 17.2 cm."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 2",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Gr II fatty liver"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal SOL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 22,
+   "status": "Affirmed",
+   "evidence_text": "Single mobile calculus 2.2 cm in lumen w/ PAS."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No pericholecystic fluid."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc - NAD."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 19,
+   "status": "Affirmed",
+   "evidence_text": "Simple cortical cyst 1.9 x 1.7 cm upper pole"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Septation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no septa/solid comp"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Solid Component",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no septa/solid comp"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No HDN."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Prostatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Prostate - enlarged, 4.3 x 3.9 x 3.4 cm, vol ~30 cc."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites."
+  }
+ ],
+ "US_SYNTH_092": [
+  {
+   "organ": "Liver",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, gall bladder, pancreas, spleen and both kidneys appear normal on this scan"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, gall bladder, pancreas, spleen and both kidneys appear normal on this scan"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, gall bladder, pancreas, spleen and both kidneys appear normal on this scan"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, gall bladder, pancreas, spleen and both kidneys appear normal on this scan"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver, gall bladder, pancreas, spleen and both kidneys appear normal on this scan"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "the urinary bladder, uterus and both ovaries are unremarkable"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no free fluid in the pelvis"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable Study",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Normal ultrasound abdomen and pelvis."
+  }
+ ],
+ "US_SYNTH_093": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Parenchymal echogenicity is mildly raised, consistent with grade I fatty infiltration."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": 18,
+   "status": "Affirmed",
+   "evidence_text": "An ill-defined hypoechoic lesion measuring approx. 18 x 15 mm is noted in segment VIII"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic biliary radicles are not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculi or sludge."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculi or sludge."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Wall is not thickened."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "MPD not dilated."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spleen: 9.8 cm. Unremarkable."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, hydronephrosis or mass on either side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, hydronephrosis or mass on either side."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, hydronephrosis or mass on either side."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid in the abdomen or pelvis."
+  }
+ ],
+ "US_SYNTH_094": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "mildly bright - Gr 1 fatty"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "IHBR - not dil."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pan, Spl: NAD."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pan, Spl: NAD."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus/HDN b/l"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus/HDN b/l"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Ovarian Cyst",
+   "grade": "N/A",
+   "size_mm": 20,
+   "status": "Affirmed",
+   "evidence_text": "Rt ov: anechoic thin walled cyst 2.0 x 1.8 cm - simple cyst"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No FF."
+  }
+ ],
+ "US_SYNTH_095": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no focal lesion"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "the intrahepatic biliary radicals are not dilated"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus within it"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear normal."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Pancreas and spleen appear normal."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculus or hydronephrosis"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "with no calculus or hydronephrosis"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "shows moderate hydronephrosis with dilated pelvis and calyces"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": 11,
+   "status": "Affirmed",
+   "evidence_text": "an echogenic calculus of 11 mm with posterior acoustic shadowing impacted at the pelviureteric junction"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "There is no ascites."
+  }
+ ],
+ "US_SYNTH_096": [
+  {
+   "organ": "Liver",
+   "finding": "Hepatomegaly",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver is enlarged, measuring 18.4 cm in the right midclavicular line"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 3",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "consistent with grade III fatty liver"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No discrete focal lesion is made out"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Intrahepatic biliary radicles are not dilated."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Polyp",
+   "grade": "N/A",
+   "size_mm": 5,
+   "status": "Affirmed",
+   "evidence_text": "the largest measuring 5 mm along the anterior wall of the body — features suggestive of cholesterol polyps"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus. No pericholecystic collection."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Pericholecystic Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No pericholecystic collection."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Ductal Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Main pancreatic duct is not dilated."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Calcification",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calcification."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Normal echotexture. No focal lesion."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus. No hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus seen."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Pelvicalyceal system not dilated."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Bladder Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "Wall is smooth and not thickened."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Uterine Fibroid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no fibroid seen"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Ovarian Cyst",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No cyst or mass."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Pelvic Mass",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No cyst or mass."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites or pelvic free fluid."
+  }
+ ],
+ "US_SYNTH_097": [
+  {
+   "organ": "Liver",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Liver: WNL."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No SOL."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Adenomyomatosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Fundal wall shows few echogenic foci with comet-tail artefacts - s/o adenomyomatosis (fundal type)."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculi."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc/Spl: normal"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc/Spl: normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, no HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, no HDN."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB: normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Prostate: normal (14 cc)."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid."
+  }
+ ],
+ "US_SYNTH_098": [
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "without any focal lesion"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no intra hepatic biliary dilatation"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there are no stones or sludge in it"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Sludge",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there are no stones or sludge in it"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "the common bile duct is not dilated"
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "pancreas appears normal"
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "the spleen (9.4 cm) is also normal"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no calculus and no backpressure changes on either side"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "there is no calculus and no backpressure changes on either side"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Bladder Wall Thickening",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "shows no wall thickening"
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "A minimal amount of free fluid is noted in the pouch of Douglas, likely physiological given the mid-cycle timing."
+  }
+ ],
+ "US_SYNTH_099": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Grade I hepatic steatosis"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal hepatic lesion."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus, no polyp"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Polyp",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "no calculus, no polyp"
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "CBD Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "CBD – Not dilated (3 mm)."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "PANCREAS – Unremarkable."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Angiomyolipoma",
+   "grade": "N/A",
+   "size_mm": 8,
+   "status": "Possible",
+   "evidence_text": "A well-defined hyperechoic cortical lesion of 8 x 6 mm is seen in the mid pole, without posterior shadowing or internal vascularity; likely angiomyolipoma."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus or hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, no hydronephrosis."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus, no hydronephrosis."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "PROSTATE – 3.6 x 2.9 x 2.7 cm (vol ~15 cc). Normal."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No ascites."
+  }
+ ],
+ "US_SYNTH_100": [
+  {
+   "organ": "Liver",
+   "finding": "Steatosis",
+   "grade": "Grade 1",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "mild diffuse ↑ echogenicity - fatty liver gr I"
+  },
+  {
+   "organ": "Liver",
+   "finding": "Focal Lesion",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No focal lesion."
+  },
+  {
+   "organ": "Liver",
+   "finding": "Intrahepatic Biliary Dilatation",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No IHBRD."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Cholecystectomy Status",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "GB: not visualised - post cholecystectomy status."
+  },
+  {
+   "organ": "Gallbladder",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus in visualised CBD."
+  },
+  {
+   "organ": "Pancreas",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Panc: NAD."
+  },
+  {
+   "organ": "Spleen",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "Spl : 9.1cm, NAD"
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 31,
+   "status": "Affirmed",
+   "evidence_text": "Multiple anechoic cortical cysts, largest 3.1 x 2.8 cm at upper pole - simple (Bosniak I)."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus. No HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No HDN."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Cortical Cyst",
+   "grade": "N/A",
+   "size_mm": 15,
+   "status": "Affirmed",
+   "evidence_text": "2-3 small simple cortical cysts, largest 1.5 cm in interpolar region."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Calculus",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / hydro."
+  },
+  {
+   "organ": "Kidneys",
+   "finding": "Hydronephrosis",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No calculus / hydro."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Unremarkable",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Affirmed",
+   "evidence_text": "UB: partially filled, NAD."
+  },
+  {
+   "organ": "Pelvis",
+   "finding": "Free Fluid",
+   "grade": "N/A",
+   "size_mm": null,
+   "status": "Negated",
+   "evidence_text": "No free fluid."
+  }
+ ]
+}
