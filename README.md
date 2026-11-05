@@ -73,21 +73,64 @@ streamlit run dashboard/app.py
 
 The dashboard includes 4 operational views:
 
-### Figure 1: Interactive Report Structurer
-*Live clinical inspection showing automatic organ sectionization, PHI redaction, and color-coded evidence spans overlaid directly on the de-identified report.*
-![Figure 1: Interactive Report Structurer](page1.png)
+### Figure 1: Interactive Report Structurer & Coded Findings Table
+*Annotated view of report structuring: (1) Assistive Follow-Up Triage banner, (2) Verbatim source evidence highlighting in red, (3) Anatomical organ sectionizer, (4) True positive Steatosis with RadLex (`RID39103`) and ICD-10-CM (`K76.0`) codes, and (5) ConText negation assertion.*
+![Figure 1: Interactive Report Structurer with Callouts](d5_annotated.png)
 
-### Figure 2: Structured Findings Table with Clinical Codes & Triage
-*Granular entity extraction mapping each sonographic finding to standard RadLex ontology IDs, ICD-10-CM diagnostic codes, and actionable follow-up triage tiers.*
-![Figure 2: Structured Findings Table](d5.png)
+### Figure 2: Workforce Population Health Analytics
+*Epidemiological cohort dashboard with callouts: (1) Dynamic demographic slicers, (2) Population disease KPIs, (3) Prevalence with 95% Wilson confidence intervals, and (4) Actionable follow-up triage distribution.*
+![Figure 2: Workforce Population Health Analytics with Callouts](page2_annotated.png)
 
-### Figure 3: Workforce Population Health Analytics
-*Epidemiological cohort dashboard showing demographic distributions, condition prevalence with 95% Wilson score confidence intervals, and follow-up tier distributions.*
-![Figure 3: Workforce Population Health Analytics](page2.png)
+### Figure 3: Evaluation Benchmark Suite
+*Benchmark performance dashboard: (1) Primary Micro P/R/F1 with 1,000 cluster-bootstrap resamples, (2) Concept vs Strict surface matching, and (3) Style-stratified robustness across Structured, Telegraphic, and Unstructured formats.*
+![Figure 3: Evaluation Suite with Callouts](page3_annotated.png)
 
-### Figure 4: Evaluation Benchmark Suite
-*Comprehensive evaluation suite presenting micro Precision/Recall/F1 with 95% cluster-bootstrap confidence intervals, style-stratified performance, assertion confusion, and error diagnostics.*
-![Figure 4: Evaluation Suite](page3.png)
+---
+
+### 2.1 Clinical Extraction Examples: Correct Findings vs. Baseline Errors
+
+To illustrate how the system functions and why static regular expressions fail on unseen clinical text, here are concrete examples from our dataset:
+
+#### Case 1: Correct Extraction (True Positive) — Rule Baseline
+* **Source Report (`US_SYNTH_001`):**
+  > *"LIVER: Normal in size with mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis. No focal hepatic lesion."*
+* **Ground Truth:**
+  `Organ: Liver | Finding: Steatosis | Status: Affirmed | Grade: Grade 1 | Evidence: "mildly increased diffuse parenchymal echogenicity, consistent with Grade 1 hepatic steatosis"`
+* **System Extraction:** **CORRECT (True Positive)**
+  * **Finding & Status:** `Steatosis` (`Affirmed`), `Grade 1`
+  * **Ontology Grounding:** Mapped to RadLex `RID39103` & ICD-10-CM `K76.0`
+  * **Follow-Up Triage:** Assigned **Tier 2 (Routine Preventive Tracking)**
+  * *Why it succeeded:* Standard clinical phrasing matches the regex patterns calibrated on the initial reports.
+
+#### Case 2: Missed Finding (False Negative) — Rule Baseline Failure on Unseen Phrasing
+* **Source Report (`US_SYNTH_051`):**
+  > *"Prostate: Mildly enlarged, measuring 4.6 x 3.9 x 3.6 cm with an estimated volume of 33 cc... IMPRESSION: 2. Mild prostatomegaly (approx. 33 cc)."*
+* **Ground Truth:**
+  `Organ: Pelvis | Finding: Prostatomegaly | Status: Affirmed | Evidence: "Mildly enlarged... Mild prostatomegaly"`
+* **Rule Baseline Result:** **MISSED (False Negative)**
+  * *Why the rules failed:* The rule gazetteer was calibrated on reports that did not contain prostate findings. The static regex engine has no flexibility to recognize unlisted anatomical concepts.
+  * *How the LLM Extractor resolves this:* The LLM prompts are derived directly from the full clinical ontology (`resources/ontology.json`). Open-weight instruction models use semantic understanding to detect prostatomegaly without requiring handcrafted keyword lists.
+
+#### Case 3: Missed Synonym Negation (False Negative) — Complex Radiologic Phrasing
+* **Source Report (`US_SYNTH_051`):**
+  > *"Left Kidney: ... No calculus or back-pressure changes; pelvicalyceal system not dilated."*
+* **Ground Truth:**
+  `Organ: Kidneys | Finding: Hydronephrosis | Status: Negated | Evidence: "pelvicalyceal system not dilated"`
+* **Rule Baseline Result:** **MISSED (False Negative)**
+  * *Why the rules failed:* The rule baseline looked strictly for explicit words like "no hydronephrosis" or "no hydro". It failed to equate the radiologic description *"pelvicalyceal system not dilated"* with the absence of hydronephrosis.
+  * *How the LLM Extractor resolves this:* The LLM maps radiologic descriptions to ontology findings based on definition context in the prompt guidelines.
+
+#### Case 4: Deterministic Hallucination Defense (Verifier in Action)
+* When an open-weight LLM proposes a finding:
+  ```json
+  {"organ": "Gallbladder", "finding": "Calculus", "status": "Affirmed", "evidence": "Gallbladder contains tiny shadowing focus"}
+  ```
+  * **Grounding Gate:** The `FindingVerifier` searches the de-identified raw text for `"Gallbladder contains tiny shadowing focus"`.
+  * If the quoted evidence **does not exist verbatim** in the text (the model hallucinated or paraphrased):
+    ➔ **REJECTED** with reason `ungrounded_evidence` (tracked in the reliability audit).
+  * If the finding name is outside the clinical vocabulary:
+    ➔ **REJECTED** with reason `out_of_vocabulary`.
+  * **Outcome:** No hallucinated or ungrounded entity ever enters the database.
 
 ---
 

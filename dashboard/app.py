@@ -710,13 +710,16 @@ else:
 
         col_img1, col_img2 = st.columns(2)
         with col_img1:
-            if (ROOT / "page1.png").exists():
-                st.image(str(ROOT / "page1.png"), caption="Figure 1: Interactive Report Structurer with Evidence Highlighting", width="stretch")
-            if (ROOT / "page3.png").exists():
-                st.image(str(ROOT / "page3.png"), caption="Figure 3: Evaluation Suite with Stratified Metrics & Bootstrap CIs", width="stretch")
+            img_d5 = ROOT / "d5_annotated.png" if (ROOT / "d5_annotated.png").exists() else ROOT / "d5.png"
+            if img_d5.exists():
+                st.image(str(img_d5), caption="Figure 1: Interactive Report Structurer with Callouts & Code Badges", width="stretch")
+            img_p3 = ROOT / "page3_annotated.png" if (ROOT / "page3_annotated.png").exists() else ROOT / "page3.png"
+            if img_p3.exists():
+                st.image(str(img_p3), caption="Figure 3: Evaluation Suite with Stratified Metrics & Bootstrap CIs", width="stretch")
         with col_img2:
-            if (ROOT / "d5.png").exists():
-                st.image(str(ROOT / "d5.png"), caption="Figure 2: Structured Findings Table with RadLex, ICD-10 & Triage Badges", width="stretch")
-            if (ROOT / "page2.png").exists():
-                st.image(str(ROOT / "page2.png"), caption="Figure 4: Workforce Population Health Analytics with Wilson CIs", width="stretch")
+            img_p2 = ROOT / "page2_annotated.png" if (ROOT / "page2_annotated.png").exists() else ROOT / "page2.png"
+            if img_p2.exists():
+                st.image(str(img_p2), caption="Figure 2: Workforce Population Health Analytics with Wilson CIs", width="stretch")
+            if (ROOT / "page1.png").exists():
+                st.image(str(ROOT / "page1.png"), caption="Figure 4: Raw De-identified Report with Evidence Highlighting", width="stretch")
 
