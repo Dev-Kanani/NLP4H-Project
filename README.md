@@ -65,6 +65,9 @@ report.txt ──► PHIScanner (de-identify) ──► AnatomicalSectionizer (d
 
 ## 2. Interactive Streamlit Dashboard
 
+> [!IMPORTANT]
+> **Baseline Run Visualizations:** All screenshots, dashboard views, and metrics displayed in the figures below are generated directly from the evaluated **Rule-Based Baseline** run. The LLM extraction architecture and deterministic verification layer are fully implemented and verified in the codebase, while the visual figures below demonstrate the working rule baseline outputs, population analytics, and benchmark evaluation suite.
+
 Launch the interactive clinical interface:
 
 ```bash
@@ -73,16 +76,16 @@ streamlit run dashboard/app.py
 
 The dashboard includes 4 operational views:
 
-### Figure 1: Interactive Report Structurer & Coded Findings Table
-*Annotated view of report structuring: (1) Assistive Follow-Up Triage banner, (2) Verbatim source evidence highlighting in red, (3) Anatomical organ sectionizer, (4) True positive Steatosis with RadLex (`RID39103`) and ICD-10-CM (`K76.0`) codes, and (5) ConText negation assertion.*
+### Figure 1: Interactive Report Structurer & Coded Findings Table (Rule Baseline)
+*Annotated view of report structuring under the rule baseline: (1) Assistive Follow-Up Triage banner, (2) Verbatim source evidence highlighting in red, (3) Anatomical organ sectionizer, (4) True positive Steatosis with RadLex (`RID39103`) and ICD-10-CM (`K76.0`) codes, and (5) ConText negation assertion.*
 ![Figure 1: Interactive Report Structurer with Callouts](d5_annotated.png)
 
-### Figure 2: Workforce Population Health Analytics
-*Epidemiological cohort dashboard with callouts: (1) Dynamic demographic slicers, (2) Population disease KPIs, (3) Prevalence with 95% Wilson confidence intervals, and (4) Actionable follow-up triage distribution.*
+### Figure 2: Workforce Population Health Analytics (Rule Baseline)
+*Epidemiological cohort dashboard generated from the rule baseline extractions: (1) Dynamic demographic slicers, (2) Population disease KPIs, (3) Prevalence with 95% Wilson confidence intervals, and (4) Actionable follow-up triage distribution.*
 ![Figure 2: Workforce Population Health Analytics with Callouts](page2_annotated.png)
 
-### Figure 3: Evaluation Benchmark Suite
-*Benchmark performance dashboard: (1) Primary Micro P/R/F1 with 1,000 cluster-bootstrap resamples, (2) Concept vs Strict surface matching, and (3) Style-stratified robustness across Structured, Telegraphic, and Unstructured formats.*
+### Figure 3: Evaluation Benchmark Suite (Rule Baseline)
+*Benchmark performance dashboard displaying the rule baseline evaluation: (1) Primary Micro P/R/F1 with 1,000 cluster-bootstrap resamples, (2) Concept vs Strict surface matching, and (3) Style-stratified robustness across Structured, Telegraphic, and Unstructured formats.*
 ![Figure 3: Evaluation Suite with Callouts](page3_annotated.png)
 
 ---
