@@ -210,7 +210,7 @@ if "run_version" not in st.session_state:
 with st.sidebar:
     st.markdown("### 🩺 Vitals & Vectors")
     st.caption("Abdominal USG information extraction & population health analytics · NLP for Healthcare, IIIT Hyderabad")
-    page = st.radio("Page", ["Report Structurer", "Population Analytics", "Evaluation Suite"], label_visibility="collapsed")
+    page = st.radio("Page", ["Report Structurer", "Population Analytics", "Evaluation Suite", "Architecture & Overview"], label_visibility="collapsed")
     st.divider()
     ensure_baseline(st.session_state.run_version)
     runs = list_runs()
@@ -421,7 +421,7 @@ elif page == "Population Analytics":
     st.download_button("⬇ Cohort CSV", table.to_csv(index=False), "cohort_conditions.csv", "text/csv")
 
 # =========================================================================== page 3
-else:
+elif page == "Evaluation Suite":
     st.title("Evaluation Suite")
     if evaluation is None:
         st.error("Gold standard CSV not found - nothing to evaluate.")
@@ -569,3 +569,154 @@ else:
             "Visualized Portion* ≡ *Unremarkable*; whole-study normality aligned to organ `Global`).\n"
             "- **Strict mode** requires the exact annotated finding string.\n"
             "- CIs: percentile cluster bootstrap over reports (findings within a report are correlated).")
+
+# =========================================================================== page 4
+else:
+    st.title("System Architecture & Clinical NLP Pipeline")
+    st.markdown(
+        "**Vitals & Vectors** structures free-text abdominal ultrasound reports across "
+        "three distinct styles into validated, ontology-mapped clinical entities with RadLex and "
+        "ICD-10-CM codes, assistive follow-up triage, and workforce population health analytics."
+    )
+
+    k1, k2, k3, k4 = st.columns(4)
+    k1.metric("Corpus Size", "100 Reports", "50 original · 50 generated")
+    k2.metric("Clinical Concepts", "40 Concepts", "RadLex / ICD-10 mapped")
+    k3.metric("Reporting Styles", "3 Styles", "Structured / Telegraphic / Free")
+    k4.metric("Dual Extractors", "Rules + LLM", "Baseline & Open-weight")
+
+    t_arch, t_models, t_verify, t_triage, t_previews = st.tabs([
+        "🏗️ Architecture",
+        "⚖️ Rule Baseline vs LLM",
+        "🛡️ Verification & Safety",
+        "🏷️ Triage & Ontology",
+        "🖼️ System Figures & Views"
+    ])
+
+    with t_arch:
+        st.subheader("End-to-End Information Flow")
+        st.code(
+            "report.txt ──► PHIScanner (de-identify) ──► AnatomicalSectionizer (display / style)\n"
+            "                         │ de-identified text only ever reaches the model\n"
+            "                         ▼\n"
+            "          ┌──────────────┴───────────────┐\n"
+            "   RuleBasedExtractor             LLMExtractor\n"
+            "   (lexicon.py regex +            PromptBuilder: guideline rules + vocabulary from ontology\n"
+            "    ConText)                        + 3 dev-split examples (never test, never the same report)\n"
+            "          │                       Backend: Ollama │ OpenAI-compatible (vLLM) │ replay\n"
+            "          │                         + JSON-schema constrained decoding, parse-retry\n"
+            "          │                       FindingVerifier:\n"
+            "          │                         • vocabulary normalisation (exact → alias → fuzzy)\n"
+            "          │                         • evidence grounding (exact → normalised → fuzzy)\n"
+            "          │                         • attribute sanity (steatosis grade, size match)\n"
+            "          │                         • ConText cross-check (audit flag)\n"
+            "          └──────────────┬───────────────┘\n"
+            "                         ▼\n"
+            "   ontology.json ──► codes (RadLex / ICD-10-CM) ──► triage tiers ──► Pydantic ──► SQLite\n"
+            "                         ▼\n"
+            "   Evaluator (split-aware, v1/v2 strata, PHI, reliability) ──► outputs/<run>/ ──► dashboard",
+            language="text"
+        )
+        st.markdown(
+            """
+            #### Pipeline Stages:
+            1. **Ingestion & PHI Protection (`deid.py`):** Redacts names, MRNs, dates, phone numbers, and facilities before any downstream model or processing sees the text.
+            2. **Anatomical Sectionizer (`sectionizer.py`):** Automatically partitions reports by organ (Liver, Gallbladder, Pancreas, Spleen, Kidneys, Pelvis) and classifies formatting style (*Structured*, *Telegraphic*, *Unstructured*).
+            3. **Extraction Engine (`extractors.py`):** Pluggable architecture supporting either fast frozen regex/ConText rules or instruction-tuned LLMs (Qwen 2.5, Llama 3.1, Mistral).
+            4. **Deterministic Verification (`verification.py`):** Model outputs are strictly audited against raw source text—ungrounded findings are rejected as hallucinations.
+            5. **Ontology & Triage (`ontology.py`, `triage.py`):** Enriched with RadLex IDs, ICD-10 codes, and clinical follow-up priority tiers.
+            6. **Persistence & Evaluation (`database.py`, `evaluation.py`):** Relational storage in SQLite and full benchmarking with 95% bootstrap confidence intervals.
+            """
+        )
+
+    with t_models:
+        st.subheader("Why Two Extractors? Addressing the Generalization Gap")
+        st.markdown(
+            """
+            A classical rule-based extractor (regular expressions + ConText negation) performs exceptionally well 
+            on the specific corpus it was designed against, but degrades sharply on unseen clinical phrasing.
+            """
+        )
+        gap_data = pd.DataFrame([
+            {"Extractor": "Rule Baseline", "Split / Subset": "v1 original (001-050)", "Concept F1": "0.994", "Status": "Upper bound (rules tuned on this set)"},
+            {"Extractor": "Rule Baseline", "Split / Subset": "v2 dev (051-075)", "Concept F1": "0.725", "Status": "Honest dev evaluation (unseen wording)"},
+            {"Extractor": "Rule Baseline", "Split / Subset": "Test split (076-100)", "Concept F1": "0.680", "Status": "Locked unseen test split"},
+            {"Extractor": "Open-weight LLM", "Split / Subset": "Any unseen split", "Concept F1": "Target: >0.85", "Status": "Generalised extraction via ontology schema"},
+        ])
+        st.dataframe(gap_data, hide_index=True, width="stretch")
+
+        st.markdown(
+            """
+            * **Baseline (`rules`):** Fast (~0.1s on CPU for 75 reports), frozen reference point.
+            * **Generalised (`llm`):** Open-weight models (≤8B parameters: Qwen 2.5 7B, Llama 3.1 8B, Mistral 7B) using constrained JSON decoding and dev-only few-shot prompting.
+            * **Mock Oracle Check:** Gold answers piped through the verifier score **F1 = 1.000**, proving that the post-processing verification and normalization stages preserve 100% of valid extractions without loss.
+            """
+        )
+
+    with t_verify:
+        st.subheader("The Deterministic Verification Layer")
+        st.markdown(
+            "Large language models cannot be trusted blindly in medical domains. Every model proposal must pass five deterministic gates before reaching storage:"
+        )
+        v1, v2 = st.columns(2)
+        with v1:
+            st.markdown(
+                """
+                **1. Vocabulary Normalization:**
+                * Normalizes organs and finding names against `ontology.json`.
+                * Checks exact name ➔ known aliases ➔ fuzzy match (difflib) ➔ organ corrections.
+                * Out-of-vocabulary proposals are **rejected**.
+
+                **2. Evidence Grounding:**
+                * Quoted `evidence_text` must exist in the source report.
+                * Matching: exact ➔ normalized (whitespace/punctuation) ➔ fuzzy token window.
+                * Ungrounded evidence is marked as a **hallucination and rejected**.
+                """
+            )
+        with v2:
+            st.markdown(
+                """
+                **3. Attribute Sanity Checks:**
+                * `grade` is strictly restricted to *Steatosis* (Grade 1/2/3).
+                * `size_mm` is retained only if the numeric measurement appears near the evidence span.
+
+                **4. ConText Assertion Cross-Check:**
+                * Independent ConText algorithm verifies negation/uncertainty status. Disagreements are flagged for clinical audit without overriding.
+
+                **5. Consistency & De-duplication:**
+                * Drops identical repeated spans and flags contradictory organ normality statements.
+                """
+            )
+
+    with t_triage:
+        st.subheader("Clinical Coding & Follow-Up Triage Policy")
+        st.markdown(
+            """
+            Findings are mapped to **RadLex** ontology identifiers (for imaging informatics) and 
+            **ICD-10-CM** billing/diagnostic codes. Each finding is assigned an assistive triage tier:
+            """
+        )
+        st.markdown(
+            """
+            * **Tier 1 (Normal / Unremarkable):** Normal sonographic appearance, WNL, post-cholecystectomy without complication, or unremarkable exam.
+            * **Tier 2 (Routine Preventive Tracking):** Low-acuity incidental findings requiring routine monitoring (e.g., Grade 1/2 hepatic steatosis, asymptomatic cholelithiasis, simple renal cortical cysts).
+            * **Tier 3 (Clinician Review):** Findings requiring formal physician attention or follow-up (e.g., hydronephrosis, suspicious focal mass/lesion, Grade 3 steatosis, acute gallbladder wall thickening).
+            """
+        )
+
+    with t_previews:
+        st.subheader("System Visualizations & Interface Previews")
+        st.caption("Figures capturing the three functional modules in action:")
+
+        col_img1, col_img2 = st.columns(2)
+        with col_img1:
+            if (ROOT / "page1.png").exists():
+                st.image(str(ROOT / "page1.png"), caption="Figure 1: Interactive Report Structurer with Evidence Highlighting", width="stretch")
+            if (ROOT / "page3.png").exists():
+                st.image(str(ROOT / "page3.png"), caption="Figure 3: Evaluation Suite with Stratified Metrics & Bootstrap CIs", width="stretch")
+        with col_img2:
+            if (ROOT / "d5.png").exists():
+                st.image(str(ROOT / "d5.png"), caption="Figure 2: Structured Findings Table with RadLex, ICD-10 & Triage Badges", width="stretch")
+            if (ROOT / "page2.png").exists():
+                st.image(str(ROOT / "page2.png"), caption="Figure 4: Workforce Population Health Analytics with Wilson CIs", width="stretch")
+

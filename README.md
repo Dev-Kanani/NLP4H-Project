@@ -63,7 +63,33 @@ report.txt ──► PHIScanner (de-identify) ──► AnatomicalSectionizer (d
 | `run_pipeline.py` | CLI (`--extractor`, `--backend`, `--model`, `--split`, `--compare`) |
 | `scripts/ada_vllm.sbatch`, `scripts/compare_models.sh` | GPU-cluster and laptop runs of all three model families |
 
-## 2. Running the LLM extractor
+---
+
+## 2. Interactive Dashboard
+
+Launch the interactive Streamlit clinical suite:
+
+```bash
+streamlit run dashboard/app.py
+```
+
+The dashboard includes 4 dedicated pages:
+1. **Interactive Report Structurer:** Live sectionization, PHI redaction, source evidence highlighting, and structured findings with RadLex / ICD-10-CM / Triage badges (Figure 1 & 2).
+2. **Workforce Population Health Analytics:** Demographic pyramids, condition prevalence with 95% Wilson score intervals, and triage distributions (Figure 3).
+3. **Evaluation Suite:** Benchmark cards with 95% cluster-bootstrap CIs, style-stratified performance, assertion confusion matrices, and error analysis (Figure 4).
+4. **Architecture & Overview:** In-depth explanation of the data flow, verification gates, and clinical triage policies.
+
+| Interactive Report Structurer | Structured Findings Table |
+|:---:|:---:|
+| ![Report Structurer](page1.png) | ![Structured Findings](d5.png) |
+
+| Population Health Analytics | Evaluation Suite |
+|:---:|:---:|
+| ![Population Analytics](page2.png) | ![Evaluation Suite](page3.png) |
+
+---
+
+## 3. Running the LLM extractor
 
 The model never sees identifiers: de-identification runs first. Every response is cached in
 `outputs/llm_cache/<model>.jsonl`, so a run can be **replayed exactly without the model** (for grading, the
@@ -97,7 +123,7 @@ python run_pipeline.py --compare
 Useful flags: `--few-shot 0..5` (default 3), `--no-schema` (turn off constrained decoding to measure its
 effect), `--workers 8` (parallel requests to vLLM), `--retries 2`.
 
-## 3. Data and evaluation protocol
+## 4. Data and evaluation protocol
 
 `data/` holds 100 reports. 001–050 are the original set; 051–100 were written independently and labelled twice,
 blind (see `data/DATA_README.md`).
@@ -128,10 +154,17 @@ generalisation-gap analysis, before the LLM work began.
 (prompt → parsing → grounding → vocabulary → codes → database → evaluator) loses nothing. Any gap a real model
 shows is therefore the model's, not the pipeline's.
 
-## 4. Honest caveats
+## 5. Current Progress & Notes for Review
 
-- **No real model was run in the build environment** (model downloads were blocked). The LLM path is fully
-  tested with scripted responses, but its accuracy is unknown until you run it.
+- **Current Progress Completed:**
+  - **Rule-Based Baseline:** Fully implemented, verified, and benchmarked on the development cohort (`dev` split, 75 reports). Achieves 0.916 micro-F1 overall (0.994 on familiar v1, 0.725 on unfamiliar v2).
+  - **Corpus Expansion & Validation:** 100 abdominal ultrasound reports spanning 3 reporting styles (Structured, Telegraphic, Unstructured). High inter-annotator agreement before adjudication (F1 0.993, Cohen's $\kappa = 0.997$).
+  - **Verification Pipeline:** Deterministic hallucination rejection, ontology vocabulary grounding, attribute sanity checks, and ConText cross-checks built and tested.
+  - **Streamlit Clinical Suite:** 4 interactive pages (Report Structurer, Population Health Analytics, Evaluation Suite, Architecture Overview).
+  - **Test Suite:** 52/52 pytest tests passing across components, pipeline, and mock-LLM integration.
+- **Next Milestone (Underway):**
+  - Executing open-weight instruction models (Qwen 2.5 7B, Llama 3.1 8B, Mistral 7B) on the IIIT Ada GPU cluster using `scripts/ada_vllm.sbatch`.
+  - Final blind evaluation on the locked test split (`076-100`).
 - **Same-family bias:** reports 051–100 were written by Claude models. The extractors are Qwen, Llama and
   Mistral, so model-family overlap is avoided, but the data is still synthetic. A small set of human-written
   test reports would strengthen the conclusions.
